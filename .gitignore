@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.cache/
+build/
+dist/
+pip-wheel-metadata/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Editors/OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs / temp
+*.log
+tmp/
+.temp/
+*.tmp
+
