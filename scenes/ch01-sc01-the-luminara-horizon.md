@@ -35,7 +35,7 @@ est_tokens: 5492
       The observation deck began to empty as the sun disappeared, tourists heading to dinner or evening entertainments. Amara stayed, watching darkness creep across the city she'd helped build. One by one, Luminara's lights came on: bioluminescent pathway markers, photovoltaic streetlamps, the soft glow of algae-powered windows. A perfect system, self-sustaining, beautiful.
       But in Sector 7, some of those lights were flickering in ways they shouldn't.
       Her tablet chimed again. Ravi's message was marked urgent now. Amara took one last look at the darkening horizon, then turned toward the elevator. She had work to do.
-The sun might be setting, but her day was far from over.
+      The sun might be setting, but her day was far from over.
       The Grid Control Center hummed with artificial life. Holographic displays floated at each workstation, their blue glow reflecting off the living walls where engineered moss monitored air quality. Amara's footsteps were silent on the recycled polymer floor as she made her way past empty desks. Night shift was always quiet, the skeleton crew focused on their screens.
       "Finally," Ravi called from his station, not looking up from his display. "I was about to send a drone after you."
       "I came as soon as I," Amara stopped short. Ravi's workstation was surrounded by unauthorized displays, each showing a different view of Sector 7's systems. "What is all this?"
@@ -126,7 +126,6 @@ The sun might be setting, but her day was far from over.
       Someone hadn't just reactivated the old system. They were using it as a template, a blueprint for something bigger. Each power fluctuation was a test, a probe, learning how Luminara's living systems responded to stress. Once they understood those responses, they could control them. Replace them. Standardize them.
       Her tablet chimed with an encrypted message. For a moment, she thought it might be Veltri, but the signature was unfamiliar:
       The Wasteland sees what Luminara ignores. We've been watching the same patterns. Meet tomorrow at dawn, east sector boundary. Bring what you've found.
-- Verdant Network
       Amara caught her reflection in the window, tired eyes, tangled curls, the weight of discovery visible in her shoulders. Beyond her image, the city was waking. Solar arrays stirred, tracking the first hints of dawn. Wind turbines adjusted their angles, preparing for the morning breeze. A living city, still breathing, still growing, despite everything happening beneath its shining surface.
       Her comm unit lit up with a priority message from the council. Tomorrow's agenda: Vote on Solace Industries' integration proposal. Full attendance required. The message might as well have been a countdown timer. Once Solace's integration began, there would be no way to untangle their protocols from the city's neural networks. What they started in Sector 7 would spread everywhere, replacing every organic adaptation, every community connection, with corporate-controlled efficiency.
       She thought of Veltri's words about progress and necessity, of Kevin's demonstration of community power, of Nia's flowers glowing with stolen energy. The city she'd helped build was balanced on a knife's edge, and she had to choose which way it would fall.

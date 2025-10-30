@@ -37,6 +37,3 @@ est_tokens: 1045
       But they were already learning to grow through difficulty together, their differences becoming strength precisely because they required real work to integrate.
       And somewhere in the spaces between celebration and struggle, between what was and what could be, their transformed world prepared to become something greater than simple harmony.
       Real integration was about to begin.
-      
-
-

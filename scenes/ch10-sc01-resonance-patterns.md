@@ -35,6 +35,3 @@ est_tokens: 936
       First they had to learn to embrace paradox as a form of truth.
       Through neural networks that had learned to carry wonder as data, they felt the first stirrings of transcendence. Dawn would reveal what waited beyond the edges of the possible.
       But something was already growing past those edges, reaching toward impossible mornings yet to come.
-      
-
-

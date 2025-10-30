@@ -119,5 +119,3 @@ est_tokens: 5875
       It had only begun to teach them how wild their garden could become.
       The real transformation was still taking root.
       And dawn would show them where it might lead.
-
-

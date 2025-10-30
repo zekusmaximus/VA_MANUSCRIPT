@@ -199,5 +199,3 @@ est_tokens: 7380
       She touched the fabric one last time, feeling its stored knowledge pulse in harmony with her own determination. Tomorrow would test everything, their technology, their courage, their faith in the power of uncontrolled growth. Tomorrow she would face her mentor across the council chamber, armed with evidence of a different kind of progress.
       Tomorrow would decide whether the future would be optimized or allowed to evolve.
       The choice, finally, was clear.
-
-

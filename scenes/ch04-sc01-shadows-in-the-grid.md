@@ -37,7 +37,7 @@ est_tokens: 6955
       "Ravi and I too," Nia added, her botanical interfaces already adapting to stealth configurations. "You'll need both technical and biological expertise if those systems are as alive as they seem."
       Outside, corporate drones cast lengthening shadows as they moved into attack position. But through the Network's interfaces, Amara felt something else growing   communities connecting in new ways, living systems evolving faster than corporate forces could map them, hope spreading through hidden channels like sunrise through leaves.
       "Dawn patrol starts in four hours," Jin warned. "If you're going, it has to be now."
-Kevin met Amara's eyes across the command center. "Ready to revisit your old work, Engineer Solis?"
+      Kevin met Amara's eyes across the command center. "Ready to revisit your old work, Engineer Solis?"
       She thought of Dr. Veltri in her corporate lab, using their shared knowledge to impose control on living systems. Thought of the communities fighting to maintain their independence, their right to grow and adapt on their own terms.
       "Ready to see what it's become," she corrected.
       The Network's living walls pulsed with morning light as they gathered their gear. Above them, corporate drones continued their precise patterns, searching for systems they could map and control. But below, in shadows and hidden places, in communities and forgotten reactors, something else was growing.
@@ -198,5 +198,3 @@ Kevin met Amara's eyes across the command center. "Ready to revisit your old wor
       The sun set over Luminara, but in the darkness, countless small lights pulsed with shared purpose. Each one a garden, a home, a community refusing to be optimized into uniformity. Not just resisting.
       Growing.
       And tomorrow, they would show the council exactly what that meant.
-
-

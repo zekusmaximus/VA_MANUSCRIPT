@@ -124,6 +124,3 @@ est_tokens: 6833
       Morning approached like revelation through merged traditions.
       Their next evolution waited just beyond the threshold.
       Dawn would show them what it meant to become truly infinite together.
-
-
-       
