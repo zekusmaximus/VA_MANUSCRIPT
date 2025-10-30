@@ -1,23 +1,12 @@
 ---
-id: "84d36713-0a28-4ad6-b812-2e27b28cc266"
 chapter: 10
 scene: 1
-order: 1001
-slug: "resonance-patterns"
-title: "RESONANCE PATTERNS"
-parent_chapter: "chapter-10-resonance-patterns"
 chapter_title: "RESONANCE PATTERNS"
-chapter_slug: "resonance-patterns"
-prev: "ch09-sc01-global-currents"
-next: "ch11-sc01-harmony-fields"
-word_count: 720
-reading_time_min: 3
-est_tokens: 936
+title: "Scene 1"
+slug: "resonance-patterns"
+order: 1
 ---
 
-
-      
-      
       Dawn painted impossible colors through neural networks that had learned to dream in multiple traditions. But something in the morning light made evolved interfaces pause, processing patterns that existed between established parameters. Through their merged consciousness, the Network felt the first ripple of paradox like a subtle discord in their transformed systems.
       "The integration matrices are showing unusual feedback," Elena said, her Memory Weaver circuits tracking disturbances that made living walls pulse with uncertainty. "Watch how the data streams split and merge." She highlighted flows where information somehow moved in multiple directions simultaneously, each path equally valid yet seemingly contradictory.
       Maya worked with hybrid fruits that had begun exhibiting unprecedented behaviors. "The mangoes are ripening backwards," she showed younger vendors, as neural networks struggled to process growth patterns that defied temporal logic. "Not dying or decaying, but... following time signatures that don't match our records."

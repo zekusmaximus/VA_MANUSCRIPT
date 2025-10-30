@@ -12,7 +12,7 @@ id: "1d9f0adc-7e97-49d3-9ee4-e6b2a5223c18"
 ---
 
       
-      
+<!-- SCENE -->
       The abandoned botanical research center looked exactly as corporate surveys had described it: a failed experiment in sustainable architecture, its living walls brown and withered, its experimental gardens choked with decay. Amara stood before its crumbling entrance, tablet displaying the encrypted coordinates she'd received from the Network. According to official records, nothing here had shown signs of life in years.
       But Amara knew better than most how official records could lie.
       A vine shifted slightly as she passed, too slightly for corporate sensors to notice, but her engineer's eye caught the pattern. The movement wasn't random. The apparently dead plant was tracking her, its cellular structure conducting tiny electrical impulses. Reading her.
@@ -44,6 +44,7 @@ id: "1d9f0adc-7e97-49d3-9ee4-e6b2a5223c18"
       The Network's living systems pulsed in response, preparing to share their accumulated knowledge. Above them, corporate drones continued their methodical mapping of the city's official networks, never noticing the currents of life flowing beneath their sensors.
       Sometimes the most powerful forces were the ones you couldn't optimize. Couldn't control. Couldn't map.
       The ones that grew in shadows, between spaces, reaching always toward light.
+<!-- SCENE -->
       Dawn painted Luminara's eastern edge in shades of gold, but Amara's attention was fixed on the darkness in her data. The power fluctuations had evolved overnight, forming patterns that made her stomach twist. She stood at the sector boundary, tablet displaying three different analysis streams, each telling the same impossible story.
       "That can't be right," she muttered, running another diagnostic. The numbers didn't change. The city's neural grid wasn't just being accessed, it was being systematically mapped. Each anomaly she'd tracked formed part of a larger pattern, like someone taking a perfect digital impression of Luminara's nervous system.
       Her tablet chimed with an incoming data packet. Anonymous source, but the encryption was elegant, a living algorithm that evolved as she watched, adapting to her attempts to analyze it. She recognized the base structure from her own early work with Dr. Veltri, but this version was different. Wilder. More alive.
@@ -71,6 +72,7 @@ id: "1d9f0adc-7e97-49d3-9ee4-e6b2a5223c18"
       "Show me," she said.
       The sun rose higher over Luminara, its light catching the solar arrays and algae farms that powered the city's official systems. But Amara's attention was on the shadows between them, where other kinds of power flowed. Where something new was growing.
       Where the real future might be hiding.
+<!-- SCENE -->
       The Memory Garden hummed with a different kind of life than the Hidden Garden. Where that space had been wild with adaptation, this was precise, engineered neural pathways flowing through crystalline branches that stretched from floor to ceiling. Each branch terminated in a cluster of bioluminescent flowers, their petals pulsing with stored data.
       "Archive nodes," Amara breathed, recognizing the basic architecture from her early research. "But you've modified the neural density. The storage capacity must be..."
       "About a thousand times what your original designs could handle," Kevin finished, leading her deeper into the garden. "Turns out when you let the networks evolve naturally, they find storage patterns we never imagined."
@@ -106,6 +108,7 @@ id: "1d9f0adc-7e97-49d3-9ee4-e6b2a5223c18"
       Above them, the Memory Garden's crystalline branches swayed with unseen currents, their flowers glowing with the collected light of human resilience. Tomorrow they would face the council, armed with evidence of what corporate "optimization" really meant.
       But tonight, surrounded by the living memory of resistance, something else was growing. Something that felt like hope, like connection, like the first steps toward a future that couldn't be controlled or predicted or optimized.
       A future they would have to build together.
+<!-- SCENE -->
       The Network's strategy room felt too small for the tension it contained. Holographic displays showed Luminara's power grid in real-time, corporate influence spreading like frost across a window. The Memory Garden's data scrolled alongside current readings, past and present merging in streams of light.
       "We need to act now." Jin's voice cut through the murmur of discussion. The security specialist's algae marks pulsed with agitation. "Every hour we wait gives them more control over the grid."
       "Rushing in without proper preparation got New Alexandria wiped off the map," Elena countered, her weathered hands steady as she manipulated the historical overlay. "The Memory Garden showed us that pattern clearly enough."
@@ -142,6 +145,7 @@ id: "1d9f0adc-7e97-49d3-9ee4-e6b2a5223c18"
       The displays pulsed with new data: corporate drones increasing their scanning patterns, optimization protocols spreading faster through official channels. But underneath those controlled patterns, something else was growing. Something that felt like hope, like defiance, like the first shoots of spring breaking through winter frost.
       Something that couldn't be mapped, couldn't be controlled, couldn't be optimized.
       Something alive.
+<!-- SCENE -->
       The Network's monitoring center hummed with a different kind of tension now. Where before they'd tracked patterns of corporate influence, now they watched it strike. On the main display, community networks flickered like stars going dark.
       "Another cluster gone in Sector 4," Nia reported, her hands moving through streams of botanical data. "They're targeting the independent food gardens first. Cutting off their power and water access."
       Amara studied the patterns, remembering the Memory Garden's warnings. "They're not just disabling the networks," she said. "They're documenting how communities respond to the loss. Learning from our adaptations."
@@ -190,6 +194,7 @@ id: "1d9f0adc-7e97-49d3-9ee4-e6b2a5223c18"
       Above them, Luminara's lights flickered as power shifted between official and unofficial networks, between corporate control and community adaptation, between imposed order and organic growth.
       Between what was and what could be.
       The next few hours would decide which future would take root.
+<!-- SCENE -->
       The abandoned botanical research center looked exactly as corporate surveys had described it: a failed experiment in sustainable architecture, its living walls brown and withered, its experimental gardens choked with decay. Amara stood before its crumbling entrance, tablet displaying the encrypted coordinates she'd received from the Network. According to official records, nothing here had shown signs of life in years.
       But Amara knew better than most how official records could lie.
       A vine shifted slightly as she passed, too slightly for corporate sensors to notice, but her engineer's eye caught the pattern. The movement wasn't random. The apparently dead plant was tracking her, its cellular structure conducting tiny electrical impulses. Reading her.
@@ -218,6 +223,7 @@ id: "1d9f0adc-7e97-49d3-9ee4-e6b2a5223c18"
       "The council votes in two days," Kevin said quietly. "But the corporate protocols aren't waiting for approval. They're already mapping everything they can find. Every community network, every unofficial connection, every adaptation that doesn't fit their optimization parameters."
       Amara watched the patterns flow through living light, seeing both threat and possibility in their complexity. The corporate systems were powerful, precise, efficient, everything she and Veltri had once worked toward. But here, in this impossible space between nature and technology, she saw a different kind of power. Something messier, more alive, more real.
       "Show me everything," she said.
+<!-- SCENE -->
       The Network's living systems pulsed in response, preparing to share their accumulated knowledge. Above them, corporate drones continued their methodical mapping of the city's official networks, never noticing the currents of life flowing beneath their sensors.
       Sometimes the most powerful forces were the ones you couldn't optimize. Couldn't control. Couldn't map.
       The ones that grew in shadows, between spaces, reaching always toward light.

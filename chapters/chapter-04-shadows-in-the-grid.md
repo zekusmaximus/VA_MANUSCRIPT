@@ -12,7 +12,7 @@ id: "5744c74b-0f64-491c-aa5d-648c85ce31ad"
 ---
 
 
-
+<!-- SCENE -->
       Dawn came to Luminara in waves of light and data. The sun's first rays caught the city's solar arrays, creating a cascade of power signatures that rippled through Amara's monitoring feeds. But other lights moved against the natural flow   corporate drones, their precise formations casting geometric shadows across the awakening city.
       "Three more communities went dark overnight," Jin reported from his security station. The Network's living walls pulsed with shared tension as his displays mapped the spreading corporate influence in shades of red. "Dr. Veltri's new protocols are moving faster than predicted."
       "Not just faster," Amara said, watching patterns shift across her tablet. "Smarter." She recognized her mentor's elegant coding style in the drone formations   the same principles they'd once used to map neural networks, now turned to mapping resistance.
@@ -39,6 +39,7 @@ id: "5744c74b-0f64-491c-aa5d-648c85ce31ad"
       Something wild.
       Something free.
       Something worth fighting for.
+<!-- SCENE -->
       The sun rose higher over Luminara, and the day's real work began.
       Luminara looked different from the outside. Amara stood at the edge of Sector 7's boundary, where the city's floating platforms gave way to open air, and tried to reconcile the two versions of her home. From within, it was a triumph of sustainable engineering. From here, she could see the shadows it cast.
       "Beautiful, isn't it?" Kevin's voice carried an edge she hadn't heard during the Network meeting. "The way it floats above everything it left behind."
@@ -124,6 +125,7 @@ id: "5744c74b-0f64-491c-aa5d-648c85ce31ad"
       A drone burst through a maintenance hatch, but the tunnel's living systems were ready. Bioluminescent colonies pulsed in synchronized patterns, overwhelming its sensors with contradictory data. The drone's precise movements faltered, its algorithms unable to process the organic complexity surrounding it.
       "They're learning from failure," Amara warned, watching the other drones adjust their search patterns. "Getting better at reading biological systems."
       "So are we." Kevin touched a glowing colony, and Amara felt the reactor's neural networks surge with new vigor, generations of accumulated adaptation flowing through living circuits. "That's the difference between their kind of optimization and ours. They try to control. We grow."
+<!-- SCENE -->
       As they helped an injured Nia toward safety, Amara couldn't shake the feeling that this skirmish was just the beginning. The real war wasn't just for Luminara's power, but for the very nature of growth itself - corporate control versus natural evolution, imposed efficiency versus living adaptation.
       Through the reactor's broken windows, the sun was setting over Luminara. The city's lights were coming on, each one a testament to the marriage of technology and living systems that had made their utopia possible. But now Amara saw those lights differently - not just as power sources, but as countless small acts of resistance, communities finding ways to work with nature instead of controlling it.
       The reactor's neural networks pulsed around them, each colony adding its own variations to their shared defense, creating patterns too alive to map, too diverse to control, too beautiful to optimize away.
@@ -164,6 +166,7 @@ id: "5744c74b-0f64-491c-aa5d-648c85ce31ad"
       Around them, the medical bay's living walls pulsed with healing energy. Nia's injury was already responding to the biological interface, adapting and growing stronger. Like their resistance. Like their hope.
       The time for defense was over.
       Now they would grow.
+<!-- SCENE -->
       The Network's monitoring center hummed with a different kind of tension now. Amara watched community power signatures pulse across the displays like a living constellation, each light representing homes, gardens, lives. And one by one, they were going dark.
       "Food production grid offline in Sector 4," Nia reported from her healing bed, botanical interfaces flickering as she tracked the damage. "Three thousand hydroponics units, fifteen vertical farms. They're not just cutting power, they're rewriting the environmental control systems."
       "Show me," Amara said, but she already recognized the pattern in the code. Dr. Veltri's elegant optimization protocols were replacing community-evolved solutions with standardized corporate responses. Where gardens had once adapted to each microclimate, now uniform growing parameters were being imposed. Efficiency over evolution. Control over life.

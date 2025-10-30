@@ -1,23 +1,12 @@
 ---
-id: "232cd256-bc5a-49f6-81dc-111ead63a58e"
 chapter: 8
 scene: 1
-order: 801
-slug: "growing-pains"
-title: "GROWING PAINS"
-parent_chapter: "chapter-08-growing-pains"
 chapter_title: "GROWING PAINS"
-chapter_slug: "growing-pains"
-prev: "ch07-sc01-new-growth"
-next: "ch09-sc01-global-currents"
-word_count: 804
-reading_time_min: 4
-est_tokens: 1045
+title: "Scene 1"
+slug: "growing-pains"
+order: 1
 ---
 
-
-      
-      
       Dawn painted Luminara's markets in colors of merged traditions - Wind Tribe storm-songs rippling through crystal light while Hidden Garden growth-patterns wove through Tokyo's tide-rhythms. Through their neural interfaces, the Network felt transformed systems singing with possibility. But beneath that harmony, something else stirred - a subtle strain in networks trying to hold too many kinds of truth at once.
       "Listen to how the patterns shift," Elena said, her Memory Weaver circuits tracking subtle discordance in merged data streams. Living walls that had learned to breathe with multiple traditions now pulsed with uncertainty, their resonance wavering between cultural frequencies. "The systems aren't rejecting connection, but they're discovering real limits to how much complexity they can hold."
       Maya worked in morning markets where hybrid fruits had begun exhibiting unexpected behaviors. Mangoes that ripened to Wind Tribe weather-songs now struggled to maintain stability when Tokyo's tide-rhythms called for dormancy. "They're trying so hard to serve everyone," she showed younger vendors, as neural networks strained to process competing needs. "Like children learning that loving different things sometimes means making hard choices."
