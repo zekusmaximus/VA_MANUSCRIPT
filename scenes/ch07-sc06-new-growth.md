@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 7
 scene: 6
 chapter_title: "NEW GROWTH"
+chapter_slug: new-growth
 title: "Scene 6"
-slug: "new-growth"
+slug: ch07-sc06-new-growth
 order: 6
+prev: ch07-sc05-new-growth
+next: ch07-sc07-new-growth
+word_count: 859
+reading_time_min: 4
+est_tokens: 1117
+id: "e074904e-e87e-4e6c-9450-1ce1652f89f9"
 ---
 
-      Night fell differently in the transformed city. Living architecture that had learned to dream created spaces of impossible intimacy, where neural networks carried more than data, where walls breathed with shared memories, where even the air held moments of connection like precious gems.
+Night fell differently in the transformed city. Living architecture that had learned to dream created spaces of impossible intimacy, where neural networks carried more than data, where walls breathed with shared memories, where even the air held moments of connection like precious gems.
       In one such space, Amara and Kevin sat among blooming interfaces that translated their shared neural connection into patterns of light. "Remember when we thought technology had to choose between efficiency and life?" Kevin asked, watching their merged data streams create unexpected beauty in the displays around them.
       "Between control and growth," Amara agreed. Through their link, she felt his smile before she saw it. Their neural patterns had evolved beyond simple communication, creating something between poetry and dream. The room's living systems responded, weaving their shared memories into gentle harmonies of light and shadow.
       Elsewhere in the city, Dr. Veltri walked with Elena through gardens that had once been corporate testing grounds. "I spent my life trying to perfect nature," she said, touching a flower that adjusted its bloom to share her wonder. "I never realized perfection was already here, in every imperfect moment of growth."

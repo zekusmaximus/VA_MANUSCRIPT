@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 1
 scene: 1
 chapter_title: "THE LUMINARA HORIZON"
+chapter_slug: the-luminara-horizon
 title: "Scene 1"
-slug: "the-luminara-horizon"
+slug: ch01-sc01-the-luminara-horizon
 order: 1
+prev: null
+next: ch01-sc02-the-luminara-horizon
+word_count: 683
+reading_time_min: 3
+est_tokens: 888
+id: "d5c14b56-535e-4f25-a404-b403f626dd96"
 ---
 
-      The sun dipped toward the horizon, casting a golden glow over the floating city of Luminara, but Amara Solis couldn't shake the feeling that something was wrong with the light. From the observation deck of the Solspire, the city's tallest structure, she watched the evening rays scatter across thousands of solar arrays, creating a dazzling display that would have been beautiful if she hadn't known the numbers.
+The sun dipped toward the horizon, casting a golden glow over the floating city of Luminara, but Amara Solis couldn't shake the feeling that something was wrong with the light. From the observation deck of the Solspire, the city's tallest structure, she watched the evening rays scatter across thousands of solar arrays, creating a dazzling display that would have been beautiful if she hadn't known the numbers.
       Her tablet chimed softly, confirming her suspicions. Power output in Sector 7 fluctuated again, the graphs showing irregular spikes where there should have been smooth transitions. She traced the pattern with her finger, environmental engineering training kicking in automatically. "Three percent variance," she muttered. "No weather anomalies, no maintenance scheduled..."
       Around her, tourists and citizens filled the observation deck, taking photos of the sunset spectacle. A young couple posed against the railing, their clothes embedded with bioluminescent algae that pulsed in sync with their heartbeats, the latest fashion trend that Amara's old mentor, Dr. Veltri, had helped develop. The memory of Veltri's excitement about the technology brought a slight smile to Amara's face, quickly fading as another alert lit up her screen.
       "Ex-excuse me," a hesitant voice interrupted her thoughts. "Are you Amara Solis? The one who designed the heliotropic arrays?"

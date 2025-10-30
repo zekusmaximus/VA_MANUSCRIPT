@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 5
 scene: 6
 chapter_title: "FRACTURED ALLIANCES"
+chapter_slug: fractured-alliances
 title: "Scene 6"
-slug: "fractured-alliances"
+slug: ch05-sc06-fractured-alliances
 order: 6
+prev: ch05-sc05-fractured-alliances
+next: ch06-sc01-the-corporate-agenda
+word_count: 1643
+reading_time_min: 7
+est_tokens: 2136
+id: "3ae9872f-614f-4ae0-9360-1829f9dbf0d7"
 ---
 
-      The old lab felt smaller than she remembered. Twenty years of corporate refinement had stripped away the wild abundance of early experiments, leaving only efficient minimalism. But underneath the sterile surfaces, Amara's neural interface detected familiar rhythms, the first living networks she and Veltri had grown together, still pulsing with possibility.
+The old lab felt smaller than she remembered. Twenty years of corporate refinement had stripped away the wild abundance of early experiments, leaving only efficient minimalism. But underneath the sterile surfaces, Amara's neural interface detected familiar rhythms, the first living networks she and Veltri had grown together, still pulsing with possibility.
       "They're still beautiful, aren't they?" Veltri emerged from shadows that seemed to bend around her corporate augments. "Still growing, even after all our attempts to optimize them."
       "Why did you contact us?" Amara kept her voice steady, though the sight of her mentor sent conflicting data cascading through her neural feeds. "Your convergence protocols are already moving. In six hours..."
       "In six hours, the council vote won't matter anymore." Veltri's smile held something like regret. "But you've already figured that out, haven't you? Just like you've figured out what the corporate forces are really doing with my optimization protocols."

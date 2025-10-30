@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 4
 scene: 3
 chapter_title: "SHADOWS IN THE GRID"
+chapter_slug: shadows-in-the-grid
 title: "Scene 3"
-slug: "shadows-in-the-grid"
+slug: ch04-sc03-shadows-in-the-grid
 order: 3
+prev: ch04-sc02-shadows-in-the-grid
+next: ch04-sc04-shadows-in-the-grid
+word_count: 1114
+reading_time_min: 5
+est_tokens: 1448
+id: "670b5bef-621e-4b41-bb0a-5ef22be99b74"
 ---
 
-      As they helped an injured Nia toward safety, Amara couldn't shake the feeling that this skirmish was just the beginning. The real war wasn't just for Luminara's power, but for the very nature of growth itself - corporate control versus natural evolution, imposed efficiency versus living adaptation.
+As they helped an injured Nia toward safety, Amara couldn't shake the feeling that this skirmish was just the beginning. The real war wasn't just for Luminara's power, but for the very nature of growth itself - corporate control versus natural evolution, imposed efficiency versus living adaptation.
       Through the reactor's broken windows, the sun was setting over Luminara. The city's lights were coming on, each one a testament to the marriage of technology and living systems that had made their utopia possible. But now Amara saw those lights differently - not just as power sources, but as countless small acts of resistance, communities finding ways to work with nature instead of controlling it.
       The reactor's neural networks pulsed around them, each colony adding its own variations to their shared defense, creating patterns too alive to map, too diverse to control, too beautiful to optimize away.
       This was what real power looked like - not corporate efficiency, but living harmony. Not control, but growth.

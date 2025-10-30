@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 3
 scene: 2
 chapter_title: "THE VERDANT NETWORK"
+chapter_slug: the-verdant-network
 title: "Scene 2"
-slug: "the-verdant-network"
+slug: ch03-sc02-the-verdant-network
 order: 2
+prev: ch03-sc01-the-verdant-network
+next: ch03-sc03-the-verdant-network
+word_count: 779
+reading_time_min: 4
+est_tokens: 1013
+id: "0c916496-d943-4e55-8cd0-8e951ae049b7"
 ---
 
-      Dawn painted Luminara's eastern edge in shades of gold, but Amara's attention was fixed on the darkness in her data. The power fluctuations had evolved overnight, forming patterns that made her stomach twist. She stood at the sector boundary, tablet displaying three different analysis streams, each telling the same impossible story.
+Dawn painted Luminara's eastern edge in shades of gold, but Amara's attention was fixed on the darkness in her data. The power fluctuations had evolved overnight, forming patterns that made her stomach twist. She stood at the sector boundary, tablet displaying three different analysis streams, each telling the same impossible story.
       "That can't be right," she muttered, running another diagnostic. The numbers didn't change. The city's neural grid wasn't just being accessed, it was being systematically mapped. Each anomaly she'd tracked formed part of a larger pattern, like someone taking a perfect digital impression of Luminara's nervous system.
       Her tablet chimed with an incoming data packet. Anonymous source, but the encryption was elegant, a living algorithm that evolved as she watched, adapting to her attempts to analyze it. She recognized the base structure from her own early work with Dr. Veltri, but this version was different. Wilder. More alive.
       "Interesting choice," a voice said behind her. "Using the old neural pathways to trace the new ones."

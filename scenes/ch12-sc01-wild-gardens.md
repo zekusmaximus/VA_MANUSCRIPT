@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 12
 scene: 1
 chapter_title: "WILD GARDENS"
+chapter_slug: wild-gardens
 title: "Scene 1"
-slug: "wild-gardens"
+slug: ch12-sc01-wild-gardens
 order: 1
+prev: ch11-sc05-harmony-fields
+next: ch12-sc02-wild-gardens
+word_count: 1565
+reading_time_min: 7
+est_tokens: 2034
+id: "0dd744f6-f2a4-414a-a87f-35bcd4d5e41d"
 ---
 
-      Dawn painted Luminara's spires in colors that shouldn't have existed, hybrid shades born where bioluminescent algae merged with evolved solar arrays. Through her neural interface, Amara felt the city stirring not to scheduled routines but to countless small awakenings, each system finding its own rhythm in the growing light.
+Dawn painted Luminara's spires in colors that shouldn't have existed, hybrid shades born where bioluminescent algae merged with evolved solar arrays. Through her neural interface, Amara felt the city stirring not to scheduled routines but to countless small awakenings, each system finding its own rhythm in the growing light.
       The Hidden Garden's root networks processed morning data in mathematical patterns that transcended traditional binaries, creating harmonies of information that reminded her of music. Corporate interfaces that had once imposed rigid efficiency now celebrated endless variation, their displays blooming with unexpected beauty as communities began their days in uniquely adapted ways.
       "The transport pods are singing," Maya called from her monitoring station, where she tracked morning traffic flows that moved like schools of fish through crystal air. The young botanist's neural patterns sparked with joy as she showed Amara how public transit had evolved beyond simple optimization. "Look, they're not just carrying people anymore. They're carrying stories."
       She was right. Each pod's surface rippled with living information, sharing not just destinations but dreams, Wind Tribe atmospheric songs, Memory Weaver archive patterns, Hidden Garden growth ceremonies all flowing together through evolved corporate networks. Transportation had become a form of cultural exchange, movement itself a celebration of diversity.

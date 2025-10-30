@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 5
 scene: 5
 chapter_title: "FRACTURED ALLIANCES"
+chapter_slug: fractured-alliances
 title: "Scene 5"
-slug: "fractured-alliances"
+slug: ch05-sc05-fractured-alliances
 order: 5
+prev: ch05-sc04-fractured-alliances
+next: ch05-sc06-fractured-alliances
+word_count: 1246
+reading_time_min: 5
+est_tokens: 1620
+id: "778aefb0-8c22-4e97-b16e-a6325ceb5ca3"
 ---
 
-      The Network's monitoring center hummed with a different kind of tension now. Where before they'd tracked patterns of corporate influence, now they watched it strike. On the main display, community networks flickered like stars going dark.
+The Network's monitoring center hummed with a different kind of tension now. Where before they'd tracked patterns of corporate influence, now they watched it strike. On the main display, community networks flickered like stars going dark.
       "Another cluster gone in Sector 4," Nia reported, her hands moving through streams of botanical data. "They're targeting the independent food gardens first. Cutting off their power and water access."
       Amara studied the patterns, remembering the Memory Garden's warnings. "They're not just disabling the networks," she said. "They're documenting how communities respond to the loss. Learning from our adaptations."
       "Like watching how an organism reacts to systematic shock." Ravi's voice was tight as he tracked power fluctuations. "Dr. Veltri's approach is... thorough."

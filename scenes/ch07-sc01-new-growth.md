@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 7
 scene: 1
 chapter_title: "NEW GROWTH"
+chapter_slug: new-growth
 title: "Scene 1"
-slug: "new-growth"
+slug: ch07-sc01-new-growth
 order: 1
+prev: ch06-sc04-the-corporate-agenda
+next: ch07-sc02-new-growth
+word_count: 635
+reading_time_min: 3
+est_tokens: 826
+id: "72c7c32f-a700-48ab-b0d0-e8407ec092cc"
 ---
 
-      Dawn painted Luminara's towers in colors that shouldn't have existed, hybrid shades born from the merger of natural bioluminescence and evolved corporate displays. Market stalls in the central plaza woke like flowers opening to sun, their adaptive canopies responding to more than just light and temperature now. Through her neural interface, Amara felt the city's consciousness stirring, different sectors finding unique ways to greet the day.
+Dawn painted Luminara's towers in colors that shouldn't have existed, hybrid shades born from the merger of natural bioluminescence and evolved corporate displays. Market stalls in the central plaza woke like flowers opening to sun, their adaptive canopies responding to more than just light and temperature now. Through her neural interface, Amara felt the city's consciousness stirring, different sectors finding unique ways to greet the day.
       "The transport pods are singing," a child announced, voice carrying pure wonder as she pointed to where public vehicles moved through morning air. The pods no longer followed rigid routes but flowed like schools of fish, adapting to citizen needs in real time. Their surfaces rippled with living patterns that communicated more than just destinations, showing weather flows, community events, even local history through evolved corporate displays.
       In the market's heart, Maya tended her family's food stall, where Hidden Garden hybrid fruits dreamed alongside corporate hydroponic produce. The distinction between "official" and "unofficial" agriculture had dissolved into something more interesting. Each plant species showed signs of unprecedented adaptation, responding to customers' needs in ways that transcended simple commerce.
       "The melons know what nutrients people need," Maya explained to fascinated customers, her young face bright with discovery. "And they adjust their growth patterns to provide it. Not through genetic engineering anymore, but through..." She gestured at the subtle bioluminescent patterns flowing through the fruit's skin. "Through listening."

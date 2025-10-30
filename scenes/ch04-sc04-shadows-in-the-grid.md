@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 4
 scene: 4
 chapter_title: "SHADOWS IN THE GRID"
+chapter_slug: shadows-in-the-grid
 title: "Scene 4"
-slug: "shadows-in-the-grid"
+slug: ch04-sc04-shadows-in-the-grid
 order: 4
+prev: ch04-sc03-shadows-in-the-grid
+next: ch05-sc01-fractured-alliances
+word_count: 762
+reading_time_min: 4
+est_tokens: 991
+id: "3ecee1cb-bf5d-407b-bef2-a582a65aab48"
 ---
 
-      The Network's monitoring center hummed with a different kind of tension now. Amara watched community power signatures pulse across the displays like a living constellation, each light representing homes, gardens, lives. And one by one, they were going dark.
+The Network's monitoring center hummed with a different kind of tension now. Amara watched community power signatures pulse across the displays like a living constellation, each light representing homes, gardens, lives. And one by one, they were going dark.
       "Food production grid offline in Sector 4," Nia reported from her healing bed, botanical interfaces flickering as she tracked the damage. "Three thousand hydroponics units, fifteen vertical farms. They're not just cutting power, they're rewriting the environmental control systems."
       "Show me," Amara said, but she already recognized the pattern in the code. Dr. Veltri's elegant optimization protocols were replacing community-evolved solutions with standardized corporate responses. Where gardens had once adapted to each microclimate, now uniform growing parameters were being imposed. Efficiency over evolution. Control over life.
       "The corporate systems are more productive on paper," Kevin noted, studying the data. "But look what they're missing." He highlighted the subtle interactions between systems, the way excess heat from one garden warmed another, how water recycling networks evolved unique symbioses. "They're turning a living ecosystem into a machine."

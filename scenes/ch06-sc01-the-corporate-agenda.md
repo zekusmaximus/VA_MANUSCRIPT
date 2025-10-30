@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 6
 scene: 1
 chapter_title: "THE CORPORATE AGENDA"
+chapter_slug: the-corporate-agenda
 title: "Scene 1"
-slug: "the-corporate-agenda"
+slug: ch06-sc01-the-corporate-agenda
 order: 1
+prev: ch05-sc06-fractured-alliances
+next: ch06-sc02-the-corporate-agenda
+word_count: 755
+reading_time_min: 4
+est_tokens: 982
+id: "f8ca7afb-220d-475f-95d0-dd462810ca18"
 ---
 
-      Dawn came to Luminara differently now. Where once the city had awakened in ordered sequences, solar arrays activating, atmospheric processors cycling, power grids humming to life, now it stirred like a living thing. Through her neural interface, Amara felt the change in every system. Corporate optimization protocols still attempted their precise patterns, but beneath that artificial order, something wild was growing.
+Dawn came to Luminara differently now. Where once the city had awakened in ordered sequences, solar arrays activating, atmospheric processors cycling, power grids humming to life, now it stirred like a living thing. Through her neural interface, Amara felt the change in every system. Corporate optimization protocols still attempted their precise patterns, but beneath that artificial order, something wild was growing.
       "Beautiful, isn't it?" Kevin's voice carried quiet wonder as they watched from the Network's emergency command center. The living walls around them pulsed with hybrid data streams, Deep Garden root networks processing Wind Tribe atmospheric readings, Memory Weaver archives flowing through Hidden Garden neural paths. "Even their control is creating new forms of freedom."
       He was right. The corporate drones passing overhead no longer moved in rigid formations. Their patterns had begun to mimic natural phenomena, like birds finding thermal currents, like seeds riding wind. Through the command center's upper membranes, Amara watched them scatter morning light in ways that reminded her of the Wind Tribes' atmospheric processors.
       "They're evolving too," she said softly. "Not just adapting to our systems, but becoming something new." Her neural interface registered familiar signatures in the drones' behavior, echoes of the optimization protocols she and Veltri had designed together, now growing beyond their original parameters.

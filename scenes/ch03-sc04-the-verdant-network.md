@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 3
 scene: 4
 chapter_title: "THE VERDANT NETWORK"
+chapter_slug: the-verdant-network
 title: "Scene 4"
-slug: "the-verdant-network"
+slug: ch03-sc04-the-verdant-network
 order: 4
+prev: ch03-sc03-the-verdant-network
+next: ch03-sc05-the-verdant-network
+word_count: 948
+reading_time_min: 4
+est_tokens: 1232
+id: "f26e5afa-eb99-4904-ac82-aedccbb43903"
 ---
 
-      The Network's strategy room felt too small for the tension it contained. Holographic displays showed Luminara's power grid in real-time, corporate influence spreading like frost across a window. The Memory Garden's data scrolled alongside current readings, past and present merging in streams of light.
+The Network's strategy room felt too small for the tension it contained. Holographic displays showed Luminara's power grid in real-time, corporate influence spreading like frost across a window. The Memory Garden's data scrolled alongside current readings, past and present merging in streams of light.
       "We need to act now." Jin's voice cut through the murmur of discussion. The security specialist's algae marks pulsed with agitation. "Every hour we wait gives them more control over the grid."
       "Rushing in without proper preparation got New Alexandria wiped off the map," Elena countered, her weathered hands steady as she manipulated the historical overlay. "The Memory Garden showed us that pattern clearly enough."
       Amara studied both displays, seeing the truth in both arguments. The corporate protocols were advancing faster than predicted, but their historical data showed how direct confrontation had failed in other cities.

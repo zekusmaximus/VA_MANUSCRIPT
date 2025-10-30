@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 1
 scene: 2
 chapter_title: "THE LUMINARA HORIZON"
+chapter_slug: the-luminara-horizon
 title: "Scene 2"
-slug: "the-luminara-horizon"
+slug: ch01-sc02-the-luminara-horizon
 order: 2
+prev: ch01-sc01-the-luminara-horizon
+next: ch01-sc03-the-luminara-horizon
+word_count: 727
+reading_time_min: 3
+est_tokens: 945
+id: "e34e72e0-9f5d-436e-919b-5220de1b9cba"
 ---
 
-      The Grid Control Center hummed with artificial life. Holographic displays floated at each workstation, their blue glow reflecting off the living walls where engineered moss monitored air quality. Amara's footsteps were silent on the recycled polymer floor as she made her way past empty desks. Night shift was always quiet, the skeleton crew focused on their screens.
+The Grid Control Center hummed with artificial life. Holographic displays floated at each workstation, their blue glow reflecting off the living walls where engineered moss monitored air quality. Amara's footsteps were silent on the recycled polymer floor as she made her way past empty desks. Night shift was always quiet, the skeleton crew focused on their screens.
       "Finally," Ravi called from his station, not looking up from his display. "I was about to send a drone after you."
       "I came as soon as I," Amara stopped short. Ravi's workstation was surrounded by unauthorized displays, each showing a different view of Sector 7's systems. "What is all this?"
       "Your anomalies?" Ravi gestured to the screens with one hand while typing with the other. "They're not random. Look at the pattern."

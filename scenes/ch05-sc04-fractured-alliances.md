@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 5
 scene: 4
 chapter_title: "FRACTURED ALLIANCES"
+chapter_slug: fractured-alliances
 title: "Scene 4"
-slug: "fractured-alliances"
+slug: ch05-sc04-fractured-alliances
 order: 4
+prev: ch05-sc03-fractured-alliances
+next: ch05-sc05-fractured-alliances
+word_count: 1065
+reading_time_min: 5
+est_tokens: 1384
+id: "4e15e49f-5f36-473a-8163-b2512c1e1737"
 ---
 
-      The council vote loomed closer with each passing hour. But here, surrounded by generations of preserved knowledge, Amara finally understood what victory would require. Not just resistance or survival, but transformation. Into something wild.
+The council vote loomed closer with each passing hour. But here, surrounded by generations of preserved knowledge, Amara finally understood what victory would require. Not just resistance or survival, but transformation. Into something wild.
       The archives pulsed with quiet light, each thread adding its small truth to their shared story of defiance and growth and hope. A story still being woven. A pattern still evolving.
       A future still growing beyond any attempt to control its shape.
       The Network's emergency chamber reflected their fractured state. Living walls pulsed with competing data streams, Hidden Garden's root networks flickering green against Wind Tribes' atmospheric readings in blue, while Memory Weavers' archived patterns wove gold through it all. Each system technically compatible but stubbornly distinct, like the communities they represented.

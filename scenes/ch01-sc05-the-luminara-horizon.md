@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 1
 scene: 5
 chapter_title: "THE LUMINARA HORIZON"
+chapter_slug: the-luminara-horizon
 title: "Scene 5"
-slug: "the-luminara-horizon"
+slug: ch01-sc05-the-luminara-horizon
 order: 5
+prev: ch01-sc04-the-luminara-horizon
+next: ch02-sc01-the-wasteland-connection
+word_count: 864
+reading_time_min: 4
+est_tokens: 1123
+id: "0ae3214e-df5d-4fe8-bf24-3af2a83a25f5"
 ---
 
-      Amara's apartment occupied the highest residential level of Sector 4, a location that had once felt like a reward for her contributions to the city. Now, watching Luminara's lights flicker in the pre-dawn hours, it felt more like a gilded cage. Her living walls, usually responsive to her presence, seemed oddly still, as if they too sensed something wrong in the city's rhythms.
+Amara's apartment occupied the highest residential level of Sector 4, a location that had once felt like a reward for her contributions to the city. Now, watching Luminara's lights flicker in the pre-dawn hours, it felt more like a gilded cage. Her living walls, usually responsive to her presence, seemed oddly still, as if they too sensed something wrong in the city's rhythms.
       She'd spread her work across the apartment's main room, multiple tablets displaying data from the night's events. The festival's power readings, Sector 7's anomalies, Nia's plant responses, all pieces of a puzzle she was finally beginning to understand. Her own mug of algae tea sat cold and forgotten beside her makeshift command center.
       Her eyes drifted to the small biotecture sample still growing on her desk, her first successful design, the one Veltri had helped her nurture. Its leaves still reached for light exactly as they had in the beginning, unchanged by corporate protocols or efficiency metrics. "Some things stay true to their nature," Veltri had said back then. The memory tasted bitter now.
       "Show me the pattern," she murmured, fingers dancing across the screens. "Show me what we missed."

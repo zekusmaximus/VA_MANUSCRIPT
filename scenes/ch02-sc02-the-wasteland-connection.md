@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 2
 scene: 2
 chapter_title: "THE WASTELAND CONNECTION"
+chapter_slug: the-wasteland-connection
 title: "Scene 2"
-slug: "the-wasteland-connection"
+slug: ch02-sc02-the-wasteland-connection
 order: 2
+prev: ch02-sc01-the-wasteland-connection
+next: ch02-sc03-the-wasteland-connection
+word_count: 891
+reading_time_min: 4
+est_tokens: 1158
+id: "745e916f-c8b7-466f-9800-a012c802aede"
 ---
 
-      The sun rose higher over Luminara, its light catching the solar arrays and algae farms that powered the city's official systems. But Amara's attention was on the shadows between them, where other kinds of power flowed. Where something new was growing.
+The sun rose higher over Luminara, its light catching the solar arrays and algae farms that powered the city's official systems. But Amara's attention was on the shadows between them, where other kinds of power flowed. Where something new was growing.
       Where the real future might be hiding.
       Luminara looked different from the outside. Amara stood at the edge of Sector 7's boundary, where the city's floating platforms gave way to open air, and tried to reconcile the two versions of her home. From within, it was a triumph of sustainable engineering. From here, she could see the shadows it cast.
       "Beautiful, isn't it?" Kevin's voice carried an edge she hadn't heard during the Network meeting. "The way it floats above everything it left behind."

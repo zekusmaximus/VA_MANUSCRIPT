@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 2
 scene: 6
 chapter_title: "THE WASTELAND CONNECTION"
+chapter_slug: the-wasteland-connection
 title: "Scene 6"
-slug: "the-wasteland-connection"
+slug: ch02-sc06-the-wasteland-connection
 order: 6
+prev: ch02-sc05-the-wasteland-connection
+next: ch03-sc01-the-verdant-network
+word_count: 1036
+reading_time_min: 5
+est_tokens: 1347
+id: "0e95dcc2-0551-4d0b-96d5-27d0243cb877"
 ---
 
-      The drones came at sunset, but Amara saw them first in code. Her tablet displayed their scanning patterns, complex, adaptive algorithms that made her heart sink. "These aren't standard corporate protocols," she whispered from behind Serra's solar fabric. "The base architecture... I helped design it."
+The drones came at sunset, but Amara saw them first in code. Her tablet displayed their scanning patterns, complex, adaptive algorithms that made her heart sink. "These aren't standard corporate protocols," she whispered from behind Serra's solar fabric. "The base architecture... I helped design it."
       She remembered late nights in Veltri's lab, developing neural networks that could learn and grow. "The system needs to breathe," Veltri had said then, her eyes bright with possibility. "Like a living thing." Now those same principles had been twisted into something predatory, hunting for signs of unauthorized life.
       "They're using multi-spectrum analysis," she told Kevin, watching the drones' sleek forms cut through golden light. "Thermal imaging, power signatures, even bioelectric fields. Looking for exactly the kind of patterns we saw in the Hidden Garden."
       "Good thing we've got patterns of our own." Kevin touched the fabric sheltering them, and Amara watched in fascination as its neural threads responded. Temperature differentials dispersed through microscopic channels. Power signatures scattered and reformed in randomized bursts. Even their bioelectric fields were masked by the fabric's adaptive resonance.

@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 2
 scene: 5
 chapter_title: "THE WASTELAND CONNECTION"
+chapter_slug: the-wasteland-connection
 title: "Scene 5"
-slug: "the-wasteland-connection"
+slug: ch02-sc05-the-wasteland-connection
 order: 5
+prev: ch02-sc04-the-wasteland-connection
+next: ch02-sc06-the-wasteland-connection
+word_count: 995
+reading_time_min: 4
+est_tokens: 1294
+id: "4cc3d213-b449-485d-bb72-86cf2cd23f20"
 ---
 
-      The second settlement looked nothing like the Hidden Garden. Where Kevin's community had gone down, these people had gone up, their homes woven into the skeletal remains of an abandoned arcology. Solar fabric draped between levels like metallic Spanish moss, each fold precisely angled to catch the afternoon light.
+The second settlement looked nothing like the Hidden Garden. Where Kevin's community had gone down, these people had gone up, their homes woven into the skeletal remains of an abandoned arcology. Solar fabric draped between levels like metallic Spanish moss, each fold precisely angled to catch the afternoon light.
       "The Hanging Gardens," Kevin said, guiding Amara along a walkway that seemed spun from recycled carbon fiber. "They took your solar optimization algorithms and applied them to textile engineering."
       A group of children raced past them, their clothes shimmering with the same adaptive technology as the settlement's solar drapes. Each movement generated a tiny burst of power, feeding into the local grid through hair-thin conductive threads.
       "The fabric responds to body temperature," Amara noted, professional appreciation overwhelming her lingering unease. "It's storing heat for night conversion, isn't it?"

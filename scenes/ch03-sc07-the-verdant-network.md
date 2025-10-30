@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 3
 scene: 7
 chapter_title: "THE VERDANT NETWORK"
+chapter_slug: the-verdant-network
 title: "Scene 7"
-slug: "the-verdant-network"
+slug: ch03-sc07-the-verdant-network
 order: 7
+prev: ch03-sc06-the-verdant-network
+next: ch04-sc01-shadows-in-the-grid
+word_count: 864
+reading_time_min: 4
+est_tokens: 1123
+id: "c0f240a3-87db-4d3a-8f78-7a88683c1a76"
 ---
 
-      The Network's living systems pulsed in response, preparing to share their accumulated knowledge. Above them, corporate drones continued their methodical mapping of the city's official networks, never noticing the currents of life flowing beneath their sensors.
+The Network's living systems pulsed in response, preparing to share their accumulated knowledge. Above them, corporate drones continued their methodical mapping of the city's official networks, never noticing the currents of life flowing beneath their sensors.
       Sometimes the most powerful forces were the ones you couldn't optimize. Couldn't control. Couldn't map.
       The ones that grew in shadows, between spaces, reaching always toward light.
       The Network's living walls pulsed with increasing urgency, their bioluminescence shifting from cool blue to fierce amber. Data flowed through engineered plant tissue like sap, each display showing a different facet of the approaching storm. Even the air felt charged, the bioengineered membranes that filtered it vibrating with subtle tension.

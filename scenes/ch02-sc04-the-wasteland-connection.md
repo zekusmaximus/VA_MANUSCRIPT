@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 2
 scene: 4
 chapter_title: "THE WASTELAND CONNECTION"
+chapter_slug: the-wasteland-connection
 title: "Scene 4"
-slug: "the-wasteland-connection"
+slug: ch02-sc04-the-wasteland-connection
 order: 4
+prev: ch02-sc03-the-wasteland-connection
+next: ch02-sc05-the-wasteland-connection
+word_count: 888
+reading_time_min: 4
+est_tokens: 1154
+id: "8d736082-008d-4e5f-b531-5d924f6d3180"
 ---
 
-      The Hidden Garden's central meeting space had been carved from an old water storage tank, its curved walls now alive with flowing data displayed in bioluminescent patterns. Around a salvaged conference table sat an unlikely alliance: Verdant Network hackers in their glowing algae marks, Wasteland leaders with their practical, patch-worked tech, and Amara, still processing everything she'd seen.
+The Hidden Garden's central meeting space had been carved from an old water storage tank, its curved walls now alive with flowing data displayed in bioluminescent patterns. Around a salvaged conference table sat an unlikely alliance: Verdant Network hackers in their glowing algae marks, Wasteland leaders with their practical, patch-worked tech, and Amara, still processing everything she'd seen.
       "The council isn't just allowing the corporate takeover," Ravi said, manipulating a holographic display above the table. "They're actively facilitating it." The display showed power flow data from multiple sectors, official and unofficial networks interweaving in complex patterns.
       "They're calling it 'system optimization,'" an elderly Wasteland woman said. Her name was Elena, and the respect others showed her was obvious. Her clothes might be salvaged, but the neural interface behind her ear was cutting-edge. "But look at the pattern."
       She gestured, and the hologram shifted to show Luminara's power grid over time. Official channels glowed blue, unofficial ones in green. Where they intersected, red points pulsed.

@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 4
 scene: 1
 chapter_title: "SHADOWS IN THE GRID"
+chapter_slug: shadows-in-the-grid
 title: "Scene 1"
-slug: "shadows-in-the-grid"
+slug: ch04-sc01-shadows-in-the-grid
 order: 1
+prev: ch03-sc07-the-verdant-network
+next: ch04-sc02-shadows-in-the-grid
+word_count: 776
+reading_time_min: 4
+est_tokens: 1009
+id: "7bf3f37e-8f63-49bf-a618-ef86095054c9"
 ---
 
-      Dawn came to Luminara in waves of light and data. The sun's first rays caught the city's solar arrays, creating a cascade of power signatures that rippled through Amara's monitoring feeds. But other lights moved against the natural flow   corporate drones, their precise formations casting geometric shadows across the awakening city.
+Dawn came to Luminara in waves of light and data. The sun's first rays caught the city's solar arrays, creating a cascade of power signatures that rippled through Amara's monitoring feeds. But other lights moved against the natural flow   corporate drones, their precise formations casting geometric shadows across the awakening city.
       "Three more communities went dark overnight," Jin reported from his security station. The Network's living walls pulsed with shared tension as his displays mapped the spreading corporate influence in shades of red. "Dr. Veltri's new protocols are moving faster than predicted."
       "Not just faster," Amara said, watching patterns shift across her tablet. "Smarter." She recognized her mentor's elegant coding style in the drone formations   the same principles they'd once used to map neural networks, now turned to mapping resistance.
       The Network's command center had transformed since last night's decision. What had been a space for planning was now alive with coordinated action. Elena's historical databases flowed through Nia's botanical interfaces. Ravi's security systems merged with community power networks. Each member contributing their unique perspective to their shared defense.

@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 5
 scene: 1
 chapter_title: "FRACTURED ALLIANCES"
+chapter_slug: fractured-alliances
 title: "Scene 1"
-slug: "fractured-alliances"
+slug: ch05-sc01-fractured-alliances
 order: 1
+prev: ch04-sc04-shadows-in-the-grid
+next: ch05-sc02-fractured-alliances
+word_count: 1985
+reading_time_min: 8
+est_tokens: 2580
+id: "ce5f29c6-e8cf-4e91-b1b0-505e2d615876"
 ---
 
-      Dawn was still hours away, but the Network's command center pulsed with urgent life. Living walls tracked multiple threats through patterns of bioluminescence, each failing community system leaving trails of darkness through the light, like wounds in a neural network. The engineered plants that processed their data had evolved past their original parameters, their leaves turning toward each surge of information like flowers following unseen suns. Even the air felt different, heavy with the sweet-sharp scent of stressed biotechnology, as processing algae worked overtime to maintain atmospheric balance.
+Dawn was still hours away, but the Network's command center pulsed with urgent life. Living walls tracked multiple threats through patterns of bioluminescence, each failing community system leaving trails of darkness through the light, like wounds in a neural network. The engineered plants that processed their data had evolved past their original parameters, their leaves turning toward each surge of information like flowers following unseen suns. Even the air felt different, heavy with the sweet-sharp scent of stressed biotechnology, as processing algae worked overtime to maintain atmospheric balance.
       "Sixth independent food garden lost in Sector 4," Nia reported, her fingers moving through streams of botanical data. The plants around her station dimmed in sympathy, their leaves curling inward. "Three thousand people just lost their primary food source. The mycelial networks that maintained soil health, the pollinator colonies, the atmospheric processors, all dark."
       Through her neural interface, Amara felt each loss like a physical pain. The garden's systems hadn't simply failed, they'd been systematically disconnected from the natural networks that sustained them. Corporate optimization replacing living complexity with mechanical efficiency.
       "The foundations," she said, watching patterns shift across her diagnostic feeds. "They're not just attacking infrastructure. They're trying to sever our connection to natural systems themselves."

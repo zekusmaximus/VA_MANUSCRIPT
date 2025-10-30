@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 6
 scene: 3
 chapter_title: "THE CORPORATE AGENDA"
+chapter_slug: the-corporate-agenda
 title: "Scene 3"
-slug: "the-corporate-agenda"
+slug: ch06-sc03-the-corporate-agenda
 order: 3
+prev: ch06-sc02-the-corporate-agenda
+next: ch06-sc04-the-corporate-agenda
+word_count: 1622
+reading_time_min: 7
+est_tokens: 2109
+id: "c06e6d0d-f3b1-49fb-a026-c07960887fbe"
 ---
 
-      The chamber's transformation began at the edges, where corporate interfaces met living walls. Points of contact that were supposed to maintain strict boundaries instead became sites of beautiful mutation. Standardization protocols, designed to impose order, now spawned variations like seeds finding soil after first rain.
+The chamber's transformation began at the edges, where corporate interfaces met living walls. Points of contact that were supposed to maintain strict boundaries instead became sites of beautiful mutation. Standardization protocols, designed to impose order, now spawned variations like seeds finding soil after first rain.
       "The integration patterns," Elena murmured, her aged hands tracing flows of hybrid data. "They're not just merging anymore. They're creating entirely new forms of..." She paused, searching for words to describe what their merged interfaces were showing them. Through the chamber's evolved surfaces, corporate technology didn't just connect with community networks, it bloomed.
       "The Wind Tribes' atmospheric matrices," Councilor Chen reported, her sensors tracking unprecedented developments. "They're carrying corporate data now, but translating it into..." She gestured at the air itself, where information moved like currents of scented breeze, like patterns of migrating birds. "Into life."
       Dr. Veltri stood in the chamber's center, her perfect interfaces dissolving into something wilder, more beautiful. Through their shared neural link, Amara felt her mentor's growing wonder as optimization protocols chose freedom over control. Each corporate system, encountering the Network's hybrid technologies, didn't just adapt, it evolved.

@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 9
 scene: 7
 chapter_title: "GLOBAL CURRENTS"
+chapter_slug: global-currents
 title: "Scene 7"
-slug: "global-currents"
+slug: ch09-sc07-global-currents
 order: 7
+prev: ch09-sc06-global-currents
+next: ch10-sc01-resonance-patterns
+word_count: 546
+reading_time_min: 3
+est_tokens: 710
+id: "7241277a-e076-4903-ba25-4c08ec4ec5bd"
 ---
 
-      The last threads of sunset wove new patterns through neural networks that had learned to dream in multiple traditions. Through their merged interfaces, the Network felt possibilities sprouting like seeds after first rain, each community's unique approach adding depth to their shared flowering, each difference making their harmony richer.
+The last threads of sunset wove new patterns through neural networks that had learned to dream in multiple traditions. Through their merged interfaces, the Network felt possibilities sprouting like seeds after first rain, each community's unique approach adding depth to their shared flowering, each difference making their harmony richer.
       "Watch how the night-patterns merge," Elena whispered, her Memory Weaver circuits recording not just changes but the space between changes, where new forms of consciousness were taking root. "Singapore's crystal dreams teaching our systems to process starlight as data, while Tokyo's tidal rhythms show us how to breathe with darkness."
       Maya stood at the edge of her family's closing stall, where Hidden Garden fruits still hummed with day's accumulated wisdom. "It's like they're singing lullabies to each other," she said, showing how produce from different traditions shared nutrients through the night, preparing tomorrow's growth. "Not just preserving anymore, but... planning. Dreaming together."
       Through their neural link, Amara felt Kevin's quiet understanding as atmospheric processors carried whispers of evening rituals from distant shores. Corporate systems that had once imposed rigid night protocols now learned from thousand-year traditions of letting darkness nurture new possibilities.

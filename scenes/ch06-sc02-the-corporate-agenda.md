@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 6
 scene: 2
 chapter_title: "THE CORPORATE AGENDA"
+chapter_slug: the-corporate-agenda
 title: "Scene 2"
-slug: "the-corporate-agenda"
+slug: ch06-sc02-the-corporate-agenda
 order: 2
+prev: ch06-sc01-the-corporate-agenda
+next: ch06-sc03-the-corporate-agenda
+word_count: 3308
+reading_time_min: 14
+est_tokens: 4300
+id: "30358671-c029-4b33-a961-94f37ff2685c"
 ---
 
-      The council chamber had transformed overnight. As the first members arrived, Amara watched their reactions through the Network's hybrid interfaces. Where yesterday corporate technicians had installed standardized systems, now living patterns bloomed beyond their designated bounds. Bioluminescent colonies meant to display simple data streams now carried complex harmonies of information. Air processing algae designed for basic filtration had evolved to carry messages through subtle atmospheric changes.
+The council chamber had transformed overnight. As the first members arrived, Amara watched their reactions through the Network's hybrid interfaces. Where yesterday corporate technicians had installed standardized systems, now living patterns bloomed beyond their designated bounds. Bioluminescent colonies meant to display simple data streams now carried complex harmonies of information. Air processing algae designed for basic filtration had evolved to carry messages through subtle atmospheric changes.
       "They're trying to recalibrate," Jin reported from his concealed station. Through their shared neural interface, Amara felt corporate systems attempting to impose order on the chamber's wild growth. Each adjustment only prompted new variations, like pruning a garden into unexpected flowering.
       Councilor Chen paused in the doorway, her decades of Wind Tribe experience reading the changed air. "The atmospheric processors," she murmured. "They're carrying Hidden Garden neural patterns now. How..."
       "Impossible, obviously," Councilor Reed interrupted, his corporate augments struggling to process the chamber's evolved signatures. "Some kind of technical malfunction. Dr. Veltri will..."

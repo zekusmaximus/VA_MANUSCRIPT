@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 7
 scene: 3
 chapter_title: "NEW GROWTH"
+chapter_slug: new-growth
 title: "Scene 3"
-slug: "new-growth"
+slug: ch07-sc03-new-growth
 order: 3
+prev: ch07-sc02-new-growth
+next: ch07-sc04-new-growth
+word_count: 752
+reading_time_min: 4
+est_tokens: 978
+id: "0753147a-9b33-4dc7-8aad-53d33e916453"
 ---
 
-      The Wind Tribe's festival began at the edge of evolving possibility, where atmospheric processors had learned to sing. High above Luminara's transformed marketplace, chemical gradients wove patterns that translated weather into music, into story, into dance. Through her neural interface, Amara felt the city's architecture responding, its surfaces rippling like leaves in wind.
+The Wind Tribe's festival began at the edge of evolving possibility, where atmospheric processors had learned to sing. High above Luminara's transformed marketplace, chemical gradients wove patterns that translated weather into music, into story, into dance. Through her neural interface, Amara felt the city's architecture responding, its surfaces rippling like leaves in wind.
       "They never understood before," Zara explained, her silver hair flowing with data streams that matched the festival's rhythms. "Why we celebrated storms, honored thermal currents, danced with pressure changes." She gestured at corporate observers whose augments now showed them more than just atmospheric metrics. "But now they're learning to read the sky's poetry."
       The festival space itself demonstrated their point. What had once been a rigid corporate observation platform had evolved into something between temple and laboratory. Living walls adjusted their resonance to support traditional Wind Tribe harmonics while adding new variations born from merged technologies. Even the air moved differently here, carrying memories, dreams, possibilities.
       "Watch this pattern," a young Wind Tribe drummer called, her traditional rhythms merging with evolved corporate interfaces. The beat rippled through atmospheric processors, creating weather microclimates that danced with her music. Corporate meteorologists who once tracked only efficiency metrics now swayed with patterns their systems had learned to feel rather than just measure.

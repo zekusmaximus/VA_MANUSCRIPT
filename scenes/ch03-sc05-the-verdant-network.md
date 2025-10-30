@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 3
 scene: 5
 chapter_title: "THE VERDANT NETWORK"
+chapter_slug: the-verdant-network
 title: "Scene 5"
-slug: "the-verdant-network"
+slug: ch03-sc05-the-verdant-network
 order: 5
+prev: ch03-sc04-the-verdant-network
+next: ch03-sc06-the-verdant-network
+word_count: 1067
+reading_time_min: 5
+est_tokens: 1387
+id: "1f957108-0ded-449e-821c-d39a50df2c53"
 ---
 
-      The Network's monitoring center hummed with a different kind of tension now. Where before they'd tracked patterns of corporate influence, now they watched it strike. On the main display, community networks flickered like stars going dark.
+The Network's monitoring center hummed with a different kind of tension now. Where before they'd tracked patterns of corporate influence, now they watched it strike. On the main display, community networks flickered like stars going dark.
       "Another cluster gone in Sector 4," Nia reported, her hands moving through streams of botanical data. "They're targeting the independent food gardens first. Cutting off their power and water access."
       Amara studied the patterns, remembering the Memory Garden's warnings. "They're not just disabling the networks," she said. "They're documenting how communities respond to the loss. Learning from our adaptations."
       "Like watching how an organism reacts to systematic shock." Ravi's voice was tight as he tracked power fluctuations. "Dr. Veltri's approach is... thorough."

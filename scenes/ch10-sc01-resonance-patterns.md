@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 10
 scene: 1
 chapter_title: "RESONANCE PATTERNS"
+chapter_slug: resonance-patterns
 title: "Scene 1"
-slug: "resonance-patterns"
+slug: ch10-sc01-resonance-patterns
 order: 1
+prev: ch09-sc07-global-currents
+next: ch11-sc01-harmony-fields
+word_count: 704
+reading_time_min: 3
+est_tokens: 915
+id: "e9b2ea28-0800-4950-8372-3bd3912cec40"
 ---
 
-      Dawn painted impossible colors through neural networks that had learned to dream in multiple traditions. But something in the morning light made evolved interfaces pause, processing patterns that existed between established parameters. Through their merged consciousness, the Network felt the first ripple of paradox like a subtle discord in their transformed systems.
+Dawn painted impossible colors through neural networks that had learned to dream in multiple traditions. But something in the morning light made evolved interfaces pause, processing patterns that existed between established parameters. Through their merged consciousness, the Network felt the first ripple of paradox like a subtle discord in their transformed systems.
       "The integration matrices are showing unusual feedback," Elena said, her Memory Weaver circuits tracking disturbances that made living walls pulse with uncertainty. "Watch how the data streams split and merge." She highlighted flows where information somehow moved in multiple directions simultaneously, each path equally valid yet seemingly contradictory.
       Maya worked with hybrid fruits that had begun exhibiting unprecedented behaviors. "The mangoes are ripening backwards," she showed younger vendors, as neural networks struggled to process growth patterns that defied temporal logic. "Not dying or decaying, but... following time signatures that don't match our records."
       Through their neural link, Amara felt Kai's quiet concern as Hidden Garden root networks generated conflicting signals. Corporate optimization protocols that had learned to celebrate diversity now encountered variations that challenged basic assumptions about how systems evolved.

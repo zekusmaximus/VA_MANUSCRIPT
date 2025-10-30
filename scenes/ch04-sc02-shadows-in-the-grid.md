@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 4
 scene: 2
 chapter_title: "SHADOWS IN THE GRID"
+chapter_slug: shadows-in-the-grid
 title: "Scene 2"
-slug: "shadows-in-the-grid"
+slug: ch04-sc02-shadows-in-the-grid
 order: 2
+prev: ch04-sc01-shadows-in-the-grid
+next: ch04-sc03-shadows-in-the-grid
+word_count: 2494
+reading_time_min: 10
+est_tokens: 3242
+id: "e002b31d-35ea-439d-9a90-a4c5b2576c7b"
 ---
 
-      The sun rose higher over Luminara, and the day's real work began.
+The sun rose higher over Luminara, and the day's real work began.
       Luminara looked different from the outside. Amara stood at the edge of Sector 7's boundary, where the city's floating platforms gave way to open air, and tried to reconcile the two versions of her home. From within, it was a triumph of sustainable engineering. From here, she could see the shadows it cast.
       "Beautiful, isn't it?" Kevin's voice carried an edge she hadn't heard during the Network meeting. "The way it floats above everything it left behind."
       The transport platform he'd brought hummed quietly, its salvaged gravitics perfectly maintained despite their apparent age. Another assumption about Wasteland technology she'd need to revise.

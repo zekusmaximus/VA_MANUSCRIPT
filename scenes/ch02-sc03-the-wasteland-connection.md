@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 2
 scene: 3
 chapter_title: "THE WASTELAND CONNECTION"
+chapter_slug: the-wasteland-connection
 title: "Scene 3"
-slug: "the-wasteland-connection"
+slug: ch02-sc03-the-wasteland-connection
 order: 3
+prev: ch02-sc02-the-wasteland-connection
+next: ch02-sc04-the-wasteland-connection
+word_count: 913
+reading_time_min: 4
+est_tokens: 1187
+id: "64208679-04e9-4855-ae6c-85bec5201a84"
 ---
 
-      The entrance to Kevin's settlement looked like a junkyard. Broken solar panels leaned against rusted shipping containers, their surfaces dulled by dust and time. Amara followed him through the maze of apparent debris, her engineer's eye catching small inconsistencies, the too-precise angle of a cracked panel, the carefully maintained gaps between containers.
+The entrance to Kevin's settlement looked like a junkyard. Broken solar panels leaned against rusted shipping containers, their surfaces dulled by dust and time. Amara followed him through the maze of apparent debris, her engineer's eye catching small inconsistencies, the too-precise angle of a cracked panel, the carefully maintained gaps between containers.
       "It's designed to look abandoned," Kevin said, noting her observation. "Corporate drones dismiss it as another dead zone." He pressed his hand against a container's surface, and a hidden sensor pulsed with soft bioluminescence. "But life finds a way."
       The container's side split silently, revealing a vertical shaft descending into darkness. Green light pulsed along its walls in a familiar pattern.
       "That's impossible," Amara breathed. "That's my reactor's neural signature. But we never built them this small, this efficient."

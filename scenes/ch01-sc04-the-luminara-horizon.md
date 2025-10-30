@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 1
 scene: 4
 chapter_title: "THE LUMINARA HORIZON"
+chapter_slug: the-luminara-horizon
 title: "Scene 4"
-slug: "the-luminara-horizon"
+slug: ch01-sc04-the-luminara-horizon
 order: 4
+prev: ch01-sc03-the-luminara-horizon
+next: ch01-sc05-the-luminara-horizon
+word_count: 894
+reading_time_min: 4
+est_tokens: 1162
+id: "eb7b29ea-5c1b-4cb2-92cd-6c0c00e4d7a3"
 ---
 
-      The elevator to Dr. Veltri's lab rode smoother than it used to, Amara noticed. The old hydraulic system had been replaced with something quieter, more efficient. More corporate. Even the air felt different, no longer the humid warmth of the experimental algae tanks, but something cooler, more controlled.
+The elevator to Dr. Veltri's lab rode smoother than it used to, Amara noticed. The old hydraulic system had been replaced with something quieter, more efficient. More corporate. Even the air felt different, no longer the humid warmth of the experimental algae tanks, but something cooler, more controlled.
       The doors opened onto a space she barely recognized. Gone were the crowded workbenches where she and Veltri had spent countless nights perfecting Luminara's first neural grid. In their place stood sleek holographic terminals bearing the Solace Industries logo. The living walls remained, but their wild tangles of experimental species had been replaced by perfectly uniform rows of optimization-engineered plants.
       "I thought I might see you tonight." Dr. Elara Veltri stood at the window wall, her silver hair gleaming in the festival lights that painted the sky beyond. She didn't turn around. "The grid's behavior has your fingerprints all over it."
       "My fingerprints?" Amara moved to stand beside her former mentor. "The irregularities in Sector 7 "

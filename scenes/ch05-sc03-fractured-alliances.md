@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 5
 scene: 3
 chapter_title: "FRACTURED ALLIANCES"
+chapter_slug: fractured-alliances
 title: "Scene 3"
-slug: "fractured-alliances"
+slug: ch05-sc03-fractured-alliances
 order: 3
+prev: ch05-sc02-fractured-alliances
+next: ch05-sc04-fractured-alliances
+word_count: 925
+reading_time_min: 4
+est_tokens: 1202
+id: "018c6d97-f715-4d52-be4d-86c97d341559"
 ---
 
-      The council vote was coming. The corporate forces were learning. The Network was dividing. But up here, among people who had learned to dance with storms, Amara began to understand what victory really meant.
+The council vote was coming. The corporate forces were learning. The Network was dividing. But up here, among people who had learned to dance with storms, Amara began to understand what victory really meant.
       Not control. Not efficiency. Not even survival. But growth. Wild, unpredictable, unstoppable growth.
       The weaving hall breathed silk and stories. Suspended between ancient looms, sheets of living fabric rippled with data, history encoded in patterns of thread and light. Amara's neural interface struggled to process the unfamiliar signatures. These weren't the rigid data structures of corporate archives, but something more organic. More alive.
       "Each thread carries memories," Serra explained, running weathered fingers along a tapestry that seemed to shimmer in response to her touch. "Not just information, but experience. Knowledge passed down through generations of hands and hearts."

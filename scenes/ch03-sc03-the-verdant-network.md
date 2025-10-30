@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 3
 scene: 3
 chapter_title: "THE VERDANT NETWORK"
+chapter_slug: the-verdant-network
 title: "Scene 3"
-slug: "the-verdant-network"
+slug: ch03-sc03-the-verdant-network
 order: 3
+prev: ch03-sc02-the-verdant-network
+next: ch03-sc04-the-verdant-network
+word_count: 1036
+reading_time_min: 5
+est_tokens: 1347
+id: "fca37706-720a-4581-a43b-26186f9ce21f"
 ---
 
-      The Memory Garden hummed with a different kind of life than the Hidden Garden. Where that space had been wild with adaptation, this was precise, engineered neural pathways flowing through crystalline branches that stretched from floor to ceiling. Each branch terminated in a cluster of bioluminescent flowers, their petals pulsing with stored data.
+The Memory Garden hummed with a different kind of life than the Hidden Garden. Where that space had been wild with adaptation, this was precise, engineered neural pathways flowing through crystalline branches that stretched from floor to ceiling. Each branch terminated in a cluster of bioluminescent flowers, their petals pulsing with stored data.
       "Archive nodes," Amara breathed, recognizing the basic architecture from her early research. "But you've modified the neural density. The storage capacity must be..."
       "About a thousand times what your original designs could handle," Kevin finished, leading her deeper into the garden. "Turns out when you let the networks evolve naturally, they find storage patterns we never imagined."
       The air was thick with the sweet scent of memory flowers, a side effect of the chemical processes that encoded data into living tissue. Amara's neural interface tingled as it picked up fragments of stored information: technical specifications, historical records, personal accounts of resistance and survival.

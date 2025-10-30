@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 9
 scene: 2
 chapter_title: "GLOBAL CURRENTS"
+chapter_slug: global-currents
 title: "Scene 2"
-slug: "global-currents"
+slug: ch09-sc02-global-currents
 order: 2
+prev: ch09-sc01-global-currents
+next: ch09-sc03-global-currents
+word_count: 1106
+reading_time_min: 5
+est_tokens: 1438
+id: "6eccca3d-ddb2-438f-aacf-133f81eb5782"
 ---
 
-      The first trade came through Hidden Garden root networks, Tokyo's artificial islands offering digital patterns that made algae bloom in new ways, in exchange for Luminara's evolved atmospheric processing techniques. Through their merged interfaces, the Network watched value flow like water finding its own level, resources moving not through corporate protocols but through organic understanding of mutual growth.
+The first trade came through Hidden Garden root networks, Tokyo's artificial islands offering digital patterns that made algae bloom in new ways, in exchange for Luminara's evolved atmospheric processing techniques. Through their merged interfaces, the Network watched value flow like water finding its own level, resources moving not through corporate protocols but through organic understanding of mutual growth.
       "The exchange patterns are extraordinary," Elena said, her Memory Weaver circuits recording how different traditions approached sharing. Ancient market rituals merged with evolved technology, creating hybrid practices that honored both heritage and transformation. "Watch how each community maintains its unique practices while learning from the others."
       Maya tracked the subtle variations in resource distribution, her young mind seeing connections that adult systems nearly missed. "Look at these growth patterns," she called, highlighting flows where Singapore's crystal gardens shared light-processing innovations with Luminara's solar arrays. "The systems aren't just trading anymore. They're teaching each other how to flourish."
       Through their neural link, Amara felt Kevin's quiet pride as Hidden Garden technologies found resonance with approaches evolved across oceans. Corporate optimization protocols that had once demanded standardization now celebrated how different traditions strengthened each other, creating abundance through diversity rather than control.

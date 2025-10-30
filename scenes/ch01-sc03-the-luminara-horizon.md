@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 1
 scene: 3
 chapter_title: "THE LUMINARA HORIZON"
+chapter_slug: the-luminara-horizon
 title: "Scene 3"
-slug: "the-luminara-horizon"
+slug: ch01-sc03-the-luminara-horizon
 order: 3
+prev: ch01-sc02-the-luminara-horizon
+next: ch01-sc04-the-luminara-horizon
+word_count: 876
+reading_time_min: 4
+est_tokens: 1139
+id: "8f321b81-34ef-401d-a21d-5b2fff92232e"
 ---
 
-      The festival's glow faded behind Amara as she entered Sector 7, replaced by the irregular flicker of aging photovoltaic streetlights. Her tablet's screen cast a harsh blue glow on cracked walkways, where stubborn moss grew in patterns too random to be part of the city's official biotecture. The sector had been one of Luminara's first, built before they'd perfected the integration of nature and technology. Now it served as an uncomfortable reminder of how quickly progress could leave places behind.
+The festival's glow faded behind Amara as she entered Sector 7, replaced by the irregular flicker of aging photovoltaic streetlights. Her tablet's screen cast a harsh blue glow on cracked walkways, where stubborn moss grew in patterns too random to be part of the city's official biotecture. The sector had been one of Luminara's first, built before they'd perfected the integration of nature and technology. Now it served as an uncomfortable reminder of how quickly progress could leave places behind.
       "Power draw increasing," she muttered, following her readings deeper into the sector. "But where's it all going?"
       A soft green luminescence caught her eye, not the engineered bioluminescence of the festival, but something wilder. Something that shouldn't have been there at all. Amara rounded a corner and stopped short. The entire wall of an abandoned power substation was covered in flowering vines, their petals emitting a subtle glow that pulsed in an odd rhythm.
       "Beautiful, aren't they?" A woman's voice came from the shadows. "Helianthus noctiluca. They're not supposed to grow this far up in the city."

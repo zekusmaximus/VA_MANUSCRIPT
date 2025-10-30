@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 5
 scene: 2
 chapter_title: "FRACTURED ALLIANCES"
+chapter_slug: fractured-alliances
 title: "Scene 2"
-slug: "fractured-alliances"
+slug: ch05-sc02-fractured-alliances
 order: 2
+prev: ch05-sc01-fractured-alliances
+next: ch05-sc03-fractured-alliances
+word_count: 1031
+reading_time_min: 5
+est_tokens: 1340
+id: "15c05e29-0411-4107-8c98-137839e2bc2c"
 ---
 
-      The transport pod rode thermal currents like a seed on the wind, its biomimetic shell adjusting to each shift in the air. Through its transparent sections, Amara watched the Hidden Garden disappear beneath clouds that seemed close enough to touch. Her neural interface registered atmospheric pressure changes, temperature gradients, wind patterns, data streams that painted a picture of power flowing not through circuits, but through the sky itself.
+The transport pod rode thermal currents like a seed on the wind, its biomimetic shell adjusting to each shift in the air. Through its transparent sections, Amara watched the Hidden Garden disappear beneath clouds that seemed close enough to touch. Her neural interface registered atmospheric pressure changes, temperature gradients, wind patterns, data streams that painted a picture of power flowing not through circuits, but through the sky itself.
       "Different kind of network up here," Kevin said, noting her engineer's fascination. "The Wind Tribes learned to read the air like we read soil patterns. Each current, each pressure change, it's all part of their power grid."
       The pod banked around a massive structure that seemed to dance with the wind rather than resist it. Living architecture, but unlike anything in Luminara's carefully managed systems. These buildings breathed, their surfaces rippling with engineered proteins that harvested energy from every breeze.
       "Impossible," Amara breathed, watching power signatures pulse through the undulating walls. "The structural requirements alone..."

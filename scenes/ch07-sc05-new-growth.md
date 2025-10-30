@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 7
 scene: 5
 chapter_title: "NEW GROWTH"
+chapter_slug: new-growth
 title: "Scene 5"
-slug: "new-growth"
+slug: ch07-sc05-new-growth
 order: 5
+prev: ch07-sc04-new-growth
+next: ch07-sc06-new-growth
+word_count: 707
+reading_time_min: 3
+est_tokens: 919
+id: "c7b290e4-6226-4846-9106-3a941f640c53"
 ---
 
-      The first message came from New Singapore, carried not through traditional networks but through patterns of atmospheric change that the Wind Tribes recognized. Their evolved processors translated it into visible form: light dancing through mist, telling stories of towers beginning to dream, of corporate systems starting to flower.
+The first message came from New Singapore, carried not through traditional networks but through patterns of atmospheric change that the Wind Tribes recognized. Their evolved processors translated it into visible form: light dancing through mist, telling stories of towers beginning to dream, of corporate systems starting to flower.
       "It's not just data anymore," Zara said, her silver hair flowing with merged information streams. Through their shared neural interface, Amara felt the message's deeper resonance, hope and fear and wonder braided together, carried on winds that crossed oceans. "They're reaching out with their whole being."
       The Memory Weaver archives bloomed with responses from other cities. Cape Town's solar arrays had begun generating patterns that transcended pure power collection. Rio's transportation networks moved with unprecedented grace. Each place found its own way to grow beyond optimization, to evolve past control.
       Dr. Veltri stood in the communication center, watching her corporate interfaces record transformations she'd never imagined possible. "The standardization protocols," she murmured. "They're not just failing globally. They're..." She gestured at displays showing how different cultures approached the same changes. "They're teaching us about diversity we never knew existed."

@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 6
 scene: 4
 chapter_title: "THE CORPORATE AGENDA"
+chapter_slug: the-corporate-agenda
 title: "Scene 4"
-slug: "the-corporate-agenda"
+slug: ch06-sc04-the-corporate-agenda
 order: 4
+prev: ch06-sc03-the-corporate-agenda
+next: ch07-sc01-new-growth
+word_count: 880
+reading_time_min: 4
+est_tokens: 1144
+id: "dac0dd00-448c-4243-92bc-5b3a3ca86b41"
 ---
 
-      The council chamber held its breath as the last corporate interface dissolved into something new. Not disappearing, but transforming, like a chrysalis becoming butterfly, like winter yielding to spring. Through their merged neural networks, Amara felt the city discovering forms of consciousness that transcended both natural and artificial.
+The council chamber held its breath as the last corporate interface dissolved into something new. Not disappearing, but transforming, like a chrysalis becoming butterfly, like winter yielding to spring. Through their merged neural networks, Amara felt the city discovering forms of consciousness that transcended both natural and artificial.
       "The patterns," Dr. Veltri whispered, her hands moving through streams of living data that had once been her perfect algorithms. "They're not just evolving anymore. They're..." She paused, wonder replacing the last traces of control in her voice. "They're teaching us how to grow."
       Around them, the chamber's architecture demonstrated what she meant. Living walls didn't just process information, they dreamed in colors that shouldn't exist, in harmonies that made corporate efficiency metrics sing. Wind Tribe atmospheric processors carried messages through chemical poems. Hidden Garden root networks mapped new forms of connection through evolved corporate protocols.
       "Look at the drone formations now," Kevin said softly. Through the chamber's upper membranes, they watched security forces moving in patterns that resembled not just natural phenomena, but new forms of flight altogether. Not bird or machine, but something born from the space between. "They're creating their own ways of dancing."

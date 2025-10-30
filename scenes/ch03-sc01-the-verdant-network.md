@@ -1,13 +1,20 @@
----
+﻿---
 chapter: 3
 scene: 1
 chapter_title: "THE VERDANT NETWORK"
+chapter_slug: the-verdant-network
 title: "Scene 1"
-slug: "the-verdant-network"
+slug: ch03-sc01-the-verdant-network
 order: 1
+prev: ch02-sc06-the-wasteland-connection
+next: ch03-sc02-the-verdant-network
+word_count: 979
+reading_time_min: 4
+est_tokens: 1273
+id: "7ed608fa-a2f5-4ef2-9fe3-e71f9a7486b9"
 ---
 
-      The abandoned botanical research center looked exactly as corporate surveys had described it: a failed experiment in sustainable architecture, its living walls brown and withered, its experimental gardens choked with decay. Amara stood before its crumbling entrance, tablet displaying the encrypted coordinates she'd received from the Network. According to official records, nothing here had shown signs of life in years.
+The abandoned botanical research center looked exactly as corporate surveys had described it: a failed experiment in sustainable architecture, its living walls brown and withered, its experimental gardens choked with decay. Amara stood before its crumbling entrance, tablet displaying the encrypted coordinates she'd received from the Network. According to official records, nothing here had shown signs of life in years.
       But Amara knew better than most how official records could lie.
       A vine shifted slightly as she passed, too slightly for corporate sensors to notice, but her engineer's eye caught the pattern. The movement wasn't random. The apparently dead plant was tracking her, its cellular structure conducting tiny electrical impulses. Reading her.
       Her tablet chimed softly, displaying new data: microscopic changes in air composition, subtle thermal variations, patterns of bioluminescence too faint for human eyes. The whole building was alive, but with a different kind of life than Luminara's carefully engineered systems.
