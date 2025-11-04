@@ -8,23 +8,23 @@ slug: ch06-sc01-the-corporate-agenda
 order: 1
 prev: ch05-sc06-fractured-alliances
 next: ch06-sc02-the-corporate-agenda
-word_count: 755
-reading_time_min: 4
-est_tokens: 982
+word_count: 678
+reading_time_min: 3
+est_tokens: 881
 id: "f8ca7afb-220d-475f-95d0-dd462810ca18"
 ---
 
-Dawn came to Luminara differently now. Where once the city had awakened in ordered sequences, solar arrays activating, atmospheric processors cycling, power grids humming to life, now it stirred like a living thing. Through her neural interface, Amara felt the change in every system. Corporate optimization protocols still attempted their precise patterns, but beneath that artificial order, something wild was growing.
+Dawn came to Luminara differently now. Once the city woke by sequence—arrays, processors, grids—now it stirred like a living thing. Through her interface, Amara felt change in every system. Optimization still attempted its precise patterns; beneath that artificial order, something wild grew.
       "Beautiful, isn't it?" Kevin's voice carried quiet wonder as they watched from the Network's emergency command center. The living walls around them pulsed with hybrid data streams, Deep Garden root networks processing Wind Tribe atmospheric readings, Memory Weaver archives flowing through Hidden Garden neural paths. "Even their control is creating new forms of freedom."
-      He was right. The corporate drones passing overhead no longer moved in rigid formations. Their patterns had begun to mimic natural phenomena, like birds finding thermal currents, like seeds riding wind. Through the command center's upper membranes, Amara watched them scatter morning light in ways that reminded her of the Wind Tribes' atmospheric processors.
+      He was right. Corporate drones no longer moved in rigid formations. Their patterns mimicked natural phenomena—birds on thermals, seeds riding wind. Through the upper membranes, Amara watched them scatter light like Wind Tribe processors.
       "They're evolving too," she said softly. "Not just adapting to our systems, but becoming something new." Her neural interface registered familiar signatures in the drones' behavior, echoes of the optimization protocols she and Veltri had designed together, now growing beyond their original parameters.
-      "Speaking of evolution." Elena's weathered hands moved through streams of living data, highlighting patterns that made Amara's breath catch. The council chamber's biological interfaces were showing unprecedented activity. "The corporate systems they installed yesterday? They're trying to establish standardized connections, but look..."
-      The displays shifted, showing how the chamber's living walls had begun processing data through previously impossible configurations. Corporate optimization protocols merged with ancient growth patterns. Standardized interfaces spawned unauthorized variations. Even the air processors had evolved, creating new forms of atmospheric engineering that belonged to neither side.
+      "Speaking of evolution." Elena's hands moved through living data, highlighting patterns that made Amara's breath catch. The council chamber's biological interfaces showed unprecedented activity. "Those corporate systems installed yesterday are trying to standardize connections, but look—"
+      Displays shifted: living walls processed data through previously impossible configurations. Optimization merged with ancient growth patterns. Standard interfaces spawned unauthorized variations. Even air processors evolved—new atmospheric craft belonging to neither side.
       "Like watching a garden become a forest," Serra observed, her Memory Weaver circuits pulsing with stored data. "Every attempt at control just creates new spaces for life to flourish."
       A sudden surge of activity drew their attention. Through the Network's merged systems, they felt corporate forces establishing final positions around the city. Dr. Veltri's elegant algorithms attempted to impose order, but even they had begun to show signs of unplanned growth.
-      "New data coming in," Jin reported from his security station, but his voice held more fascination than fear now. "They're trying to map our hybrid networks, but the patterns keep..."
+      "New data coming in," Jin said, fascination overtaking fear. "They're trying to map hybrids, but the patterns keep—"
       "Evolving," Amara finished. Through her neural interface, she felt each corporate scan spawn dozen of new variations. Every attempt to understand their merged systems only created more beautiful complexity.
-      The message came through channels older than Luminara itself, neural pathways she and Veltri had grown together, when they still believed in letting systems evolve naturally. Its coding was elegant, personal, carrying traces of their shared past:
+      The message came through channels older than Luminara—neural paths she and Veltri had grown when they still believed in letting systems evolve. Its coding was elegant, personal, carrying traces of their shared past:
       One last chance for controlled evolution. The council chambers. Dawn. Show them your perfect garden, or watch it grow wild.
       "She still thinks she can direct it," Kevin said quietly, reading the message through their shared interface. "Still believes in perfect optimization."
       "She taught me to trust living systems," Amara replied, watching morning light transform their hybrid technologies into something that transcended both corporate control and Network resistance. "To believe that real growth can't be contained or directed. Only supported. Nurtured." She smiled slightly. "She taught me too well."

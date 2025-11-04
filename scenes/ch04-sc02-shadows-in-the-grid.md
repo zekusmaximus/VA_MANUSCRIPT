@@ -8,28 +8,28 @@ slug: ch04-sc02-shadows-in-the-grid
 order: 2
 prev: ch04-sc01-shadows-in-the-grid
 next: ch04-sc03-shadows-in-the-grid
-word_count: 2494
+word_count: 2459
 reading_time_min: 10
-est_tokens: 3242
+est_tokens: 3197
 id: "e002b31d-35ea-439d-9a90-a4c5b2576c7b"
 ---
 
 The sun rose higher over Luminara, and the day's real work began.
       Luminara looked different from the outside. Amara stood at the edge of Sector 7's boundary, where the city's floating platforms gave way to open air, and tried to reconcile the two versions of her home. From within, it was a triumph of sustainable engineering. From here, she could see the shadows it cast.
       "Beautiful, isn't it?" Kevin's voice carried an edge she hadn't heard during the Network meeting. "The way it floats above everything it left behind."
-      The transport platform he'd brought hummed quietly, its salvaged gravitics perfectly maintained despite their apparent age. Another assumption about Wasteland technology she'd need to revise.
+      The transport platform hummed quietly, salvaged gravitics tuned despite their age. Another assumption about Wasteland tech revised.
       "We don't have much time," Ravi reminded them from his position at the Network's monitoring station. "The next drone sweep starts in four hours."
       Amara checked her tablet one last time, comparing power readings from their position to the anomalies she'd been tracking. The patterns were clearer from here, energy flowing not just through official channels but through a complex web of unofficial connections that stretched from the city into the wastes below.
       "Ready?" Kevin asked, offering his hand to help her onto the platform.
       She ignored it, making the step herself. "Let's see these modifications to my reactor design."
       The platform descended slowly through banks of morning mist. The city's filtered air gave way to something rawer, carrying scents of dust and growing things. Not the carefully engineered plants of Luminara's gardens, but something wilder.
       "Watch this," Kevin said, adjusting their course slightly. The platform passed through a shaft of sunlight, and suddenly the landscape below transformed. What had looked like random debris revealed itself as a cascade of cleverly disguised solar collectors, their surfaces designed to look like waste metal from above.
-      "Camouflage tech," Amara noted, professional interest overriding her caution. "But the power requirements for that kind of adaptive surface..."
+      "Camouflage," Amara said, interest warming her voice. "But the power to run adaptive surfaces—"
       "Are perfectly manageable when you're not trying to control every variable." Kevin's voice softened slightly. "Sometimes evolution is more efficient than engineering."
       They passed through a layer of thermal turbulence, the platform compensating smoothly. Amara watched the temperature readings on her tablet spike and settle. "The heat bloom from the city's waste energy," she said. "You're harvesting it."
-      "Among other things." Kevin adjusted their descent angle, revealing more hidden infrastructure. Towers that looked like abandoned industrial relics housed vertical farms. What appeared to be random trash piles contained sophisticated water reclamation systems.
+      "Among other things." Kevin adjusted their descent, revealing towers disguised as relics housing vertical farms, and "trash" piles hiding careful water reclamation.
       "All of this," Amara gestured at the hidden technology, "it's connected to the power anomalies in Sector 7?"
-      "Everything's connected." Kevin's smile was grim. "That's what your friend Dr. Veltri never understood. You can't separate the official systems from the unofficial ones. People find ways to survive. To adapt."
+      "Everything connects," Kevin said with a thin smile. "Official and unofficial were always one fabric. People adapt. Systems follow, or break."
       The platform passed through another bank of mist, and Amara's tablet suddenly lit up with new data. Networks she'd never seen before appeared on her screen, power flowing through pathways that shouldn't have existed.
       "Impossible," she breathed. "These readings... the efficiency rates..."
       "Are better than Luminara's in some areas," Kevin finished. "Turns out necessity is a better teacher than corporate optimization."

@@ -8,22 +8,22 @@ slug: ch07-sc04-new-growth
 order: 4
 prev: ch07-sc03-new-growth
 next: ch07-sc05-new-growth
-word_count: 2347
+word_count: 2318
 reading_time_min: 10
-est_tokens: 3051
+est_tokens: 3013
 id: "1432b06f-814c-4d1a-a2d3-a117e5d510b1"
 ---
 
 The day's celebrations continued, each one unique, each one connected, each one teaching the city's evolved systems new ways to support life's endless variation. Corporate efficiency metrics learned to measure joy. Wind Tribe weather patterns carried stories. Hidden Garden growth blessed every form of flowering.
       Through it all, Amara felt Luminara's heart beating with unprecedented harmony. The city wasn't just a place anymore, wasn't just a collection of separate communities. It was a song. And like all living things, it was still learning new ways to grow.
       The Network's command center had transformed like everything else, but in ways unique to its inhabitants. Living walls that once displayed pure data now wove emotional patterns through their information streams. Neural interfaces that had prioritized efficiency now carried dreams, hopes, memories. Through her merged connections, Amara felt each member's growth creating new harmonies in their shared consciousness.
-      "The security protocols aren't just adapting anymore," Jin reported, his fingers conducting streams of evolved data. "They're..." He paused, watching his drones move through patterns that resembled nurturing rather than protection. "They're learning to care."
+      "Security protocols aren't just adapting anymore," Jin said, fingers conducting evolved data. He paused, watching drones move in patterns that resembled nurture rather than patrol. "They're learning to care."
       The displays around his station showed what he meant. Security systems that once sought threats now recognized opportunities for growth. Corporate defense protocols had merged with Hidden Garden nurturing patterns, creating something that transcended both. Even the basic monitoring routines had developed unprecedented awareness.
-      "Like immune systems," Nia observed, her botanical interfaces resonating with Jin's evolved networks. "Not just defending against harm, but supporting health." Her own work had transformed similarly, plant neural networks now carried emotional context alongside data, creating living archives of community well-being.
+      "Like immune systems," Nia said, interfaces resonating with Jin's networks. "Not just defending, but supporting health." Her work had transformed too: plant networks carried emotional context alongside data—living archives of community well‑being.
       Through their shared neural link, Amara felt the subtle shift in Jin's understanding. His military training hadn't been erased but had evolved, like corporate optimization growing into celebration of life's endless variation. Each security sweep now left traces of beauty in its wake, like flowers blooming in drone paths.
       "The historical patterns are fascinating," Elena said, her aged hands moving through streams of living memory. The Memory Weaver archives under her care had developed new ways of preserving knowledge, not just storing information, but keeping it alive, letting it grow with each access. "We're not just recording anymore. We're..."
       "Growing wisdom," Ravi finished. His technical expertise had evolved too, finding ways to merge efficiency with organic development. The systems he monitored didn't just process data, they dreamed it, played with it, learned from it in ways that transcended pure computation.
-      Around them, the command center's architecture demonstrated their transformation. Walls flexed with emotional currents. Atmospheric processors carried meaning through subtle chemical gradients. Even the basic display interfaces had developed unique personalities, each one finding its own way to celebrate the data it carried.
+      Around them, architecture demonstrated the change. Walls flexed with emotional currents. Atmospheric processors carried meaning through chemical gradients. Even basic displays had developed personalities, each celebrating data its own way.
       "Look at these connection patterns," Nia called, drawing their attention to new growth in the neural networks. Communities that had once required careful technical bridging now found natural ways to share resources, skills, dreams. "They're teaching each other how to..."
       "Dance," Jin said softly, surprising himself with the word choice. But through their shared interface, Amara felt its rightness. His security systems had indeed learned to dance, with wind patterns, with plant growth, with human hopes and fears.
       Elena's weather-worn hands traced patterns in the flowing data, highlighting moments where different approaches strengthened each other. "The corporate systems taught us precision," she noted. "The Hidden Garden showed us growth. The Wind Tribes gave us flow. And now..."

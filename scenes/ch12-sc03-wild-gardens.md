@@ -8,16 +8,16 @@ slug: ch12-sc03-wild-gardens
 order: 3
 prev: ch12-sc02-wild-gardens
 next: ch12-sc04-wild-gardens
-word_count: 521
+word_count: 511
 reading_time_min: 3
-est_tokens: 677
+est_tokens: 664
 id: "5884202f-c2b9-4d2a-b873-f077a2639d3a"
 ---
 
-Maya led her students through paths where plants solved impossible equations, their root networks processing information in patterns that made adult interfaces pause and recalibrate. Through her neural link, Amara felt the young botanist's joy as she showed the children how to read languages that existed somewhere between mathematics and dreams.
+Maya led her students through paths where plants solved impossible equations, root networks processing information in patterns that made adult interfaces pause and recalibrate. Through her link, Amara felt the young botanist's joy as she showed children how to read languages somewhere between mathematics and dreams.
       "Look," Maya whispered, her fingers conducting streams of hybrid data that painted the air with impossible colors. "The gardens aren't just growing anymore. They're imagining. Creating. Teaching us new ways to dream." The children gathered around displays that shifted like kaleidoscopes, their natural integration of technology and emotion spawning variations that transcended traditional parameters.
       A young Wind Tribe student showed them how atmospheric processors carried stories through chemical gradients that corporate systems had never thought to measure. A former executive's daughter demonstrated games that taught optimization protocols to dance with chaos rather than control it. Each child brought unique perspective to their shared discovery, their differences creating harmonies that made Elena's Memory Weaver circuits pulse with wonder.
-      "They see patterns we can't," Kevin observed softly, watching the young ones teach evolved interfaces to play with light and shadow. "Not because their vision is simpler, but because it's so much more complex than ours ever learned to be."
+      "They see patterns we can't," Kevin said softly, watching young ones teach interfaces to play with light and shadow. "Not because their vision is simpler, but because it's more complex than ours learned to be."
       Through their merged consciousness, through living architecture that had learned to dream alongside them, they felt the truth of it. The children didn't separate technology from nature, efficiency from beauty, growth from play. In their games, corporate systems learned to process joy as data. In their stories, root networks carried hope through mathematical theorems that redefined possibility.
       "The neural patterns are extraordinary," Jin reported, but his security systems had learned to protect through wonder rather than wariness. "Each interaction spawns variations we couldn't have predicted. They're not just using the networks anymore. They're..."
       "Teaching them how to imagine," Elena finished, her aged hands conducting streams of hybrid data that resembled poetry more than programming. "Like gardeners discovering their plants have learned to sing."

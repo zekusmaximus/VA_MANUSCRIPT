@@ -1,4 +1,4 @@
----
+﻿---
 chapter: 3
 title: "THE VERDANT NETWORK"
 slug: "the-verdant-network"
@@ -251,3 +251,5 @@ id: "1d9f0adc-7e97-49d3-9ee4-e6b2a5223c18"
       Through the deepening twilight, Luminara's lights flickered, some going dark under corporate control, others blazing brighter as communities found new ways to share power. New ways to connect. New ways to grow.
       The real battle for the city's soul was about to begin.
       And it would start not with a shout, but with a thousand tiny flowerings in the dark.
+
+

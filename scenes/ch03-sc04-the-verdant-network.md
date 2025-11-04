@@ -8,29 +8,29 @@ slug: ch03-sc04-the-verdant-network
 order: 4
 prev: ch03-sc03-the-verdant-network
 next: ch03-sc05-the-verdant-network
-word_count: 948
+word_count: 901
 reading_time_min: 4
-est_tokens: 1232
+est_tokens: 1171
 id: "f26e5afa-eb99-4904-ac82-aedccbb43903"
 ---
 
-The Network's strategy room felt too small for the tension it contained. Holographic displays showed Luminara's power grid in real-time, corporate influence spreading like frost across a window. The Memory Garden's data scrolled alongside current readings, past and present merging in streams of light.
+The strategy room felt too small for the tension inside it. Holograms showed Luminara's grid in real time, corporate influence spreading like frost. Memory Garden data scrolled beside live readings—past and present braided in light.
       "We need to act now." Jin's voice cut through the murmur of discussion. The security specialist's algae marks pulsed with agitation. "Every hour we wait gives them more control over the grid."
       "Rushing in without proper preparation got New Alexandria wiped off the map," Elena countered, her weathered hands steady as she manipulated the historical overlay. "The Memory Garden showed us that pattern clearly enough."
-      Amara studied both displays, seeing the truth in both arguments. The corporate protocols were advancing faster than predicted, but their historical data showed how direct confrontation had failed in other cities.
+      Amara watched both displays. Protocols advanced faster than forecast; history showed how direct confrontation failed elsewhere.
       "What about a targeted disruption?" Ravi suggested, pulling up Sector 7's subsystems. "We could use the old reactor signatures to..."
-      "And risk the communities that depend on those networks?" Nia interrupted. Her botanical interfaces showed widespread disruption in the sector's living systems. "People's lives aren't theoretical data points."
+      "And risk the communities those networks hold?" Nia cut in. Her interfaces showed disruption in Sector 7's living systems. "People aren't datapoints."
       "Neither is corporate control," Jin shot back. "Ask the people of Rio how theoretical it felt when their community networks went dark."
       Kevin stood silent at the edge of the debate, watching the factions form. His eyes met Amara's across the room, carrying a weight of understanding. They'd seen this pattern too in the Memory Garden, how division could be as effective as direct control.
       "The council vote is in two days," Amara said, stepping into the center of the room. The displays shifted around her, showing the acceleration of corporate integration. "Dr. Veltri isn't waiting for approval. The protocols are already..."
       "Dr. Veltri," a young Network member scoffed. "Your mentor. Maybe that's why you're hesitating. Maybe loyalty..."
       "Careful," Kevin's voice was soft but carried an edge. "Engineer Solis has proven her commitment."
-      "Have you?" Elena asked Amara directly. "The Memory Garden showed us your mentor's path. Are you certain you won't follow it?"
+      "Have you?" Elena asked. "The Memory Garden showed your mentor's path. Are you sure you won't follow it?"
       The room went quiet. Amara felt the weight of history pressing down, not just the collected memories of resistance, but her own path from Luminara's bright towers to this underground chamber.
       "I've seen what corporate optimization really means," she said finally. "In the Hidden Garden, in Serra's settlement, in the Memory Garden's records. But I've also seen how direct confrontation fails. We need a different approach."
       "What kind of approach?" Jin demanded. "While we debate, they're mapping every independent network, every community connection..."
       "Exactly," Amara said. "They're mapping connections. So let's give them connections they can't map."
-      She moved to the central display, fingers dancing through data streams. "Look at their pattern. They're using my old neural network designs, modified for control rather than adaptation. But the base architecture is still there. Still alive."
+      She stepped to the central display. "Look at their pattern. My old neural designs—repurposed for control. But the base architecture remains. Still alive."
       Understanding dawned in Ravi's eyes. "You want to turn their mapping against them?"
       "Better." Amara pulled up the Hidden Garden's specs alongside Serra's textile networks. "I want to let them map everything. Every connection, every adaptation, every pattern of resistance and survival. Let them think they're building their perfect model."
       "And then?" Elena's voice carried both doubt and curiosity.

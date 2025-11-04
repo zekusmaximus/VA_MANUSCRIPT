@@ -8,26 +8,26 @@ slug: ch05-sc01-fractured-alliances
 order: 1
 prev: ch04-sc04-shadows-in-the-grid
 next: ch05-sc02-fractured-alliances
-word_count: 1985
+word_count: 1858
 reading_time_min: 8
-est_tokens: 2580
+est_tokens: 2415
 id: "ce5f29c6-e8cf-4e91-b1b0-505e2d615876"
 ---
 
-Dawn was still hours away, but the Network's command center pulsed with urgent life. Living walls tracked multiple threats through patterns of bioluminescence, each failing community system leaving trails of darkness through the light, like wounds in a neural network. The engineered plants that processed their data had evolved past their original parameters, their leaves turning toward each surge of information like flowers following unseen suns. Even the air felt different, heavy with the sweet-sharp scent of stressed biotechnology, as processing algae worked overtime to maintain atmospheric balance.
+Dawn was still hours away, but the command center pulsed with urgent life. Living walls tracked threats in bioluminescent patterns; each failing community system left a dark trail through light like a wound in a neural net. The plants that processed their data had grown past their briefs, leaves turning toward each surge like flowers following unseen suns. Even the air felt different—sweet‑sharp with stressed biotech as processing algae worked overtime to keep balance.
       "Sixth independent food garden lost in Sector 4," Nia reported, her fingers moving through streams of botanical data. The plants around her station dimmed in sympathy, their leaves curling inward. "Three thousand people just lost their primary food source. The mycelial networks that maintained soil health, the pollinator colonies, the atmospheric processors, all dark."
-      Through her neural interface, Amara felt each loss like a physical pain. The garden's systems hadn't simply failed, they'd been systematically disconnected from the natural networks that sustained them. Corporate optimization replacing living complexity with mechanical efficiency.
-      "The foundations," she said, watching patterns shift across her diagnostic feeds. "They're not just attacking infrastructure. They're trying to sever our connection to natural systems themselves."
+      Through her neural interface, Amara felt each loss like pain. The gardens hadn't failed; they'd been severed from the natural networks that sustained them—optimization flattening complexity.
+      "The foundations," she said, watching feeds shift. "Not just infrastructure—our connection to living systems."
       The debris from their reactor confrontation still scrolled across adjacent displays. Corporate drone components showed impossible evolution, biomimetic processors that had learned to mimic living tissue, adaptive algorithms that grew more organic with each engagement. One broken drone fragment still pulsed with residual energy, its neural networks having evolved to draw power from atmospheric differentials, just like the Wind Tribes' technology.
-      "These command protocols," Ravi said, pulling up code sequences that writhed like living things. His hands shook slightly as he highlighted a particular pattern. "This was from our earliest work, Amara. You and Veltri, the first adaptive networks you grew together. But she's modified it, turned it into..."
-      "A predator," Elena finished. The old researcher's weathered hands moved through the data streams with practiced grace. "Look how it spreads. Like a parasitic vine, using the host's own systems to propagate."
+      "These command protocols," Ravi said, pulling up sequences that writhed like living things. His hands shook as he highlighted a pattern. "From our earliest work—yours and Veltri's first adaptive nets. She's modified it, turned it into—"
+      "—a predator," Elena finished, hands steady in the light. "Watch it spread—parasitic, using host systems to propagate."
       New alerts pulsed through the chamber's biological interfaces. In Sector 7, the largest community atmospheric processor went dark. The bioengineered plants that cleaned their air, the specialized algae that maintained oxygen balance, all suddenly offline. Around them, the command center's own air processors worked harder, their soft humming taking on a stressed undertone.
       "Maya's medical garden just lost power," Jin reported from his security station, naming one of their youngest botanists. "Her hybrid strains, the ones adapting to corporate pollution, they're dying without the support systems. Three months of evolution lost in minutes."
-      The displays around him showed corporate forces establishing new patterns, their formations flowing like predatory currents through Luminara's living infrastructure. But these weren't the rigid geometric patterns they'd faced before. These moved like natural phenomena, like water finding lowest ground, like roots seeking nutrients, like life itself.
-      "Because they're not just following protocols anymore." Amara moved to the central interface, where data streams converged like tributaries into a river of light. "Dr. Veltri has taught them to adapt. To evolve. To grow."
+      Displays showed formations flowing like predatory currents through living infrastructure. Not rigid geometry now, but water finding low ground, roots seeking nutrients—life itself.
+      "They're not just following protocols anymore." Amara moved to the central interface where streams converged like tributaries. "Veltri taught them to adapt. To evolve."
       The name sent ripples through the chamber's living systems. The massive fern that processed atmospheric data curled its fronds inward. Bioluminescent colonies dimmed and brightened in patterns of agitation. Through the neural network, Amara felt the space itself remembering, remembering when Veltri had helped design these systems, had believed in letting them grow naturally.
-      "Then we fight back," Kevin's brother Lin insisted. His Hidden Garden circuits pulsed with barely contained energy. "The reactor proved their systems can be overwhelmed. If we coordinate an attack..."
-      "And risk the hospital gardens? The education centers? The community shelters?" Serra's voice carried the weight of the Memory Weavers' collected wisdom. Her fingers traced patterns in threads that sparkled with stored data. "Violence against living systems only creates more wounds to heal."
+      "Then we hit back," Kevin's brother Lin said, circuits pulsing. "The reactor proved we can overwhelm. If we coordinate—"
+      "And risk hospital gardens? Education centers? Shelters?" Serra's voice carried Memory Weaver weight. Her fingers traced stored‑light threads. "Violence against living systems creates more to heal."
       "But healing requires survival." Zara of the Wind Tribes gestured at the spreading darkness in their displays. Silver-threaded hair shifted like clouds before storm. "Sometimes the wind must rage to clear the air."
       Through her neural interface, Amara felt the subtle shift as Elena moved to the central interface. The old researcher's hands danced through the light, highlighting patterns beneath the surface chaos. "Look deeper," she said softly. "Past the failure. Past the loss."
       And Amara saw it. Where the food garden's power failed, Hidden Garden's root networks had extended, carrying nutrients through new pathways. When atmospheric processors went dark, algae colonies evolved alternative filtration methods. Each corporate attack created spaces where new forms of life could flourish.

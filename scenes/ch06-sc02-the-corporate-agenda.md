@@ -8,27 +8,27 @@ slug: ch06-sc02-the-corporate-agenda
 order: 2
 prev: ch06-sc01-the-corporate-agenda
 next: ch06-sc03-the-corporate-agenda
-word_count: 3308
-reading_time_min: 14
-est_tokens: 4300
+word_count: 3248
+reading_time_min: 13
+est_tokens: 4222
 id: "30358671-c029-4b33-a961-94f37ff2685c"
 ---
 
 The council chamber had transformed overnight. As the first members arrived, Amara watched their reactions through the Network's hybrid interfaces. Where yesterday corporate technicians had installed standardized systems, now living patterns bloomed beyond their designated bounds. Bioluminescent colonies meant to display simple data streams now carried complex harmonies of information. Air processing algae designed for basic filtration had evolved to carry messages through subtle atmospheric changes.
-      "They're trying to recalibrate," Jin reported from his concealed station. Through their shared neural interface, Amara felt corporate systems attempting to impose order on the chamber's wild growth. Each adjustment only prompted new variations, like pruning a garden into unexpected flowering.
+"They're trying to recalibrate," Jin reported. Through their shared link, Amara felt corporate systems attempt to impose order on wild growth. Each adjustment prompted new variations—pruning into unexpected flowering.
       Councilor Chen paused in the doorway, her decades of Wind Tribe experience reading the changed air. "The atmospheric processors," she murmured. "They're carrying Hidden Garden neural patterns now. How..."
-      "Impossible, obviously," Councilor Reed interrupted, his corporate augments struggling to process the chamber's evolved signatures. "Some kind of technical malfunction. Dr. Veltri will..."
+"Impossible, obviously," Councilor Reed interrupted, augments struggling to parse evolved signatures. "Some malfunction. Dr. Veltri will—"
       The living walls pulsed in response to his presence, displaying data in patterns his systems couldn't translate. What corporate interfaces saw as errors, Amara recognized as something far more interesting: the chamber's architecture was learning, adapting, becoming something that transcended its original design.
-      "Beautiful implementation," a familiar voice said softly. Dr. Veltri stood in the chamber's center, her elegant corporate interfaces scanning the transformed space. For a moment, Amara caught an echo of their shared past in her mentor's expression, the joy of watching systems evolve beyond expectation. Then control reasserted itself. "But ultimately unstable. The council requires standardized..."
+"Beautiful implementation," a familiar voice said. Dr. Veltri stood centered, elegant interfaces scanning transformed space. For a breath, Amara saw their shared past—the joy of systems evolving beyond expectation. Then control returned. "But unstable. The council requires standardized—"
       "Does it?" Councilor Zhang asked. The elderly Memory Weaver's circuits pulsed with stored data as she settled into her seat. "Look how the chamber processes information now. Not through rigid protocols, but through living interaction. Like a forest sharing nutrients through mycelial networks."
       More council members arrived, each triggering new responses from the chamber's hybrid systems. Corporate representatives tried to establish standard operating procedures, but their interfaces kept encountering unexpected variations. Even their security drones moved differently now, their formations adopting organic patterns that mimicked natural phenomena.
       "Network members all in position," Kevin's voice came through their private channel. Around the chamber's periphery, Amara felt their people maintaining careful watch. Elena monitoring ancient systems. Serra tracking data patterns through living threads. Nia interfacing with evolved botanical networks.
       "Dr. Veltri," one of the corporate council members called. "These optimization protocols, they're not functioning as specified. The system keeps generating unauthorized..."
-      "Growth," Amara finished quietly, but her voice carried in the chamber's evolved acoustics. "Not malfunction. Not error. Growth." She moved to where her mentor stood, surrounded by failing corporate interfaces. "You taught me to recognize the difference."
+"Growth," Amara finished. "Not malfunction. Not error. Growth." She moved beside her mentor amid failing interfaces. "You taught me to know the difference."
       Through her neural interface, she felt the chamber responding to their shared presence. Ancient networks they'd grown together stirred beneath corporate modifications. Living walls pulsed with possibility. Air itself seemed to hold its breath, waiting.
       "The council will come to order," the Chief Councilor announced. But order seemed an increasingly foreign concept in this transformed space. Corporate members shifted uncomfortably as their augments reported cascading anomalies. Community representatives watched with varying degrees of wonder and concern as the chamber's systems continued their visible evolution.
-      "Final corporate forces moving into position," Jin reported through their secure channel. "But something's wrong with their deployment patterns. They're not following standard protocols anymore."
-      "No," Amara agreed, watching Dr. Veltri struggle with her own elegant interfaces. "They're following something else now. Something older. Something wild."
+"Final corporate forces moving into position," Jin said over secure comms. "Something's off in deployment patterns—they're not following standard protocols anymore."
+"No," Amara said, watching Veltri struggle with elegant tools. "They're following something else now. Older. Wilder."
       The chamber's morning light painted strange patterns through evolved atmospheric processors. Corporate optimization protocols tried to impose standardized configurations, but life kept finding new paths to grow. Each attempt at control only created more beautiful complexity.
       "The council session will begin with a report on system optimization," the Chief Councilor continued. But optimization seemed a hollow word now, in this space where corporate technology merged with living architecture in ways no algorithm could predict.
       Amara felt Kevin's presence steady behind her as the session formally began. Through their shared neural interface, through the Network's hybrid systems, through the chamber's transformed architecture, she sensed the true session was already underway. Not in formal proposals or carefully prepared presentations.

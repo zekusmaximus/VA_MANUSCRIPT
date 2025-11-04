@@ -1,4 +1,4 @@
----
+﻿---
 chapter: 10
 title: "RESONANCE PATTERNS"
 slug: "resonance-patterns"
@@ -31,5 +31,8 @@ id: "15e6aba5-f03a-4282-9663-ac59bdbd7670"
       Through neural networks that had learned to carry wonder as data, they felt the first stirrings of transcendence. Dawn would reveal what waited beyond the edges of the possible.
       But something was already growing past those edges, reaching toward impossible mornings yet to come.
       
+
+
+
 
 

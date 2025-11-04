@@ -1,4 +1,4 @@
----
+﻿---
 chapter: 4
 title: "SHADOWS IN THE GRID"
 slug: "shadows-in-the-grid"
@@ -196,3 +196,5 @@ id: "5744c74b-0f64-491c-aa5d-648c85ce31ad"
       The sun set over Luminara, but in the darkness, countless small lights pulsed with shared purpose. Each one a garden, a home, a community refusing to be optimized into uniformity. Not just resisting.
       Growing.
       And tomorrow, they would show the council exactly what that meant.
+
+

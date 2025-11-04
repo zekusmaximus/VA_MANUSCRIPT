@@ -1,4 +1,4 @@
----
+﻿---
 chapter: 9
 title: "GLOBAL CURRENTS"
 slug: "global-currents"
@@ -120,3 +120,5 @@ id: "56cf07f1-eef9-4e26-918f-488b19058242"
       It had only begun to teach them how wild their garden could become.
       The real transformation was still taking root.
       And dawn would show them where it might lead.
+
+
