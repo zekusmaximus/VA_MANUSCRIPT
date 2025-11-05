@@ -1,12 +1,12 @@
 ﻿---
 chapter: 1
-scene: 5
+scene: 6
 chapter_title: "THE LUMINARA HORIZON"
 chapter_slug: the-luminara-horizon
-title: "Scene 5"
-slug: ch01-sc05-the-luminara-horizon
-order: 5
-prev: ch01-sc04-the-luminara-horizon
+title: "Scene 6"
+slug: ch01-sc06-the-luminara-horizon
+order: 6
+prev: ch01-sc05-night-run-the-luminara-horizon
 next: ch02-sc01-the-wasteland-connection
 word_count: 808
 reading_time_min: 4
@@ -15,7 +15,7 @@ id: "0ae3214e-df5d-4fe8-bf24-3af2a83a25f5"
 ---
 
 At the top of Sector 4, Amara's apartment usually felt like a canopy nest above the city. This morning the height felt like distance. Pre‑dawn light threaded Luminara's spine; bioluminescent pathway veins dimmed as the horizon brightened. Her living walls, quick to breathe with her presence on other days, held a careful stillness—as if listening for a rhythm they no longer trusted.
-      She'd spread her work across the main room, tablets and throw‑screens forming an improvised archipelago. Festival power readings. Sector 7 anomalies. Nia's plant signatures. Each was a bright shard that refused to be the whole. Her algae tea had gone cold, the sweet‑green scent turning flat beside the heat of her thoughts.
+      She'd spread her work across the main room, tablets and throw‑screens forming an improvised archipelago. Festival power readings. Sector 7 anomalies. Unauthorized flowers' field signatures. Each was a bright shard that refused to be the whole. Her algae tea had gone cold, the sweet‑green scent turning flat beside the heat of her thoughts.
       On the desk, the biotecture sample she'd grown with Veltri lifted its leaves toward the faintest light, patient as always. It had taught her more about persistence than any algorithm. "Some things stay true to their nature," Veltri used to say. The remembered warmth turned metallic on her tongue.
       "Show me the pattern," she murmured, fingers sleeking across glass. "Show me what we missed."
       She layered festival drain over Sector 7's flicker, then let Nia's flower‑borne field readings settle on top. The composite didn't just resemble the old reactor's behavior—it clicked into it, notch by notch, like a legacy handshake pulsing through new nerves. Not failure. Practice. A careful imprint taken of a living system taught to hold still.

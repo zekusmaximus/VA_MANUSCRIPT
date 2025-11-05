@@ -18,10 +18,10 @@ Dawn painted Luminara's eastern edge gold, but Amara read the dark in her data. 
       "That can't be right," she muttered, running another diagnostic. The numbers didn't change. The city's neural grid wasn't just being accessed, it was being systematically mapped. Each anomaly she'd tracked formed part of a larger pattern, like someone taking a perfect digital impression of Luminara's nervous system.
       Her tablet chimed. Anonymous packet—encryption elegant, alive, adapting around her probes. The base structure was hers and Veltri's, once; this version had shed its lab manners. Wilder. Curious.
       "Interesting choice," a voice said behind her. "Using the old neural pathways to trace the new ones."
-      Amara turned. A woman stepped from morning mist, skin traced with faint phosphorescent lines—instrumentation, not ornament. Data moved there.
-      "Nia," the woman introduced herself. "But you already knew that from the Network messages."
+      Amara turned. Nia stepped from the morning mist, skin traced with faint phosphorescent lines—instrumentation, not ornament. Data moved there.
+      "You already knew that from the Network messages."
       "I wasn't sure you were real," Amara admitted. "The data patterns you sent..."
-      "Are happening everywhere." Another figure appeared: tall, thin, with fingers that moved constantly over a hidden interface. "I'm Jin. Network security. And you're not the only one who's noticed."
+      "Are happening everywhere." Another figure appeared: tall, thin, with fingers that moved constantly over a hidden interface. Jin—Network security. "And you're not the only one who's noticed."
       Jin's gesture knit light into grids—Luminara and cities beyond—meshes pulsing with the same disciplined disruptions.
       "Corporate optimization protocols," a familiar voice added. Ravi stepped into view, his usual control room precision replaced by something more urgent. "But look at the pattern beneath the pattern."
       He tipped the map; Amara's breath caught. Beneath sanctioned flows ran other networks—unofficial connections and improvised solutions the programs were methodically mapping.
@@ -34,9 +34,9 @@ Dawn painted Luminara's eastern edge gold, but Amara read the dark in her data. 
       "She is." Jin's fingers danced through the data. "But optimization doesn't always mean improvement. Sometimes it means standardization. Control. Replacement."
       The holographic displays merged, showing the full scope of what was happening. Corporate systems weren't just mapping the official grid, they were documenting every alternative, every adaptation, every solution communities had developed to survive.
       "Why show me this?" Amara asked, though part of her already knew.
-      "Because it's not just about power distribution anymore," a new voice answered. Kevin emerged from the shadows, looking grimmer than he had at yesterday's council meeting. "It's about who controls the future. The corporate vision of perfect, predictable efficiency, or humanity's messy, brilliant capacity to adapt and grow."
+      "Because it's not just about power distribution anymore," a new voice answered. Kevin emerged from the shadows, grimmer than at the council meeting. "It's about who controls the future. The corporate vision of perfect, predictable efficiency, or humanity's messy, brilliant capacity to adapt and grow."
       He shifted the display: places where communities had modified Luminara's originals—made them more resilient, more alive—beyond algorithmic prediction.
-      "Someone in the Wastelands," Kevin said carefully, "has been improving your old reactor designs. Making them work in ways your corporate assessments said were impossible. Want to see?"
-      Amara looked at her tablet—the anonymous packet unfolding like a fern—and at a future being mapped toward tidy obedience.
-      "Show me," she said.
-      The sun climbed over arrays and algae farms; Amara watched the seams between systems, where other power flowed. Where something was growing.
+      "Someone in the Wastelands," Kevin said carefully, "has been improving your old reactor designs—working in ways your corporate assessments said were impossible."
+      Amara glanced at her tablet—the anonymous packet unfolding like a fern—and at a future being mapped toward tidy obedience.
+      "No tours," she said. "Give me the task list."
+      The sun climbed over arrays and algae farms as they moved, keeping to seams between systems where other power flowed. Where something was growing.

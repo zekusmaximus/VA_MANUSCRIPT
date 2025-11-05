@@ -37,6 +37,7 @@ The sun climbed and Luminara turned its mirrored faces to meet it—arrays gleam
       Lower now, they crossed a field that read as dead scrub until pattern recognition clicked: brittle stalks angled to catch and guide water, roots braided into living conduits.
       "The assessment called this wasteland," she said. "Dead zones. Sinks."
       "We let them," Kevin said, years of careful resistance in the words. "Sensors miss what they don't know to ask."
+      Luminara’s diagnostics flagged “inefficient” signatures as noise by default; anything unstandardized slipped past as if it weren’t there.
       They banked around a mountain of debris and Amara's breath caught. In its shadow, a shape she knew—her reactor—rewritten as something organic, almost alive.
       "That's impossible," she said again. "Containment alone—"
       "—would be with your baseline," Kevin agreed. "We modified." He angled them toward a concealed pad. "Ready to see how the other half lives, Engineer Solis?"

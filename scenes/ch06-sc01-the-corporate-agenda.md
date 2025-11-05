@@ -30,8 +30,13 @@ Dawn came to Luminara differently now. Once the city woke by sequence—arrays, 
       "She taught me to trust living systems," Amara replied, watching morning light transform their hybrid technologies into something that transcended both corporate control and Network resistance. "To believe that real growth can't be contained or directed. Only supported. Nurtured." She smiled slightly. "She taught me too well."
       Around them, the command center's living walls continued their dance of merged data and evolved purpose. Corporate drones cast moving shadows through dawn light. Council members would arrive soon, walking into a chamber transformed by the very forces they sought to control.
       "They're not ready for this," Elena said, but her voice carried more pride than concern. "None of them are ready for what real evolution looks like."
-      Through her neural interface, Amara felt Luminara's systems stirring with unprecedented life. Corporate technology evolving beyond its makers' intent. Network resistance becoming something entirely new. The whole city breathing like a vast garden waking to unexpected spring.
+Through her neural interface, Amara felt Luminara's systems stirring with unprecedented life. Corporate technology evolving beyond its makers' intent. Network resistance becoming something entirely new. The whole city breathing like a vast garden waking to unexpected spring.
       "No," she agreed, watching light paint possibilities across the transformed sky. "But maybe that's exactly what evolution means. Becoming something no one could predict. Not even ourselves."
+      "Lock roles," Jin prompted over tight‑band. "Three fronts or we diffuse."
+      Amara answered without hesitation. "A: Reactor re‑entry—legacy mesh online as an alternate path. Nia on botanics. B: Helios baselines—Ravi and Jin pull during demo pulse, keep kids’ textiles hidden. C: Council proof—I hold the channel and show human stakes on the record."
+      Jin’s log ticked over in the periphery: GHOST‑3: SACRIFICED. Arc‑9 held because of it. Costs belonged on the record too.
+      Serra stepped close, placing a square of shimmering fabric in Amara’s hands. It warmed to her field. "Bioelectric keyed," Serra said. "Variance reservoir gateway. Feed textiles, roots, and vents through it when their dampeners try to freeze you."
+      Amara felt it resonate with the Network, a quiet chorus ready to catch breath where control tried to arrest it. "I’ll hold the channel," she said. "Whatever it costs."
       The council chambers waited. Dr. Veltri's message hung in ancient neural paths. Corporate forces gathered like storm clouds against dawn.
       But here, in this space between resistance and control, between what was and what could be, something new had already taken root. Something that couldn't be mapped or measured or optimized away.
       Something wild.

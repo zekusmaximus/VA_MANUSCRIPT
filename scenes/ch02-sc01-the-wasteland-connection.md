@@ -6,7 +6,7 @@ chapter_slug: the-wasteland-connection
 title: "Scene 1"
 slug: ch02-sc01-the-wasteland-connection
 order: 1
-prev: ch01-sc05-the-luminara-horizon
+prev: ch01-sc06-the-luminara-horizon
 next: ch02-sc02-the-wasteland-connection
 word_count: 726
 reading_time_min: 3

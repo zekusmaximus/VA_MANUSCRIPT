@@ -48,7 +48,9 @@ The monitoring center hummed with a different tension now. Before they tracked i
       "How long?" Elena asked.
       Amara calculated quickly. "At this rate? The drone convergence will reach critical coverage in less than six hours. Once they establish full mapping capability..."
       "They won't need the council's approval," Kevin finished. "They'll have effective control already."
-      The room absorbed this, watching their carefully gathered data paint an increasingly urgent picture. Then Amara noticed something in the Hidden Garden's response patterns, a subtle shift in how the communities were connecting.
+      Asha broke in on a community band, voice hushed to keep the infants sleeping. "Arc‑9 corridor report: med warmers green; pumps steady. Watchers in place on stairwells—no eyes yet, but we’ll make do." In the background, someone called counts for blankets and milk. Nia routed a runner to the stair core with a coil of conductive thread and a roll of cloth tags. "Teach the watchers how to mark flows," she told Amara. "If we can’t see, we can still read."
+      Kevin nodded, already drafting a simple pattern on a membrane: three knots for water, two for heat, one for ‘all’s well’—a code anyone could learn in minutes. "Trust via competence," he murmured; Amara heard the pride he didn’t voice.
+      The room absorbed the update, watching their carefully gathered data paint an increasingly urgent picture. Then Amara noticed something in the Hidden Garden's response patterns, a subtle shift in how the communities were connecting.
       "Look at this," she said, highlighting the changes. "They're not just adapting individually anymore. They're learning from each other. Sharing solutions in real time."
       Ravi leaned in. "The network evolution rate is accelerating. Each adaptation spawns three more."
       "Just like a living system," Nia added, natural pride in her voice.

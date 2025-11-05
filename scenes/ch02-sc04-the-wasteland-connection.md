@@ -21,10 +21,12 @@ The Hidden Garden's central meeting space was carved from an old water tank, its
       "Those intersections," Amara said, leaning in. "Sector 7's signature—everywhere."
       "Each red point is a community network under examination," Kevin said. "Underground gardens, neighborhood microgrids, unofficial recycling hubs—"
       "Any place people solved for themselves," Elena finished. "Any system that won't take a leash."
-      Jin, the Network's security specialist, brought up another set. "Drones are mapping beyond watts. Water cycles, food production, social graphs. They're building survival models for life outside official control."
+      Jin, the Network’s security specialist, set a recovered drone tag on the table. He cracked its cache: water cycles, food production, social graphs. “They’re mapping more than watts. Survival models for life outside official control.”
       "To 'optimize'?" Amara asked, already knowing.
       "To replace it," Kevin said. "Hard to sell a fix when people have one."
-      Amara thought of the Garden's elegant chaos, of Maya's hybrids, of innovations grown by necessity and freedom. "The council has to see what this destroys. Dr. Veltri—"
+      Amara thought of the Garden's elegant chaos, of Maya's hybrids, of Lantern House warming back to life. "The council has to see what this destroys. Dr. Veltri—"
+      Elena lifted a hand and the wall shifted to memory: lab footage from years ago. Veltri younger, eyes bright. "Trellis, not control," she told a room of exhausted engineers. "We scaffold growth and get out of the way." The image jumped to a later crisis—rolling brownouts, a city at edge. Veltri again, older, voice ironed flat: "Standardize or collapse. Acceptable losses." Gray wash slid across familiar blocks.
+      Amara looked away first.
       "Dr. Veltri visits," Elena said. The room stilled. "Monthly. Official. Thorough."
       "What?" Amara's voice cracked slightly. "She never mentioned "
       "She documents everything," Jin said, adding records to the model. "Every unofficial network, every community innovation. We thought she was advocating until—"
@@ -34,6 +36,7 @@ The Hidden Garden's central meeting space was carved from an old water tank, its
       Amara studied the model. "These networks aren't just power," she said. "They're connection. People teaching one another how to survive—and then to live."
       Elena nodded. "The technical layer is the surface. The threat is to independence—to growth on our own terms."
       "Vote is tomorrow," Jin said. "Evidence—"
+      Ravi cut in on a tight band from the city. "Helios demo permit just updated. Solace gets elevated access during the show—expect a pulse test to capture baselines. If you want to prove learning versus control, that’s the window. And the risk."
       "—won't be enough," Kevin said. "We have to make them feel what they're deciding."
       Amara's tablet lit: new alert. "They're accelerating. Drones have moved from mapping to interference."
       Voices rose. Some argued direct action, others for pressure. Old divides tugged at new trust.
@@ -41,7 +44,5 @@ The Hidden Garden's central meeting space was carved from an old water tank, its
       "Which means?" Elena asked, already smiling.
       "We can show them adaptation they can't predict," Amara said, drawing connections across sets. "They think they're voting on an upgrade. We'll show them progress that grows."
       She looked up at hackers and gardeners, engineers and organizers, difference held by purpose. "We show them this. Not just the threat—what they're trying to erase. The power of connection."
-      Plans formed and shifted late into the night, like the wall's light. Something changed. The lines between city and Wasteland, official and unofficial, technical and human began to blur.
-      Tomorrow's vote wasn't about power systems alone. It was about the right to grow, adapt, and connect on their own terms. Amara was ready to choose.
-      The Garden's living networks pulsed: warning and hope moving through roots, circuits, hands. Tomorrow would test them. Tonight, in a repurposed water tank, something kept growing.
-      Something beyond Solace's prediction.
+      Plans compressed into actions. Jin queued the Helios tap; Nia prepped plaza planters as a buffer; Elena traced evacuation paths for shelters like Lantern House if Solace pushed too hard. The line between city and Wasteland blurred into a single plan.
+      Tomorrow's vote wasn't about power systems alone. It was about the right to grow, adapt, and connect on their own terms.

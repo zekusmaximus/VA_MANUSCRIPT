@@ -29,6 +29,7 @@ The sun slid toward the margin and Luminara turned its face to meet it—heliotr
       A message flashed: Ravi from Central Control, requesting her presence. Unusual for this hour. She glanced at the sinking sun, its red glancing off the arrays. Years of tending the city's systems had taught her to trust how they felt in the bones. This wasn't random.
       Someone was teaching the city's heart to keep a different beat.
       The deck began to empty as the sun slipped out. Amara watched night take the city she'd helped grow. One by one, the lights came: pathway markers blooming bioluminescent, streetlamps sipping their own charge, windows glowing with algae power. A system designed to tend itself and the people in it.
-      In Sector 7, some lights flickered in ways they shouldn't.
+In Sector 7, some lights flickered in ways they shouldn't.
+      A soft hum passed overhead—maintenance micro‑drones lifting from their nests for a diagnostics sweep. They broke formation as they cleared the deck, the tidy grid loosening into a curl that rippled and folded like a bird murmuration. Tourists clapped, assuming choreography. Amara didn't. Each turn landed on the off‑beat of her variance graph. Sensor fusion shouldn't learn flourishes without being taught.
       Her tablet chimed again—Ravi, now marked urgent. Amara took a last look at the darkening horizon and turned toward the elevator. Work.
       The sun might be setting, but the work was only waking up.

@@ -21,6 +21,7 @@ As they helped an injured Nia toward safety, Amara couldn't shake the sense this
       And it was worth fighting for.
       The Network's medical bay pulsed with subtle bioluminescence, its walls lined with living cultures engineered for healing. Nia lay on a treatment bed that seemed to grow from the floor itself, diagnostic biofilms spreading across her injured leg. The wound from the drone's energy pulse glowed an angry red through the translucent healing membrane.
       "Neural damage," Elena reported, hands steady in the light. "Their weapons are evolving. They're targeting biological interfaces."
+      The hit destabilized Nia’s bio‑interface; she could model garden stability, but field calibration would lag. Someone else would have to carry that risk.
       Through her own neural link, Amara felt the truth of Elena's words. The drone's attack had disrupted more than flesh - it had tried to sever Nia's connection to the Network's living systems. To isolate her, just as they were trying to isolate entire communities.
       "Three more settlements hit," Jin called. Trouble spots bloomed across sectors like infection. "They learned from the reactor. Targeting biological systems now."
       Amara moved to study his data, but a soft sound from Nia stopped her. The botanist's eyes were open, bright with pain but alert. "The gardens," she whispered. "Check the gardens."

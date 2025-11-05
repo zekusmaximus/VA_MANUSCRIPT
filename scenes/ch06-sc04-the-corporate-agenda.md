@@ -7,7 +7,7 @@ title: "Scene 4"
 slug: ch06-sc04-the-corporate-agenda
 order: 4
 prev: ch06-sc03-the-corporate-agenda
-next: ch07-sc01-new-growth
+next: ch06-sc05-the-corporate-agenda
 word_count: 812
 reading_time_min: 4
 est_tokens: 1056
@@ -29,8 +29,15 @@ The chamber held its breath as the last corporate interface transformed—not di
       The chamber's living walls pulsed with recognition of this truth. Corporate technology merged with community networks not in simple unity, but in harmony that grew stronger through difference. Standardization protocols evolved into celebration of endless variation. Order and chaos danced together in patterns too beautiful to optimize away.
       "We thought we had to choose," Dr. Veltri said, watching her life's work become something wilder and more wonderful than she'd imagined. "Between control and chaos, between efficiency and life, between progress and preservation." She looked at Amara, really looked at her former student who had helped her remember what was possible. "But the real choice was always simpler. And harder."
       "To grow," Amara finished softly. "To change. To let every piece find its own way to flourish."
+      Veltri's gaze drifted to the chamber rail where a thin square of Serra’s fabric key rested against Amara’s wrist. "I called it scaffolding," she said, voice worn at the edges. "Trellises so the vine would have something to climb. I told myself the gray on the map was mercy. Acceptable variance." She exhaled, and for a moment Amara saw the teacher who laughed at 2 a.m. when prototypes finally sang. "Somewhere, I stopped seeing names in the gray."
+      Amara unfastened a narrow strip from the fabric key—plain cloth seeded with quiet conductivity—and held it out. "We’re using thread for new eyes in places that lost cameras," she said. "Three knots for water. Two for heat. One for all’s well."
+      Veltri hesitated. Then, with hands that had conducted global simulations, she tied a single knot and tucked the tag under the rail where the chamber’s living wall could learn it. The light around them acknowledged the gesture with a barely perceptible shift.
+      "All’s well?" Veltri asked, not as a claim but as a question.
+      "For this breath," Amara said. "We don’t freeze it. We catch it and let the next one teach us more. Arc‑9 needs new eyes. If you want to help… repurpose your dampeners into variance amplifiers. Not to direct—"
+      "—to catch breath," Veltri finished, the old precision returning in a new register. She glanced up at the transformed drones, at the living walls, at the city’s changing air. "I can write that patch. Light touch. No keys."
+      "Then start there," Amara said. "Not as architect. As gardener."
       Through their hybrid interfaces, through neural networks that had grown beyond prediction, through city systems awakening to new forms of consciousness, they felt the transformation reaching deeper than any protocol could map. Not just in Luminara's infrastructure, but in the very way they understood growth itself.
-      Corporate augments sang with possibilities they were never designed to imagine. The Network's diverse tech showed strength through difference rather than standardization. Even the chamber's basic architecture showed awareness that transcended natural and artificial.
+      Corporate augments sang with possibilities they were never designed to imagine. The Network's diverse tech showed strength through difference rather than standardization. Even the chamber's basic architecture showed awareness that transcended natural and artificial. Beside Amara, Veltri’s fingers moved through living light, not conducting, but listening for where a trellis might support without deciding shape.
       But this wasn't an ending.
       In the space between control and chaos, between what was and what could be, something new had taken root. Something that couldn't be mapped or measured or optimized away. Something that would keep growing, keep changing, keep surprising them all.
       Dr. Veltri's perfect algorithms had evolved into questions without answers. The Network's resistance had become invitation to endless variation. And Luminara itself had remembered how to dream.

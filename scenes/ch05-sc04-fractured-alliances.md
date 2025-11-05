@@ -36,12 +36,28 @@ The council vote loomed closer. Here, among generations of preserved knowledge, 
       "No." Kevin's hand found hers, their shared connection strengthening the flowing data. "They're learning to predict what we've already done. But they can't predict what we're becoming."
       Systems responded, merging in new ways. Roots carried atmospheric data; wind patterns preserved memory. Each combination created possibilities too organic to map, too alive to control.
       "We don't need to fight or hide," Amara continued. "We need to grow faster than they can understand. Connect in ways they can't imagine. Become something their algorithms can't optimize because it never stops evolving."
-      "And the council vote?" Elena asked. "It's tomorrow. We're out of time for long-term evolution."
+      She pointed at subtle adaptation delays. "Every time they integrate a new pattern, there's a breath—a vulnerability window. We can time around that."
+      "And the council vote?" Elena asked. "It's at dawn. We're out of time for long-term evolution."
       "Then we show them what real evolution looks like." Amara's fingers traced patterns in the living light. "Not careful. Not controlled. But immediate. Explosive. Like seeds after fire. Like life itself."
       The chamber's displays shifted again, showing communities already adapting to corporate attacks in unexpected ways. Hidden Garden's root networks now carried Wind Tribe messages. Memory Weaver archives stored atmospheric data. Each system learning from the others, creating hybrid solutions no single approach could have produced.
       "They expect us to either fight or hide," Kevin said, understanding in his voice. "To be either dangerous or vulnerable. But we can be something else entirely."
       "Something that grows through connection," Amara finished. "Through diversity. Through life finding new ways to flourish in even the smallest spaces between their control."
-      The chamber hummed with possibility. Before anyone could answer, every display flashed: new corporate protocols deploying, more systems going dark, Veltri's hybrids spreading fast.
+      The chamber hummed with possibility. "Actions," Jin said. Amara nodded. "Proof capture plan goes live; Helios demo window locked. Nia—organize kids’ garment workshops to seed micro‑buffers; Elena—root‑net hubs at block edges; Zara—pilot vent choruses on council‑adjacent vents. We seed variance reservoirs where their dampeners bite."
+
+      The emergency channel spiked. "Arc‑9 corridor failing," Asha reported from Lantern House, breath ragged. "We’ve got med warmers, pumps, and surveillance on the same spine. I can hold two. Pick."
+      "Cut surveillance," Jin said instantly. "We can run blind."
+      "If the pumps drop, the lower flats flood," Kevin warned. "They won’t make it to evac."
+      Nia’s hands stilled over living light. "If the warmers fail, the infants won’t stabilize."
+      The chamber’s bioluminescence damped with their hesitation. Amara felt the corridor’s rhythm stumble in her interface—a living body about to flatline under too many demands.
+      "Route med warmers and pumps," she said, voice steady, already rewriting thresholds. "Jin—ghost their cams with last‑good frames and shut the feeds."
+      "Copy," Jin said, jaw tight. "Surveillance dark in Arc‑9."
+      The reroute faltered. "We don't have the slack," Ravi warned. "Sync will tear."
+      "Burn Ghost‑3 for sixty seconds," Amara ordered. "Hold the breath while the roots pick up load."
+      On the wall, a tiny relay icon flared bright, then blew to black. The corridor steadied. Asha’s voice returned, hoarse with relief. "Med warmers green. Pumps holding."
+      Nia closed her eyes, shoulders loosening. Kevin exhaled. Jin logged the loss without comment: GHOST‑3: SACRIFICED.
+      "Note the consequence," Amara said quietly. "We owe Arc‑9 new eyes."
+
+      Before anyone could answer, every display flashed: new corporate protocols deploying, more systems going dark, Veltri's hybrids spreading fast.
       "It's starting," Jin reported grimly. "The final push before the council vote. They're not waiting anymore."
       Amara felt Kevin's hand tighten in hers. Through their shared connection, through the chamber's living systems, through every adapted and evolving network, she felt communities responding. Not in planned or coordinated ways, but like a forest after rain. Like flowers toward light. Like life itself, finding new ways to grow.
       The chamber's walls pulsed with quickening data streams as the Network's different factions found their own ways to face the coming storm. Not in perfect unity, but in harmony. Like an ecosystem. Like a garden. Like hope itself.

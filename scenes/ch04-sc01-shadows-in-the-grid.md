@@ -26,6 +26,7 @@ Dawn came to Luminara in waves of light and data. The first rays caught the arra
       But Amara's tablet told a different story. Beneath surface decay, old neural networks were waking. The reactor's original architecture—made to work with natural process, not control it—was responding in ways their sensors couldn't map.
       "Not impossible," Kevin said, studying the patterns. "Living. Like the systems we adapted in the Wastelands. The corporate teams must have triggered something when they started their surveys."
       Elena moved to the historical displays, her weathered hands tracing patterns in the data. "The reactor was your first major project with Dr. Veltri, wasn't it?" she asked Amara. "Before optimization became more important than adaptation?"
+      Amara remembered the models she’d simplified to make the first rollout “viable”—the outliers that were really people. Clean graphs. Messy consequences.
       Before Amara could respond, Jin's security feeds lit up with new alerts. "Corporate forces converging on Sector 7. They're sending everything they have."
       The reactor's power signatures pulsed stronger, its awakening systems revealing sophisticated neural architecture that had evolved far beyond its original design. Architecture that could either save their resistance or give the corporate forces everything they needed to map and control every community network.
       "We need a team on site," Kevin said, already moving toward the equipment lockers. "Small group, minimal profile. If those systems are really waking up..."

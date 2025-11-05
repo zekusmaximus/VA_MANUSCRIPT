@@ -7,6 +7,7 @@ title: "Scene 1"
 slug: ch07-sc01-new-growth
 order: 1
 prev: ch06-sc04-the-corporate-agenda
+prev: ch06-sc05-the-corporate-agenda
 next: ch07-sc02-new-growth
 word_count: 550
 reading_time_min: 3
@@ -23,6 +24,6 @@ Dawn painted Luminara's towers in colors that shouldn't exist—hybrid shades bo
       "Not staggering," Elena corrected gently, her aged hands conducting streams of hybrid data as she monitored the transformation's progress. "Dancing. Look how each sector develops its own economic rhythms, its own cultural patterns, its own ways of sharing resources."
       The morning commute proved it. Citizens didn't just travel; they moved inside patterns of exchange. Some rode pods that adjusted routes on the fly. Others walked living pathways that generated power and shared neighborhood news through subtle vibration. Executives and Wasteland traders crossed the same spaces, old boundaries dissolving into something richer than simple equality.
       "Atmospheric processors," Zara noted, sensors tracking unprecedented patterns. "They're not just cleaning air anymore." Chemical signals carried celebration, concern, connection through evolved networks. She smiled. "They're helping us remember how to talk to each other."
-      A group of children raced past, their clothes shimmering with hybrid tech that merged corporate efficiency with Hidden Garden adaptation. They played new games that emerged from the transformation, teaching evolved systems to create art, to tell stories, to dream in colors adults couldn't quite see. Their laughter carried through neural networks that once served only serious corporate communication.
+      A group of children raced past, their clothes shimmering with hybrid tech that merged corporate efficiency with Hidden Garden adaptation. For a breath, their shawls dimmed as the convergence wave pressed in—then, through the channel Amara held, they brightened, buffering power back into nearby stalls and warming a clinic alcove. New games taught by the crisis itself: how to breathe through a freeze and give the breath away.
       "Everything's changing," Jin said, wonder overtaking worry. His drones no longer patrolled; they danced—protection protocols merged with atmospheric awareness. "Not just the technology or the infrastructure, but—"
       "But us," Amara finished softly. Through her neural interface, she felt Luminara's people discovering new ways to live, to work, to connect. Corporate efficiency metrics evolved into celebration of unique adaptation. Standardized processes bloomed into cultural traditions. Even basic maintenance routines became community ceremonies, with each sector adding its own subtle variations.

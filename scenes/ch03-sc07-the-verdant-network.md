@@ -18,7 +18,7 @@ The Network's living systems pulsed, readying their knowledge to share. Above, d
       Sometimes the strongest forces refuse optimization. Refuse control. Refuse the map.
       They grow in shadows, between spaces, always reaching for light.
       The Network's living walls pulsed with increasing urgency, their bioluminescence shifting from cool blue to fierce amber. Data flowed through engineered plant tissue like sap, each display showing a different facet of the approaching storm. Even the air felt charged, the bioengineered membranes that filtered it vibrating with subtle tension.
-      "Three more communities changed configurations," Ravi said, conducting living light. He stopped, eyes widening. "Not just spreading. Look."
+      "Three more communities changed configurations," Ravi said, conducting living light. He stopped, eyes widening. "Not just spreading. Look—variance reservoirs are taking. Kids’ shawls buffering. Root hubs holding. Vent choruses feeding slack into sensors."
       Amara moved to the central interface. Resistance bloomed like neural pathways. Communities weren't copying—they were hybridizing Hidden Garden circuits with Serra's textiles, keeping both strengths. Each adaptation spawned three more.
       "They're not just surviving anymore," Elena murmured, her weathered hands moving through the light show of community evolution. "They're growing. Creating."
       "And they're about to be attacked," Jin cut in sharply. "Corporate drones launching from all major hubs. New optimization protocols deploying across all sectors."

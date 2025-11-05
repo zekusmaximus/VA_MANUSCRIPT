@@ -41,5 +41,22 @@ The entrance to Kevin's settlement wore a junkyard's face. Broken panels leaned 
       Before Amara could respond, an alert pulsed through the garden's living networks. The light patterns shifted, information flowing through algae and roots and salvaged circuits.
       "Corporate drone sweep," Kevin said grimly. "Right on schedule." He turned to Maya. "Show her the rest later. For now "
       "For now," Amara interrupted, "I need to understand exactly how you've modified my reactor design." She met his surprised look with determination. "The council votes on Solace's proposal tomorrow. They need to see what they're really trying to destroy."
-      Light pulsed around them, each circuit and culture carrying a story of survival and repair. In the Garden's heart, Amara began to understand what power looked like when it stayed alive.
+Light pulsed around them, each circuit and culture carrying a story of survival and repair. In the Garden's heart, Amara began to understand what power looked like when it stayed alive.
       Not control. Connection.
+
+An urgent pulse rippled through the Garden before anyone could say more. Red bands chased themselves along root conduits and algae veins.
+      "Lantern House just went dark," Nia called from a console grown of intertwined trunks. "Arc‑9. Caretaker Asha reports primary loop failure. Drones skimming boundary—fifteen minutes to deep scan."
+      Kevin looked to Amara. "Tour's over. Can you help?"
+      "Show me inputs," she said, already moving.
+      A rough schematic glowed across a membrane wall: Lantern House—twenty‑three beds—fed by micro‑collectors and a single substation tap flagged COMPROMISED. Her old failsafe logic sat there in ghost form, smoothing nothing but official lines.
+      "Your thresholds round us to zero," Nia said, breath tight. "Fall off your map, fall off the grid."
+      Amara bit down on the instinct to defend design. "Then we redraw the map." She peeled back smoothing profiles until noise resolved into signals: hand‑crank surges, fabric trickle, root‑net pulses—messy, alive.
+      "Variance reservoirs," she said, already writing. "Buffer at the edges—in textiles and roots—not the spine."
+      Children in conductive shawls crowded in behind Nia, garments wicking heat and storing slack. "On my mark," Nia said, hands buried in a tangle of roots that thrummed with faint current. "I can keep botanics from crashing if you give me a rhythm."
+      "Three‑beat inhale, two‑beat exhale," Amara said. "Ride the drone sweep. Jin—spoof heartbeat just outside their filters."
+      "On it," Jin called from the doorway.
+      She rewrote her failsafe in place, teaching the system to expect breath instead of perfection. When the drones' shadow crossed the map, she dropped the patch.
+      The Garden held its breath. Roots took load, textiles flexed—and Lantern House flickered from red to amber to green.
+      "Asha confirms," Nia breathed. "Lights back. Med warmers stable."
+      Kevin's shoulders loosened a fraction. "Trust via competence," he said, mostly to himself.
+      Amara committed the patch. "And humility. We’re not rounding anyone to zero again."

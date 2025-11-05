@@ -21,7 +21,11 @@ The Grid Control Center hummed like a hive coached into efficiency. Holographic 
       Amara leaned in. The fluctuations from the observation deck resolved into a rhythm she knew in her body before her mind: "It reads like a heartbeat," she said.
       "Exactly." Ravi pulled up another layer. "Now watch with Solace's new security protocols overlaid. Last month's patch."
       The pattern slid and revealed regular hollows—clean transfers, not failures. "They're siphoning," Amara breathed. "But how? The neural mesh should block any unauthorized—"
-      "Unless the authorization is native," Ravi said, meeting her eye. "High‑level keys. Inside help."
+"Unless the authorization is native," Ravi said, meeting her eye. "High‑level keys. Inside help."
+      A thin chime threaded through the room. For four long heartbeats, street illumination, transit buffers, and waste‑heat reclaimers fell into the same rhythm, smoothing in phase—then snapped apart.
+      "Did you see that?" Ravi scrubbed back the feed. "Cross‑stabilization spike."
+      Amara checked the log. "Flagged as... UI glitch?" The entry sat gray and harmless: AUTOTUNE OVERRIDE: TEMPORARY HARMONY. DISMISSED.
+      "Harmony shouldn't look like a mistake," she murmured.
       Amara's mind flinched toward Dr. Veltri—toward recent speeches about "investment in Luminara's future." Before she could say it aloud, a new alert cut across the monitors.
       "Speaking of Solace," Ravi muttered, "they're making themselves very present." He opened a permit notification. "Festival of Light sponsorship. Full access to the Helios Spiral's power systems for a 'demonstration.'"
       "The festival's tonight?" Amara had forgotten. Festival nights meant overtime—balancing the surges thousands of dancing bodies sent into the grid. "We should postpone. With these anomalies—"

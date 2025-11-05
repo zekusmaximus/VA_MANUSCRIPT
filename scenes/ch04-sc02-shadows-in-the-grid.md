@@ -22,6 +22,9 @@ The sun rose higher over Luminara, and the day's real work began.
       Amara checked her tablet one last time, comparing power readings from their position to the anomalies she'd been tracking. The patterns were clearer from here, energy flowing not just through official channels but through a complex web of unofficial connections that stretched from the city into the wastes below.
       "Ready?" Kevin asked, offering his hand to help her onto the platform.
       She ignored it, making the step herself. "Let's see these modifications to my reactor design."
+      Kevin’s jaw tightened. "You plan every variable. Out here we survive the ones you miss."
+      "And we don’t walk blind," she said, meeting his look. "We learn fast enough to live."
+      A beat, then they moved together.
       The platform descended slowly through banks of morning mist. The city's filtered air gave way to something rawer, carrying scents of dust and growing things. Not the carefully engineered plants of Luminara's gardens, but something wilder.
       "Watch this," Kevin said, adjusting their course slightly. The platform passed through a shaft of sunlight, and suddenly the landscape below transformed. What had looked like random debris revealed itself as a cascade of cleverly disguised solar collectors, their surfaces designed to look like waste metal from above.
       "Camouflage," Amara said, interest warming her voice. "But the power to run adaptive surfaces—"
@@ -36,6 +39,7 @@ The sun rose higher over Luminara, and the day's real work began.
       They were lower now, passing through a field of what looked like dead vegetation. But Amara's engineering eye caught the patterns, the way each brittle stalk was positioned to collect and channel water, how the root systems formed living power conduits.
       "The corporate assessment said this was all wasteland," she said quietly. "Dead zones. Resource sinks."
       "And we let them think that." Kevin's voice carried years of careful resistance. "It's amazing what people overlook when they're only measuring what they understand."
+      Luminara’s diagnostics flagged “inefficient” signatures as noise by default. Anything unstandardized became invisible.
       The platform banked around a massive pile of industrial debris, and Amara's breath caught. Hidden in its shadow was a structure she recognized, or thought she did. The basic shape matched her original reactor design, but it had been transformed into something organic, almost alive.
       "That's impossible," she said for the second time that morning. "The containment requirements alone..."
       "Would be impossible with your original design," Kevin agreed. "But like I said, we made some modifications." He guided the platform toward a concealed landing pad. "Ready to see how the other half really lives, Engineer Solis?"
@@ -59,7 +63,7 @@ The sun rose higher over Luminara, and the day's real work began.
       Nia moved to a wall of what looked like failed algae tanks. "Not failed," she said, reading the subtle signs. "Waiting. The colonies went dormant when they shut down the main systems, but they're still viable. Still... remembering."
       A sudden change in the light made them all look up. The reactor's neural networks were responding to their presence, ancient systems stirring from decades of sleep. Patterns of bioluminescence grew stronger, more purposeful.
       "They're scanning us," Ravi warned, checking his security protocols. "Corporate sensors. They must have detected the power fluctuations."
-      "No," Amara said, watching the patterns shift. "The reactor is scanning us. The corporate systems are just... piggybacking on its protocols." She studied the data streams. "They don't understand what they're dealing with. They think they can control it, use it to map other systems, but..."
+      "No," Amara said, watching the patterns shift. "The reactor is scanning us. The corporate systems are just... piggybacking on its protocols." She flipped filters to legacy‑biologic, overlaid early‑reactor sync tables, then throttled scan resolution. Returns jumped. "They don't understand what they're dealing with. They think they can control it, use it to map other systems, but..."
       She trailed off as new patterns bloomed across the walls. The reactor wasn't just scanning them - it was remembering. Original protocols reactivating, showing them glimpses of what the space had once been. What it could be again.
       "Amara," Kevin's voice was urgent. "Look at these power signatures. The corporate teams... they're not just studying the reactor. They're trying to replicate its neural architecture. To build something that looks alive but follows their commands."
       Before she could respond, a harsh tone cut through the chamber's organic rhythms. Corporate drones, their scanning patterns visible through the reactor's awakening bioluminescence.
@@ -74,7 +78,7 @@ The sun rose higher over Luminara, and the day's real work began.
       The drones' humming filled the reactor chamber like angry wasps, but the space itself answered with its own voice - a deep resonance as living walls adjusted their molecular structure, centuries-old bioengineering awakening to protect its inhabitants. Amara pressed herself against a curved storage tank, feeling the subtle vibration of mycelia networks carrying warnings through the structure's bones.
       "How many?" she whispered, watching bioluminescent patterns pulse through engineered fungi - nature's own communication grid.
       "Four that I counted." Kevin's eyes tracked the corporate machines with the instinctive understanding of someone raised reading natural patterns. "Military grade. Mark Seven pursuit drones. But look how they move - they don't understand this space."
-      He was right. The drones' precise geometric patterns faltered against the reactor chamber's organic architecture, their sensors confused by its living complexity. What corporate algorithms saw as random decay was actually centuries of adaptation, layers of community knowledge encoded in patterns too alive to map.
+      He was right. The drones' precise geometric patterns faltered against the reactor chamber's organic architecture, their sensors confused by its living complexity. Amara realized what corporate algorithms saw as random decay was centuries of adaptation—layers of community knowledge encoded in patterns too alive to map.
       Amara pulled out her diagnostic tablet, fingers dancing across its surface. "These targeting algorithms... I recognize them. But they're all wrong here. They're trying to impose industrial logic on living systems."
       "Just like they always do," Kevin said softly. "They never learn."
       A beam of red light swept past their hiding spot. Kevin pulled her back just in time, his hand warm against her shoulder. Through her interface, Amara felt the reactor's neural networks respond, its bioluminescent colonies dimming in precise patterns to create shadows where there should be light.
@@ -92,10 +96,13 @@ The sun rose higher over Luminara, and the day's real work began.
       The drones' hunting calls echoed through the shaft, but now Amara heard something else - the subtle resonance of the reactor's living systems responding, a symphony of biological computing that no corporate algorithm could fully grasp.
       She moved to a control panel, but hesitated. "These colonies aren't just power storage," she explained quickly. "They're part of the reactor's original neural network. The algae processes information through chemical signatures, faster than traditional circuits. But it's alive - it learns, grows, evolves."
       Her tablet displayed three distinct data layers. "Bio-electric, chemical, and photonic processing. Each colony is both independent and interconnected. They solve problems no single node could handle alone, but only if they're allowed to adapt and evolve."
+      She recorded the colony’s handshake—the harmonic fingerprint—tagged: S7‑HELIOTROPIC.SEED. "If we ever need to teach a rigid mesh to breathe," she told Kevin, "this is how."
       "Like our settlements," Kevin said softly. "Strong because we're different, not despite it."
       The drones' scans penetrated the tunnel, but the algae responded instinctively, shifting its bioluminescent patterns to create false readings. Natural intelligence defeating artificial control.
       "The corporate protocols are trying to map and control all three processing layers simultaneously," Amara said, watching the patterns shift. "But they can't. The system's too alive, too complex. Every scan teaches it new ways to respond."
       Kevin's smile held fierce pride. "That's how we survived in the Wastelands. Not by fighting the corporate forces directly, but by becoming something they couldn't understand. Couldn't control."
       A drone burst through a maintenance hatch, but the tunnel's living systems were ready. Bioluminescent colonies pulsed in synchronized patterns, overwhelming its sensors with contradictory data. The drone's precise movements faltered, its algorithms unable to process the organic complexity surrounding it.
+      Amara’s probe flashed and died—circuits cooked by reactive biofields. “We’re down our clean read,” she said.
+      “We improvise,” Kevin replied.
       "They're learning from failure," Amara warned, watching the other drones adjust their search patterns. "Getting better at reading biological systems."
       "So are we." Kevin touched a glowing colony, and Amara felt the reactor's neural networks surge with new vigor, generations of accumulated adaptation flowing through living circuits. "That's the difference between their kind of optimization and ours. They try to control. We grow."
