@@ -31,5 +31,10 @@ Dr. Veltri stood in her transformed lab where light moved like thought, where eq
       Through it all, through every shared discovery and expanding possibility, through every evolved system and deepening connection, they felt their world becoming something unprecedented. Not a perfect utopia, but a garden of endless transformation. Each relationship, each difference, each unique perspective adding new beauty to their endless flowering.
       Through their neural interface, they felt Maya's excitement as she worked with the younger students in the garden's deepest levels. The children were seeing patterns even the evolved systems hadn't predicted, teaching corporate interfaces to process information through games that transcended traditional mathematics. Their natural integration of technology and emotion created possibilities that made Veltri's most advanced algorithms pause in wonder.
       "Maybe that's what we were really studying all along," Veltri said, conducting streams of hybrid data that painted impossible colors in the morning light. "Not how to perfect systems, but how to help them grow beyond our understanding. How to..."
-      "How to wonder," Amara finished, feeling their shared neural connection create endless harmonies of possibility. Above them, the laboratory's evolved interfaces processed joy through equations that redefined mathematics itself. Below, root networks carried dreams through patterns that resembled poetry more than programming.
+      "How to wonder," Amara finished.
+
+      Veltri opened a quiet panel that used to deploy dampeners and wrote a different kind of tool—variance amplifier, light touch, no keys. It would not force a window; it would catch one. It would recognize heartbeat timing and widen the breath by half a second where a corridor remembered too slowly. She left the signature field blank and added a line no audit would quote and every watcher would feel: listen first.
+
+      Later, on a council rail that had learned to read knots, she tied one for all’s well with hands that refused to shake and stepped back so the living wall could make a note in its own way. No speech. No ceremony. Just a trellis adjusted by a person who had finally remembered what a trellis was for.
+
       Tomorrow's garden wasn't just growing, it was already dreaming in colors they hadn't yet learned to see.

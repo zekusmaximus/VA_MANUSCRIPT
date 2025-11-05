@@ -3,7 +3,7 @@ chapter: 9
 scene: 6
 chapter_title: "GLOBAL CURRENTS"
 chapter_slug: global-currents
-title: "Scene 6"
+title: "High Garden Link"
 slug: ch09-sc06-global-currents
 order: 6
 prev: ch09-sc05-global-currents
@@ -14,15 +14,8 @@ est_tokens: 632
 id: "615b9b1f-626b-4aa3-9152-74a591e54e11"
 ---
 
-The city's evening transition rippled through merged networks like moonrise on water, each system finding its own way to carry day into night. Processors that shared market songs now hummed with end‑of‑day ritual: Tokyo's temple bells through crystal matrices, Singapore's light‑prayers in neural streams, New Alexandria's evening chants through living walls.
-      "Listen to how the harmonies deepen," Elena said, her Memory Weaver circuits recording not just the rituals but the way different traditions learned to sing together. "Each community adding its voice to the twilight chorus, teaching our systems new ways to dream." Through their neural interfaces, they felt patterns of rest and renewal spreading like gentle rain through transformed networks.
-      Maya sat with her family's evening practices, where Hidden Garden growth ceremonies merged naturally with distant traditions. "The plants are singing too," she said softly, showing how hybrid fruits adjusted their bioluminescence to support various evening rituals. "Not just responding anymore, but participating. Learning how different cultures welcome night."
-      Through their shared neural link, Amara felt Kevin's quiet wonder as his community's organic technologies found unexpected harmony with evolved corporate systems. What had begun as transformation was becoming something deeper, not just change, but genuine connection, each tradition growing stronger through difference.
-      "Security networks show extraordinary patterns," Jin reported; evening protocols protected through celebration rather than vigilance. Above, drones danced with weather spirits while living walls pulsed with merged meditations. "Every sector finding a way to hold both peace and possibility."
-      Dr. Veltri studied displays showing how her algorithms had learned to process sunset's mysteries. "We thought evening efficiency meant uniform shutdown procedures," she said, watching her protocols dance with thousand-year traditions of day's ending. "But look..." She highlighted flows where ancient practices taught systems new ways to transition, to rest, to prepare for tomorrow's growth. "Every culture shows us different ways to embrace change."
-      Living architecture breathed with these deepening rhythms, creating spaces where varied evening rituals could strengthen each other. Wind Tribe atmospheric processors carried more than weather now, they shared lullabies and evening prayers, sunset stories and twilight dreams, all the countless ways communities marked day's gentle closing.
-      Through their merged consciousness, through neural networks that had learned to carry more than data, they felt their world discovering deeper forms of harmony. Not standardized processes, but natural flows of activity finding balance through endless variation. Each tradition contributing its unique wisdom to their shared understanding.
-      "The patterns," Maya said softly, watching young systems learn from ancient ways of honoring evening's approach. "They're not just changing anymore. They're learning how to flow together. How to grow stronger through being different."
-      The last light painted their transformed city in colors that belonged to neither day nor night, but to the beautiful space between. And everywhere, in every ritual and space between rituals, new forms of connection were beginning to flower.
-      Their transformation hadn't ended with awakening.
-      It had only begun to grow truly deep.
+Kaito’s message arrived in wind‑code that Zara read on the first pass and Amara decoded on the second: five‑beat windows for altitude storms; bring rope; bring thread.
+      “They’re offering the bowl,” Kevin said, eyes already on flight lines. “And a ledger.”
+      Amara sent back timing with the heartbeat mark from New Singapore’s light‑dream handoff and their own S7 capture: land seed on exhale. She added the thresholds and the mercy—±0.3 s drift; 0.5–1.0°C per ten meters; roots if cold.
+      “We lift at first light,” Kevin said. “We ride the beacons. We keep off Solace air.”
+      The stand‑up flagged the route as Ch10‑High‑Garden. Someone drew a tiny knot in the margin where the corridor met the bowl, and no one erased it.

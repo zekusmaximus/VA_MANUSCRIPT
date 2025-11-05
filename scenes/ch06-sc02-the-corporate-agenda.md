@@ -31,8 +31,8 @@ The council chamber had transformed overnight. As the first members arrived, Ama
 "No," Amara said, watching Veltri struggle with elegant tools. "They're following something else now. Older. Wilder."
       The chamber's morning light painted strange patterns through evolved atmospheric processors. Corporate optimization protocols tried to impose standardized configurations, but life kept finding new paths to grow. Each attempt at control only created more beautiful complexity.
       "The council session will begin with a report on system optimization," the Chief Councilor continued. But optimization seemed a hollow word now, in this space where corporate technology merged with living architecture in ways no algorithm could predict.
-      Ravi cut in on private band. "Helios demo ramping. Dampener soft‑start in ninety seconds. Baseline snatch on my mark. Kids’ shawls stay in pockets."
-      Amara overlaid S7‑HELIOTROPIC.SEED on the dampener control channel, set to slipstream behind Solace authentication—her authentication. “We don’t block,” she said quietly. “We sync. One breath.”
+      Ravi cut in on private band. "Helios demo ramping. Dampener soft‑start in ninety seconds. Baseline snatch on my mark. Kids’ shawls stay in pockets. Heartbeat window only—land on the exhale."
+      Amara overlaid S7‑HELIOTROPIC.SEED on the dampener control channel—legacy handshake, not override—set to slipstream behind Solace authentication—her authentication—and touch only at the heartbeat pause. “We don’t block,” she said quietly. “We sync. One breath.”
       “They’ll adapt,” Kevin warned.
       “So will we.” She tuned the phase offset to the vulnerability window—the heartbeat pause when corporate systems integrated new data. “On my mark.”
       "Copy," Jin said. "Ghost paths armed."

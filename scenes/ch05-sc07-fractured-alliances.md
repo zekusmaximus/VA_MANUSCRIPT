@@ -40,6 +40,8 @@ Corporate probes sang down the line again. Amara watched their signature—so el
       Amara nodded. "I can catch half a degree into cloth and return it downstream to the misshapen shelves near the east wall. They’ve been ‘correcting’ drafts for hours."
       "Let them rest," Nia said, and her voice made the command sound like love.
 
+      Nia spoke the guardrails out loud while they worked, so the room would remember even if the mesh forgot: “Leader sits if wounded. No heroics—buffers, not martyrs. Salt scrub, no synthetics. Fifteen‑minute rotation max, then swap. One noncritical node can burn if it saves the breath—log it. Watchers’ knot code stays live; tie and read. Jin, ghosts no longer than sixty seconds per hour.”
+
 They scrubbed, dried, and took their stations. Nia’s hand hovered above the ledger as if blessing a rite. "On my count," she said, and counted in a cadence that made something in Amara’s chest relax despite the alarms.
       Maya pressed both palms into the damp soil. The shawl on her shoulders warmed; along the rail, a cloth tag—three knots for water—shivered without moving. The algae read skin and thread and deferred correction. Seve replaced Maya on the second beat, then Lio on the third. After two beats of rest, Maya returned.
       The garden’s panic line softened almost visibly.
@@ -99,4 +101,3 @@ Amara watched the apprentices leave with their new ledger and their old shawls. 
 In Amara’s interface, the garden’s signal settled into patterns too alive to map and too stable to fear. She watched the roots absorb a lesson written in human hands and return it as cool breath to a corner that had been hot all week.
       "We’ll leave the tag," Kevin said, tucking one knot under the rail. "All’s well—for this breath."
       "And the next one," Nia said, closing her eyes for a moment that was work and rest at once. "We’ll catch that too."
-

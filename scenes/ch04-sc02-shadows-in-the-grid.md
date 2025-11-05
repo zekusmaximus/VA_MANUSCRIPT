@@ -97,6 +97,21 @@ The sun rose higher over Luminara, and the day's real work began.
       She moved to a control panel, but hesitated. "These colonies aren't just power storage," she explained quickly. "They're part of the reactor's original neural network. The algae processes information through chemical signatures, faster than traditional circuits. But it's alive - it learns, grows, evolves."
       Her tablet displayed three distinct data layers. "Bio-electric, chemical, and photonic processing. Each colony is both independent and interconnected. They solve problems no single node could handle alone, but only if they're allowed to adapt and evolve."
       She recorded the colony’s handshake—the harmonic fingerprint—tagged: S7‑HELIOTROPIC.SEED. "If we ever need to teach a rigid mesh to breathe," she told Kevin, "this is how."
+
+      She didn’t stop at the name. Amara split the capture into its three layers—bio‑electric, chemical, photonic—and set a clean time base against the nursery’s breath she and Veltri had once tuned by guess and sleep deprivation. The wave settled into the simplest truth she trusted: three beats of listening, two of release. Not command. Recognition.
+      “This isn’t an override,” she said, half to herself. “It’s a legacy handshake—an introduction in a language the dampeners forgot they learned.”
+
+      She annotated tolerances the way a field tech leaves chalk on a rail: acceptable drift ±0.3 seconds; safe buffer draw 0.5–1.0°C into cloth per ten meters; widen to a five‑beat window at altitude. “If the air runs colder than this, slow the cadence or hand it to roots,” she added, knowing High Garden would argue toward five and Brightline would cling to three until the numbers made them brave.
+      “Jin will want the vulnerability window,” Kevin said, reading her habits.
+      Amara overlaid Helios’ dampener cadence—public documentation and the feel of the pulse from years of being its author—and let the reactor’s breath beat against it. A pause opened every cycle like a door between orders. “Here,” she said. “The heartbeat. Seed lands on the exhale. It won’t fight—there’s nothing to fight. It will copy what it recognizes.”
+      “Teach the metronome to hum,” Kevin said, almost smiling.
+      “Teach it to remember,” Amara said, and saved the timing under a name Jin would understand without explanation.
+
+      She packaged the seed, timing, and mercy together—thresholds, cautions, costs. “GHOST‑3 can burn for sixty seconds to hold the breath,” she dictated to the recorder. “If you spend it, log it. We owe you a relay.” Somewhere in Arc‑9 a watcher would read that as permission and respect, not as an order.
+      The carrier sleeve Kevin pressed into her hand was Serra’s work—functional made beautiful on purpose. She slid a hardware slug with the capture into the weave and tucked it into the pocket where she kept the keycard she no longer trusted and the strip of cloth she trusted more than policy.
+      “Send a copy up‑line to Ravi,” Kevin said.
+      “On its way,” she said, the packet already tagged for Jin’s narrowband and Ravi’s ops console with a note: Windows are not faults. Listening is not error. Apply at heartbeat only.
+
       "Like our settlements," Kevin said softly. "Strong because we're different, not despite it."
       The drones' scans penetrated the tunnel, but the algae responded instinctively, shifting its bioluminescent patterns to create false readings. Natural intelligence defeating artificial control.
       "The corporate protocols are trying to map and control all three processing layers simultaneously," Amara said, watching the patterns shift. "But they can't. The system's too alive, too complex. Every scan teaches it new ways to respond."

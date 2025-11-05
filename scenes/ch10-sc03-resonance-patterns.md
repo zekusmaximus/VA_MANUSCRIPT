@@ -35,6 +35,7 @@ They chose to descend, not to hide.
 
 The mast sang. The sound was too high for ears, too low for charts. Amara felt it as pressure on her teeth. The corridor’s vents stiffened like an animal trained not to flinch.
       "They’re applying a metronome," Kevin said. Anger sounded strange coming from him. Like weather boiling. "They want the path to forget it ever knew wind."
+      "Count the breath," Amara said into the narrow band. "Three on, two off. Hold the window; land on the exhale."
       "Open a window," Amara told the corridor softly. "Just enough to remember you have lungs."
 
 The first shove hit like a polite hand on a sternum. The vents began to correct. Amara shifted the catch‑breath phase she’d learned at High Garden and widened it by a half‑beat for this altitude. The buffer took a sliver of heat from a cliff face warmed by morning sun and tucked it into cloth strung along the rail. Someone in Tenebra would feel a draft soften a degree. Someone in Marrow would not wake a baby.
