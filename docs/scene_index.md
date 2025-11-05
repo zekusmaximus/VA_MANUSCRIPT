@@ -43,6 +43,9 @@ A working index to map scenes to location, function, and key characters. Populat
 | scenes/ch06-sc04-the-corporate-agenda.md | Ch6 |  |  |  |
 | scenes/ch06-sc05-the-corporate-agenda.md | Ch6 | Network | execution beat; channel + reservoirs | Amara, Nia |
 | scenes/ch06-sc06-variance-chorus-template.md | Ch6 | Command/Docs | template; community protocol | Nia, Elena, Jin |
+| scenes/ch06-sc07-optics-and-breath.md | Ch6 | S-SEC Ops / Corridor | optics clause conflict; micro-window | Riya |
+| scenes/ch06-sc08-veltri-bench-variance.md | Ch6 | Veltri Lab | bench test; variance amplifier (no keys) | Veltri |
+| scenes/ch06-sc09-baseline-autopsy.md | Ch6 | Network Ops | heartbeat window math; node cost | Jin, Ravi |
 | scenes/ch07-sc01-new-growth.md | Ch7 |  |  |  |
 | scenes/ch07-sc02-new-growth.md | Ch7 | City (Plaza/Market) | aftermath; Helios stand‑down cue | Amara, Nia, Veltri (comm) |
 | scenes/ch07-sc03-new-growth.md | Ch7 |  |  |  |
@@ -54,6 +57,7 @@ A working index to map scenes to location, function, and key characters. Populat
 | scenes/ch08-sc02-growing-pains.md | Ch8 | Brightline Tower (conference) | setup; pilot terms | Amara, Kevin, Marta, Kwan, Pilo |
 | scenes/ch08-sc03-growing-pains.md | Ch8 | Brightline Corridor | set‑piece; escalation (closet clamp) | Amara, Kevin, Marta, Kwan, Pilo |
 | scenes/ch08-sc04-growing-pains.md | Ch8 | Council Chamber | fallout; policy | Kwan, Marta, Concierge, Council |
+| scenes/ch08-sc05-watchers-workshop.md | Ch8 | Brightline Training | workshop; watchers protocol & stipend | Concierge, Janitor, Elder, Pilo, Kwan |
 | scenes/ch09-sc01-global-currents.md | Ch9 | New Singapore | setup; light‑dreams → heartbeat timing handoff | Ravi, Jin, local partners |
 | scenes/ch09-sc02-global-currents.md | Ch9 | Tokyo + Wind Tribe | variance chorus dissemination | Nia (template echo), Zara, tide‑readers |
 | scenes/ch09-sc03-global-currents.md | Ch9 | S‑SEC (Riya shard) | character beat; optics clause doubt | Riya |
@@ -64,7 +68,8 @@ A working index to map scenes to location, function, and key characters. Populat
 | scenes/ch10-sc01-resonance-patterns.md | Ch10 |  |  |  |
 | scenes/ch10-sc02-resonance-patterns.md | Ch10 | High Garden (plateau bowl) | set‑piece; windows in wind | Amara, Kevin, Kaito, crew |
 | scenes/ch10-sc03-resonance-patterns.md | Ch10 | Corridor plateau | set‑piece; S‑SEC clamp; Riya choice | Amara, Kevin, Riya, S‑SEC lead, Zara |
-| scenes/ch10-sc04-seed-run.md | Ch10 | Helios / Solspire | set‑piece; seed landing + intercuts | Amara, Kevin, Jin, Ravi, Nia; District watchers |
+| scenes/ch10-sc04-seed-run.md | Ch10 | Helios / Solspire | set-piece; seed landing + intercuts | Amara, Kevin, Jin, Ravi, Nia; District watchers |
+| scenes/ch10-sc05-chorus-bridge.md | Ch10 | Multiple districts / Network | scale orchestration; dampener wave cost | Nia, Maya, Seve, Lio; watchers |
 | scenes/ch11-sc01-harmony-fields.md | Ch11 |  |  |  |
 | scenes/ch11-sc02-harmony-fields.md | Ch11 |  |  |  |
 | scenes/ch11-sc03-harmony-fields.md | Ch11 |  |  |  |
@@ -75,6 +80,8 @@ A working index to map scenes to location, function, and key characters. Populat
 | scenes/ch11-sc08-harmony-fields-epilogue-asha.md | Ch11 | Arc‑9 Stair Core | epilogue vignette | Asha, Watchers |
 | scenes/ch11-sc09-harmony-fields-epilogue-watchers.md | Ch11 | Tenebra/Hawkline | epilogue vignette | Elder, kids, janitor |
 | scenes/ch12-sc01-wild-gardens.md | Ch12 |  |  |  |
+| scenes/ch11-sc10-harmony-fields-recovery.md | Ch11 | Recovery Ward | aftermath; sensory cost; legacy transfer | Nia, Elena, Maya, Seve, Lio |
+| scenes/ch11-sc11-disciplinary-review.md | Ch11 | Council Review Room | consequence hearing; optics clause defense | Riya, Examiner |
 | scenes/ch12-sc02-wild-gardens.md | Ch12 |  |  |  |
 | scenes/ch12-sc03-wild-gardens.md | Ch12 |  |  |  |
 | scenes/ch12-sc04-wild-gardens.md | Ch12 |  |  |  |

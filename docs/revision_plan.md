@@ -19,11 +19,13 @@ Word Count Plan
 Scene Audit (Map Work to Files)
 
 Create docs/scene_index.md (simple table) with the following columns and seed it with key anchors listed here; fill remaining rows from `scenes_inventory.md`:
+Status: COMPLETED
 
 - Columns: File | Chapter | Location | Function | Key Characters
 - Example row: `scenes/ch04-sc02-shadows-in-the-grid.md | Ch4 | Reactor/Network | escalation | Amara, Kevin, Nia, Ravi`
 
 Seed anchors (aligns tasks with existing files):
+Status: COMPLETED
 
 - Hands‑forward protocol: `scenes/ch05-sc07-fractured-alliances.md` | Ch5 | Hidden Garden (heart‑bed) | set‑piece + protocol codified | Nia, Amara, Elena, Maya, Seve, Lio (NIA‑HANDS‑FORWARD v1.0 present)
 - Brightline pilot (proposal → pilot → debrief):
@@ -39,6 +41,7 @@ Seed anchors (aligns tasks with existing files):
   - Execution glimpses: `scenes/ch06-sc05-the-corporate-agenda.md`, `scenes/ch07-sc02/ch07-sc04-new-growth.md`
 
 Also include the full list from `scenes_inventory.md` in `docs/scene_index.md` with empty Location/Function/Characters where unknown; fill progressively during the pass.
+Status: COMPLETED
 
 Structural Overview (Resolution Starts in Ch10)
 
@@ -61,6 +64,12 @@ Subplot Spine
 - Payoff: In the climax, Nia is the linchpin who keeps botanics breathing during the dampener wave; apprentices carry cadence when she must stop—legacy in action.
 
 New Scenes/Expansions
+Status:
+- Flashback 1 target (ch03-sc08): COMPLETED
+- Flashback 2 target (ch05-sc08): COMPLETED
+- Heart-bed expansion/guardrails (ch05-sc07): COMPLETED
+- Variance chorus template (ch06-sc06): COMPLETED
+- Climax anchor + seed-run (ch10-sc03/ch10-sc04): COMPLETED
 
 - Flashback 1 (Ch3–4): “Pearl” district memory—bio‑layer mislabeled as fault; clinic dims to satisfy optics. Origin of her ethics.
   - Target: add as `scenes/ch03-sc08-nia-flashback-pearl.md` (or `ch04-sc05-...`), and cross‑reference briefly in `ch03-sc01` or `ch04-sc01`.
@@ -99,13 +108,15 @@ Stakes intercuts to show sensor‑level consequences (minimize abstraction):
 - Resolve with tangible telemetry: compressor load dips; tags tremor; shawls glow; infant stable.
 
 Act II Escalations (Additions/Confirms)
+Status: COMPLETED (Reactor return in `scenes/ch04-sc02-shadows-in-the-grid.md` includes S7-HELIOTROPIC.SEED legacy handshake and threshold capture)
 
 - High Garden bowl (present in `ch10-sc02`): teach “windows” in wind; five‑beat windows for altitude storms; first drone pressure; elder Kaito’s ledger; child passes a “come back” knot. (Keep in Ch10 as lead‑in.)
 - Plateau clamp task force (`ch10-sc03`): S‑SEC “stability enforcement” locks the corridor; Riya’s choice; watchers’ knot signals reach council; corridor learns around the lock; Solace logs become “too perfect to be true.”
 - Brightline pilot (`ch08-sc02`–`sc04`): Concierge/Pilo/Kwan; closet clamp exposed; codify “windows are not faults” policy; watchers stipend; legacy key audits.
 - Reactor return (expand `ch04-sc02` by 1–1.5k): Emphasize S7‑seed harmonic capture; show Amara + Kevin recording/validating thresholds; define seed as “legacy handshake to teach breath.”
 
-Global Currents (Curate + Threaded Lead‑Up to Ch10)
+Global Currents (Curate + Threaded Lead-Up to Ch10)
+Status: COMPLETED (ch09-sc01–sc07 curated with direct hooks to Ch10/Ch11; condensed to focused vignettes)
 
 - Goal: Preserve more of Ch9 while making each vignette carry either (a) direct lead‑up to the Ch10 climax, or (b) focused character development that pays off in Ch10–12. Target 1.6–2.2k net (from ~4.3k), by curating and rethreading, not flattening.
 - Thematic threads to carry through Ch9 vignettes:
@@ -151,6 +162,16 @@ Continuity & Logic
 
 Pass Plan
 
+Status (as of this pass)
+1) COMPLETED
+2) COMPLETED
+3) COMPLETED
+4) COMPLETED
+5) COMPLETED
+6) COMPLETED
+7) OUTSTANDING
+8) OUTSTANDING
+
 1) Scene index (docs/scene_index.md) seeded with anchors above + full list from scenes_inventory.
 2) Nia subplot pass (add two flashbacks; expand heart‑bed costs; add variance‑chorus template; climax orchestration).
 3) Escalation pass (confirm High Garden/Plateau placement in Ch10; expand Reactor harmonic/seed).
@@ -159,6 +180,14 @@ Pass Plan
 6) Global Currents curate (rethread seven scenes into 5–7 tight vignettes with explicit hooks into Ch10; aim for 1.6–2.2k total, prioritizing prep, character beats, and stakes).
 7) Aftermath/resolution (Ch11–12 pacing; epilogue vignettes).
 8) Trim redundancy (abstract passages) to offset additions; final continuity and word count (hit 90–95k).
+ 
+New Tasks (added)
+ 
+9) Nia recovery expansion (Ch11): deepen sensory aftermath; legacy transfer (scenes/ch11-sc10) — COMPLETED
+10) Riya review expansion (Ch11): consequence hearing with telemetry exhibits (scenes/ch11-sc11) — COMPLETED
+11) Watchers workshop expansion (Ch8): practical training beats + stipend mechanics (scenes/ch08-sc05) — COMPLETED
+12) Nia chorus bridge expansion (Ch10): scale orchestration and telemetry intercuts (scenes/ch10-sc05) — COMPLETED
+13) Baseline autopsy expansion (Ch6): heartbeat window math + node cost detail (scenes/ch06-sc09) — COMPLETED
 
 Definition of Done
 

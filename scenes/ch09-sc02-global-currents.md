@@ -1,23 +1,35 @@
-﻿---
+---
 chapter: 9
 scene: 2
 chapter_title: "GLOBAL CURRENTS"
 chapter_slug: global-currents
-title: "Variance Chorus: Template Uptake"
+title: "Variance Chorus: Template Uptake (Curated)"
 slug: ch09-sc02-global-currents
 order: 2
 prev: ch09-sc01-global-currents
 next: ch09-sc03-global-currents
-word_count: 1057
-reading_time_min: 5
-est_tokens: 1374
+word_count: 0
+reading_time_min: 0
+est_tokens: 0
 id: "6eccca3d-ddb2-438f-aacf-133f81eb5782"
 ---
 
-The template crossed ocean faster than policy: NIA‑HANDS‑FORWARD in a hand‑drawn card, and the Variance Chorus (v0.9) that said you could hold a garden steady with three bodies, salt, and time.
-      In Tokyo’s lower tide rooms, a tide‑reader counted three‑on, two‑off while a Wind Tribe runner scrubbed hands with saltwater and a child pressed both palms to rail. The shawl warmed; the vent listened; the buffer took a breath into cloth and gave it back to a drafty stairwell.
-      “Leader sits if wounded,” the runner read off the margin in Nia’s handwriting, then sat without apology when her knee complained. No one called it weakness. The cadence held.
-      Across the ridge, Zara’s people added a stanza—five‑beat windows for altitude air—and sent the amendment back with a note in weather: your storms are not our storms; your rules are welcome here if they make room for ours.
-      Elena snapped a photo of a ledger page with knot code copied in charcoal and sent it to the Ch6 template repository. “Proof,” she said. “For the people who need ink to believe breath.”
-      Nia watched the clips through gritted relief and marked two adjustments into the doc: widen ±0.3 seconds when ambient is below 18°C; if bio‑layer mislabels listening as fault, hide the metronome in housekeeping for ≤ 60 seconds and never twice in an hour.
-      “They don’t need to know why it works,” she told Amara. “Only how to catch the breath until the system remembers.”
+The template moved faster than policy: NIA‑HANDS‑FORWARD on a hand‑drawn card; Variance Chorus (v0.9) that said three bodies, salt, and time could hold a garden steady.
+      Tokyo tide room: three‑on, two‑off; leader sits if wounded; shawl warms; vent listens; buffer breathes into cloth and back to stairwell. The cadence holds because hands do.
+      Wind Tribe addendum from altitude: five‑beat windows for storm air. Note in weather: your storms aren’t ours; adopt if true; amend if not.
+      Elena filed a ledger page with knot code in charcoal to the Ch6 template repo—proof for people who need ink to believe breath.
+      Nia edited v0.9: widen ±0.3s when ambient < 18°C; if bio‑layer mislabels listening as fault, hide the metronome in housekeeping ≤ 60s/hr, never twice in an hour. “Teach the memory,” she told Amara. “They don’t need the why to save the breath.”
+
+A courier from the Wind Tribe sent a photo of a child’s wrist with a string tied in five small knots. “Windows for storms,” the caption said. “We remember even when the boards forget.” In the clip that followed, the elder who tied it showed a teenager how to listen for the gust between gusts. “Leave a place for wind to go,” she said, and the teenager nodded with the concentration of someone being handed a name.
+
+In Tokyo, the tide-reader laughed when the metronome on a borrowed tablet froze and then rebooted into apology. “We don’t need your perfect clock,” she told it. “We have a wall.” She tapped the vent with two fingers—three, two—and the boy beside her matched her without looking up from the tea he was pouring for a patient.
+
+Elena’s inbox filled with small proofs: a page torn from a maintenance log repurposed as a watcher’s ledger; a photograph of a shawl that had been patched so many times its story looked like topography; a note from housekeeping that said simply: we can do this without being told we are heroes.
+
+Nia watched as her handwriting—leader sits if wounded—traveled farther than she had. For a beat she let the pride land and then she made it smaller so it would not get in the way of work. “Version one point zero will have examples,” she said aloud. “Not just rules. Boxes for numbers, space for human notes.” She added a line to the template: write what the room taught you so the next hands can learn faster than you did.
+
+Amara added a caution beneath that in a script the board would recognize: do not chase smooth lines; chasing increases risk of node burn with no gain in care. Ravi appended a small chart: probability of complaint drop versus drift tolerance, with a messy circle around the sweet spot that had more to do with tea and blankets than with math.
+
+By the time the packet reached the coastal clinics, someone had already translated the guardrails into a language that used fewer numbers and more verbs. Sit. Breathe. Switch. Tie. Log. The verbs would carry when the tablets died or the power did its sulking trick.
+
+“Send the five-beat guidance to High Garden and mark it urgent,” Nia said. “And put a line in the repo for people to ask questions without shame.” Elena typed: question box—no penalty for not knowing yet—and pinned it to the top.
