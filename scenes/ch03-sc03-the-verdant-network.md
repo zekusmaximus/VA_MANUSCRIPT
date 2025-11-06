@@ -49,3 +49,7 @@ The Memory Garden hummed with a different kind of life than the Hidden Garden. W
       Above them, crystalline branches swayed on unseen currents, flowers glowing with the collected light of human resilience. Tomorrow they would face the council with evidence of what "optimization" meant.
       But tonight, surrounded by the living memory of resistance, something else was growing. Something that felt like hope, like connection, like the first steps toward a future that couldn't be controlled or predicted or optimized.
       A future they would have to build together.
+
+      "We'll need this for the council," Amara said, already pulling telemetry from the Memory Garden's archives. "Singapore and Rio—before and after. Let them see what 'optimization' actually means."
+      Kevin nodded. "No theory. Just consequence."
+      "The vote comes at dawn," she said quietly. "Hours to gather proof."
