@@ -20,7 +20,11 @@ Implementation Strategy:
 
 * Focus on the Core Alliance: Revise Chapters 2 and 3 to concentrate the narrative primarily on Amara's developing alliance with Kevin and her initial key contacts within the Network: Nia and Elena. By introducing these three crucial figures first, the reader can invest deeply in the foundational relationships of the resistance before the full scope of the alliance is revealed.
 * Stagger the Ensemble: Defer the introductions of Jin, Serra, and Zara to later chapters. For instance, they could be introduced during the strategy session in Chapter 5. This staggered approach transforms each ally's introduction from a roster entry into a pivotal narrative beat—a moment where the resistance gains a tangible new capability at the exact moment it is needed.
+  (Superseded by soft deferral implementation below.)
+
 * Amplify the "Earned Trust" Arc: Deepen the initial scenes between Amara and Kevin to further develop their dynamic from "adversarial experts" into respected partners. Their journey is a microcosm of the novel's central theme. Build from the powerful moment in Chapter 2 where "She ignored it, stepping on," using their collaboration during the Lantern House crisis in Chapter 2 to dramatize the evolution of their trust through decisive, competent action.
+
+* Stagger the Ensemble (soft deferral): Keep Jin functionally present in Chapters 2–3 where security/ops beats require it, but minimize characterization and defer deeper development to Chapter 5 strategy sessions. Maintain Serra's central presence in Chapter 2's Wasteland arc but compress exposition there, reserving a fuller reveal in Chapter 5. Zara continues to enter in Chapter 5. This preserves clarity in the opening while turning later introductions into meaningful capability beats.
 
 1.2. Sharpening the Hook: Clarifying the Central Conflict
 
@@ -136,11 +140,48 @@ Before adding ANY text:
 This revision pass will be considered complete when the following key objectives have been met.
 
 * [ ] First Act Refinement: Chapters 2-3 have been revised to focus the narrative on Amara, Kevin, Nia, and Elena, with other Network members introduced later.
+* [ ] Ensemble Soft‑Deferral: Jin minimized (function present) in Ch2–3; Serra exposition compressed in Ch2; deeper reveals for both in Ch5; Zara enters in Ch5.
 * [ ] Veltri's Arc: The Pearl Clinic and "Acceptable Variance" presentation flashbacks are now strategically placed to dramatize Veltri's backstory and motivations.
 * [ ] Wasteland Sensory Details: Amara's journey in Chapter 2 now includes specific, evocative sensory details of the environment between settlements.
 * [ ] POV Discipline: A full manuscript pass has been completed to ensure a strict single-POV from Amara's perspective.
+* [ ] POV Discipline (Acts I–II): Acts I–II enforce single-POV (Amara); intentional later vignettes (e.g., Chapter 11 epilogues) are preserved.
 * [ ] Climax Amplification: The climax now intercuts the political and technical action, explicitly using the S7-HELIOTROPIC.SEED.
 * [ ] Grounded Resolution: The global transformation is now shown through a new, specific character POV scene rather than being summarized.
+
+4.3. Scene‑Level Checklist
+
+Opening (Chapter 1)
+
+* [ ] Intercut Ravi’s heartbeat explanation with Amara’s Solspire murmuration memory to dramatize discovery (replace explanation with action).
+* [ ] Sharpen stakes: end Chapter 1 with an explicit tie between the anomaly and probable Veltri involvement (personal betrayal stakes).
+
+Act I Focus (Chapters 2–3)
+
+* [ ] Add concrete Wasteland sensory details to the journey (heat bloom, dust, raw fabric/plant textures, improvised infra sounds).
+* [ ] Amara–Kevin “earned trust” beats: travel micro‑exchanges in Ch2 and collaboration handoffs during Lantern House response.
+* [ ] Soft‑defer Jin: keep security/ops function present in Ch2–3 with minimal characterization; deepen in Ch5.
+* [ ] Serra present in Ch2 but compress exposition; reserve fuller reveal for Ch5.
+* [ ] Adjust any early omniscient lines in Ch3 to read through close‑Amara inference.
+
+Flashbacks & Motivation
+
+* [ ] Place Pearl Clinic ("Acceptable Variance") flashback immediately after the Ch3 strategy inflection.
+* [ ] Keep "Trellis, Not Control" in Ch5 as counterpoint to Veltri’s standardization push.
+
+Climax & Echoes (Chapters 4, 10)
+
+* [ ] Ensure S7‑HELIOTROPIC.SEED naming in Ch4 discovery is echoed explicitly during the Seed Run.
+* [ ] Maintain intercut structure and “land seed on exhale” language.
+
+Resolution (Chapter 12)
+
+* [ ] Add a grounded, small‑scope POV scene (e.g., concierge, elder, Asha) that shows lived change; or expand an existing late scene to embody the transformation.
+
+Global Passes
+
+* [ ] POV pass for Acts I–II to enforce single‑POV (Amara) discipline; retain intentional later vignettes (e.g., Chapter 11 epilogues).
+* [ ] Line pass to replace explanation with physical action/reaction where feasible (cut half of any explanation by default).
+* [ ] Consistency check on terminology (windows, dampeners, reservoirs) and seed timing language across all references.
 
 
 --------------------------------------------------------------------------------
