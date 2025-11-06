@@ -37,11 +37,21 @@ Pilo ran the closet-clamp drill with a tourist's enthusiasm and a technician's p
 
 The janitor reached into the closet like someone rescuing a stubborn cat and flicked the unit off with two fingers. Laughter. Then he set the sticker they had printed earlier across the front: CLOSET CLAMP. A child drew a skull next to it with great dignity.
 
-Kwan arrived halfway through with a folder and a pen that looked heavy. He stayed at the back. When Elena finished the stipend section, he stepped forward without performance.
+Kwan arrived halfway through with a folder and a pen that looked heavy. He stayed at the back, arms crossed, watching the concierge teach a janitor how to read drift in the rail's temperature. He'd seen these people a hundred times—passing in corridors, invisible in their work clothes, doing the jobs that made buildings function while people like him wrote policies about efficiency without ever asking who was efficient or what efficiency cost. When Elena finished the stipend section, he stepped forward without performance, without the armor of formality he usually wore to rooms like this.
 
-"Stipends are lines in a budget, not favors," he said, placing the forms on a table instead of holding them like a bribe. "Watchers are an operational role. We pay vendors for filters and we will pay you for listening."
+"Stipends are lines in a budget, not favors," he said, placing the forms on a table instead of holding them like a bribe or a gift. His voice was steadier than his hands. "Watchers are an operational role. We pay vendors for filters and we will pay you for listening. Backdated to the start of the pilot. With annual review for adjustment."
 
-They practiced the paperwork like they practiced cadence. Name, shift, location, knot code literacy (Y/N), hours under window. The concierge wrote slowly as if writing on behalf of every concierge who had ever had to ask if her work counted.
+The room went quiet in a way that felt like held breath. The janitor's pencil stopped moving. The concierge's face did something complicated—not quite tears, but close, like someone who'd been told for thirty years that her observations were anecdotes and now someone with a budget line was saying they were data.
+
+"How much?" someone asked from the doorway, voice careful, like asking might make the offer disappear.
+
+Kwan named a figure. It wasn't generous. It was fair. Which, for people who'd been working unpaid or underpaid for years, felt revolutionary.
+
+"For how many hours?" the concierge asked, and her hand hovered over the form as if touching it might make it real or might make it vanish, she wasn't sure which.
+
+"For however many you work," Kwan said. "Logged honestly. We're not asking you to perform efficiency. We're asking you to pay attention and to tell the truth about what you notice. That's work. We pay for work."
+
+They practiced the paperwork like they practiced cadence, but slower, with more weight. Name, shift, location, knot code literacy (Y/N), hours under window. The concierge wrote slowly, pen pressing hard enough to indent the paper, as if writing on behalf of every concierge who had ever had to ask if her work counted, every janitor who'd noticed something wrong and been told to stop noticing and just clean, every person who'd been invisible while keeping visible things running.
 
 "What if it goes wrong?" someone asked from the doorway. Housekeeping, voice steady.
 
