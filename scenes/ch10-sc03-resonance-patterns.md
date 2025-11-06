@@ -18,11 +18,15 @@ The wind corridor braided three settlements into one story. Zara’s beacons mar
       "We’re close," Kevin said, easing the glider down to an altitude that made clouds look like lakes. "High Garden’s codes will carry. If we hit Solace air, we’ll feel it in the teeth."
       Amara checked her overlay. The corridor’s vents carried memory of five storms—tuned yesterday in a bowl that had taught her to widen windows without apology. Luminara’s pilots pulsed in the periphery like constellations learning to talk.
 
-They felt Solace air one ridge later.
-      The glider’s skin picked up a frequency that wasn’t wind. Control tone. Clean, precise, offended by surprise. Kevin banked into a slip that put them behind a rock tooth and let them look without announcing their eyes.
-      Below, a Solace task force perched on a plateau cut into the corridor’s side. Drones moved in formation around a mobile mast; engineers worked under a tarp with the posture of people who trusted protocols to be their ethics. A banner on the mast read S‑SEC: STABILITY ENFORCEMENT. The name told Amara everything she needed.
-      "Forced baseline," she said. "They’re going to lock the corridor flat and call it safety."
-      "Three settlements rely on this vent chain," Kevin said. "Hawkline, Tenebra’s high decks, and Marrow’s south blocks. If they drop windows here, the pilots downstream will suffocate."
+They felt Solace air one ridge later—not with instruments first, but with their bodies. The change was subtle but unmistakable, like walking from a room where people were breathing naturally into one where everyone was holding their breath and calling it discipline.
+
+The glider's skin picked up a frequency that wasn't wind. Control tone. Clean, precise, offended by surprise. The kind of signal that expected obedience and interpreted anything else as malfunction. Kevin banked into a slip that put them behind a rock tooth and let them look without announcing their eyes.
+
+Below, a Solace task force perched on a plateau cut into the corridor's side like a surgical incision. Drones moved in formation around a mobile mast, their synchronized patterns making mockery of how birds actually flew. Engineers worked under a tarp with the posture of people who trusted protocols to be their ethics, who believed that following procedures absolved them of having to think about consequences. A banner on the mast read S‑SEC: STABILITY ENFORCEMENT. The name told Amara everything she needed—security and enforcement, but no mention of care.
+
+"Forced baseline," she said, her voice tight with the kind of anger that comes from watching something you love about to be harmed. "They're going to lock the corridor flat and call it safety."
+
+"Three settlements rely on this vent chain," Kevin said, and his calm made the stakes feel heavier, not lighter. "Hawkline, Tenebra's high decks, and Marrow's south blocks. If they drop windows here, the pilots downstream will suffocate. Not dramatically. Just slowly. Children sweating through shawls, thinking it's their fault for being warm."
 
 They chose to descend, not to hide.
       The glider set down on a ledge as if a hand had placed it there. Kevin raised his palms; Amara kept hers at her sides. She could make words do nothing here. She could let action speak and make words follow.
@@ -33,10 +37,13 @@ They chose to descend, not to hide.
       "You mean before they grow," Amara said.
       The field lead’s smile did not reach her eyes. "We mean before people die." She looked over Amara’s shoulder, not at Kevin, but at the corridor, as if the air itself were an insubordinate employee. "Proceed," she told her team.
 
-The mast sang. The sound was too high for ears, too low for charts. Amara felt it as pressure on her teeth. The corridor’s vents stiffened like an animal trained not to flinch.
-      "They’re applying a metronome," Kevin said. Anger sounded strange coming from him. Like weather boiling. "They want the path to forget it ever knew wind."
-      "Count the breath," Amara said into the narrow band. "Three on, two off. Hold the window; land on the exhale."
-      "Open a window," Amara told the corridor softly. "Just enough to remember you have lungs."
+The mast sang. The sound was too high for ears, too low for charts—subsonic pressure that you felt in your skeleton before your brain registered it as sound. Amara felt it as pressure on her teeth, her jawbone conducting frequencies meant to command infrastructure, not negotiate with it. The corridor's vents stiffened like an animal trained not to flinch, like something that had learned the hard way that resistance brought punishment.
+
+"They're applying a metronome," Kevin said. Anger sounded strange coming from him—he who could find patience in stones. Like weather boiling. Like the moment before lightning. "They want the path to forget it ever knew wind."
+
+Amara felt the wrongness of it in her chest, the way you feel a note played sour in music you love. This was her work being perverted, turned from an instrument of care into a weapon of control. "Count the breath," she said into the narrow band that connected her to every watcher who'd learned to listen. "Three on, two off. Hold the window; land on the exhale."
+
+Then, softer, to the infrastructure itself, to the vents and buffers and cloth that had learned to carry memory: "Open a window. Just enough to remember you have lungs."
 
 The first shove hit like a polite hand on a sternum. The vents began to correct. Amara shifted the catch‑breath phase she’d learned at High Garden and widened it by a half‑beat for this altitude. The buffer took a sliver of heat from a cliff face warmed by morning sun and tucked it into cloth strung along the rail. Someone in Tenebra would feel a draft soften a degree. Someone in Marrow would not wake a baby.
       The Solace monitors recorded a minor deviation and labeled it noise. Then they tried again.
