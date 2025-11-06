@@ -44,3 +44,4 @@ The transport pod rode thermal currents like a seed on the wind, its biomimetic 
       Above them, the storm front rolled in, and the Wind Tribes' city danced with it, each movement generating power, each adaptation creating new possibilities. Corporate drones scattered before the weather they couldn't predict, couldn't mimic, couldn't control.
       Through the living walls, through the winds and clouds and rain, Amara felt something larger than resistance taking shape. Something that couldn't be fought because it couldn't be fixed in place long enough to fight. Something that changed with every breeze, grew with every storm, evolved with every moment.
       Something free.
+      Before dawn, before the vote, they would need this data—and the storm-taught wisdom the algorithms could never predict.
